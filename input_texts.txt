@@ -1,0 +1,15 @@
+Quantum entanglement is a physical phenomenon that occurs when pairs of particles interact.
+Albert Einstein and Niels Bohr debated the foundations of quantum mechanics at the Solvay Conference in 1927.
+The Heisenberg uncertainty principle states that position and momentum cannot be simultaneously measured with arbitrary precision.
+Erwin Schrödinger proposed a thought experiment involving a cat that is simultaneously alive and dead until observed.
+Richard Feynman developed the path integral formulation of quantum mechanics at Cornell University.
+Quantum superposition allows particles to exist in multiple states simultaneously until a measurement collapses the wave function.
+The double-slit experiment demonstrates wave-particle duality, a fundamental concept in quantum physics.
+Bell's theorem, proposed by John Stewart Bell in 1964, proves that quantum mechanics is incompatible with local hidden variable theories.
+Quantum decoherence explains how quantum systems lose their coherence through interaction with the environment.
+The Copenhagen interpretation, developed by Niels Bohr and Werner Heisenberg, remains the most widely taught interpretation of quantum mechanics.
+Quantum tunneling enables particles to pass through potential barriers that would be insurmountable in classical physics.
+Paul Dirac unified quantum mechanics and special relativity to create quantum electrodynamics.
+The spin of an electron was discovered by George Uhlenbeck and Samuel Goudsmit in 1925.
+Quantum computing uses qubits, which can represent both 0 and 1 simultaneously through superposition.
+Max Planck introduced the concept of energy quanta in 1900, marking the birth of quantum theory.

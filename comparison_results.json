@@ -1,0 +1,1147 @@
+{
+  "timestamp": "2026-02-02T10:26:44.296151",
+  "input_file": "input_texts.txt",
+  "models": [
+    "Babelscape/rebel-large",
+    "konsman/rebel-quantum-mixed"
+  ],
+  "summary": {
+    "total_texts": 15,
+    "texts_with_differences": 12,
+    "texts_identical": 3,
+    "difference_indices": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "differences": [
+    {
+      "text_index": 3,
+      "text": "The Heisenberg uncertainty principle states that position and momentum cannot be simultaneously measured with arbitrary precision.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Heisenberg uncertainty principle",
+            "type": "facet of",
+            "tail": "position"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "momentum",
+            "type": "is described by",
+            "tail": "uncertainty principle"
+          },
+          {
+            "head": "position",
+            "type": "is described by",
+            "tail": "uncertainty principle"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 4,
+      "text": "Erwin Schr\u00f6dinger proposed a thought experiment involving a cat that is simultaneously alive and dead until observed.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Erwin Schr\u00f6dinger",
+            "type": "field of work",
+            "tail": "thought experiment"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "Erwin Schr\u00f6dinger",
+            "type": "proposed",
+            "tail": "thought experiment"
+          },
+          {
+            "head": "cat",
+            "type": "has_property",
+            "tail": "alive and dead until observed"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 6,
+      "text": "Quantum superposition allows particles to exist in multiple states simultaneously until a measurement collapses the wave function.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "wave function",
+            "type": "studied by",
+            "tail": "measurement"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "particles",
+            "type": "exhibits",
+            "tail": "quantum superposition"
+          },
+          {
+            "head": "quantum superposition",
+            "type": "results_in",
+            "tail": "multiple states simultaneously"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 7,
+      "text": "The double-slit experiment demonstrates wave-particle duality, a fundamental concept in quantum physics.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "wave-particle duality",
+            "type": "studied by",
+            "tail": "quantum physics"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "wave-particle duality",
+            "type": "fundamental concept",
+            "tail": "quantum physics"
+          },
+          {
+            "head": "double-slit experiment",
+            "type": "exhibits",
+            "tail": "wave-particle duality"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 8,
+      "text": "Bell's theorem, proposed by John Stewart Bell in 1964, proves that quantum mechanics is incompatible with local hidden variable theories.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Bell's theorem",
+            "type": "named after",
+            "tail": "John Stewart Bell"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "Bell's theorem",
+            "type": "discoverer or inventor",
+            "tail": "John Stewart Bell"
+          },
+          {
+            "head": "quantum mechanics",
+            "type": "incompatible_with",
+            "tail": "local hidden variable theories"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 9,
+      "text": "Quantum decoherence explains how quantum systems lose their coherence through interaction with the environment.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Quantum decoherence",
+            "type": "facet of",
+            "tail": "quantum system"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "quantum systems",
+            "type": "has_property",
+            "tail": "loss of coherence"
+          },
+          {
+            "head": "interaction with the environment",
+            "type": "causes",
+            "tail": "loss of coherence"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 10,
+      "text": "The Copenhagen interpretation, developed by Niels Bohr and Werner Heisenberg, remains the most widely taught interpretation of quantum mechanics.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Copenhagen interpretation",
+            "type": "creator",
+            "tail": "Niels Bohr"
+          },
+          {
+            "head": "Copenhagen interpretation",
+            "type": "creator",
+            "tail": "Werner Heisenberg"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "Copenhagen interpretation",
+            "type": "discoverer or inventor",
+            "tail": "Niels Bohr"
+          },
+          {
+            "head": "Copenhagen interpretation",
+            "type": "discoverer or inventor",
+            "tail": "Werner Heisenberg"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 11,
+      "text": "Quantum tunneling enables particles to pass through potential barriers that would be insurmountable in classical physics.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Quantum tunneling",
+            "type": "facet of",
+            "tail": "classical physics"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "Quantum tunneling",
+            "type": "results_in",
+            "tail": "particles to pass through potential barriers"
+          },
+          {
+            "head": "classical physics",
+            "type": "insurmountable",
+            "tail": "barriers"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 12,
+      "text": "Paul Dirac unified quantum mechanics and special relativity to create quantum electrodynamics.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "quantum electrodynamics",
+            "type": "creator",
+            "tail": "Paul Dirac"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "quantum mechanics",
+            "type": "unified_with",
+            "tail": "special relativity"
+          },
+          {
+            "head": "quantum electrodynamics",
+            "type": "defined_by",
+            "tail": "Paul Dirac"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 13,
+      "text": "The spin of an electron was discovered by George Uhlenbeck and Samuel Goudsmit in 1925.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "George Uhlenbeck",
+            "type": "student",
+            "tail": "Samuel Goudsmit"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "spin of an electron",
+            "type": "discoverer or inventor",
+            "tail": "George Uhlenbeck"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 14,
+      "text": "Quantum computing uses qubits, which can represent both 0 and 1 simultaneously through superposition.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "qubit",
+            "type": "use",
+            "tail": "Quantum computing"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "quantum computing",
+            "type": "uses",
+            "tail": "qubits"
+          },
+          {
+            "head": "qubits",
+            "type": "has_property",
+            "tail": "superposition"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 15,
+      "text": "Max Planck introduced the concept of energy quanta in 1900, marking the birth of quantum theory.",
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "quantum theory",
+            "type": "discoverer or inventor",
+            "tail": "Max Planck"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "energy quanta",
+            "type": "defined_by",
+            "tail": "Max Planck"
+          },
+          {
+            "head": "quantum theory",
+            "type": "inception",
+            "tail": "1900"
+          }
+        ],
+        "common": []
+      }
+    }
+  ],
+  "all_results": [
+    {
+      "text_index": 1,
+      "text": "Quantum entanglement is a physical phenomenon that occurs when pairs of particles interact.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "Quantum entanglement",
+              "type": "instance of",
+              "tail": "physical phenomenon"
+            }
+          ],
+          "raw_output": "<s><triplet> Quantum entanglement <subj> physical phenomenon <obj> instance of</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "Quantum entanglement",
+              "type": "instance of",
+              "tail": "physical phenomenon"
+            }
+          ],
+          "raw_output": "<s><triplet> Quantum entanglement <subj> physical phenomenon <obj> instance of</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": true,
+        "only_in_first": [],
+        "only_in_second": [],
+        "common": [
+          {
+            "head": "Quantum entanglement",
+            "type": "instance of",
+            "tail": "physical phenomenon"
+          }
+        ]
+      }
+    },
+    {
+      "text_index": 2,
+      "text": "Albert Einstein and Niels Bohr debated the foundations of quantum mechanics at the Solvay Conference in 1927.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "Solvay Conference",
+              "type": "point in time",
+              "tail": "1927"
+            }
+          ],
+          "raw_output": "<s><triplet> Solvay Conference <subj> 1927 <obj> point in time</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "Solvay Conference",
+              "type": "point in time",
+              "tail": "1927"
+            }
+          ],
+          "raw_output": "<s><triplet> Solvay Conference <subj> 1927 <obj> point in time</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": true,
+        "only_in_first": [],
+        "only_in_second": [],
+        "common": [
+          {
+            "head": "Solvay Conference",
+            "type": "point in time",
+            "tail": "1927"
+          }
+        ]
+      }
+    },
+    {
+      "text_index": 3,
+      "text": "The Heisenberg uncertainty principle states that position and momentum cannot be simultaneously measured with arbitrary precision.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "Heisenberg uncertainty principle",
+              "type": "facet of",
+              "tail": "position"
+            }
+          ],
+          "raw_output": "<s><triplet> Heisenberg uncertainty principle <subj> position <obj> facet of</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "position",
+              "type": "is described by",
+              "tail": "uncertainty principle"
+            },
+            {
+              "head": "momentum",
+              "type": "is described by",
+              "tail": "uncertainty principle"
+            }
+          ],
+          "raw_output": "<s><triplet> position <subj> uncertainty principle <obj> is described by <triplet> momentum <subj> uncertainty principle <obj> is described by</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Heisenberg uncertainty principle",
+            "type": "facet of",
+            "tail": "position"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "momentum",
+            "type": "is described by",
+            "tail": "uncertainty principle"
+          },
+          {
+            "head": "position",
+            "type": "is described by",
+            "tail": "uncertainty principle"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 4,
+      "text": "Erwin Schr\u00f6dinger proposed a thought experiment involving a cat that is simultaneously alive and dead until observed.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "Erwin Schr\u00f6dinger",
+              "type": "field of work",
+              "tail": "thought experiment"
+            }
+          ],
+          "raw_output": "<s><triplet> Erwin Schr\u00f6dinger <subj> thought experiment <obj> field of work</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "Erwin Schr\u00f6dinger",
+              "type": "proposed",
+              "tail": "thought experiment"
+            },
+            {
+              "head": "cat",
+              "type": "has_property",
+              "tail": "alive and dead until observed"
+            }
+          ],
+          "raw_output": "<s><triplet> Erwin Schr\u00f6dinger <subj> thought experiment <obj> proposed <triplet> cat <subj> alive and dead until observed <obj> has_property</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Erwin Schr\u00f6dinger",
+            "type": "field of work",
+            "tail": "thought experiment"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "Erwin Schr\u00f6dinger",
+            "type": "proposed",
+            "tail": "thought experiment"
+          },
+          {
+            "head": "cat",
+            "type": "has_property",
+            "tail": "alive and dead until observed"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 5,
+      "text": "Richard Feynman developed the path integral formulation of quantum mechanics at Cornell University.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "Richard Feynman",
+              "type": "educated at",
+              "tail": "Cornell University"
+            }
+          ],
+          "raw_output": "<s><triplet> Richard Feynman <subj> Cornell University <obj> educated at</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "Richard Feynman",
+              "type": "educated at",
+              "tail": "Cornell University"
+            }
+          ],
+          "raw_output": "<s><triplet> Richard Feynman <subj> Cornell University <obj> educated at</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": true,
+        "only_in_first": [],
+        "only_in_second": [],
+        "common": [
+          {
+            "head": "Richard Feynman",
+            "type": "educated at",
+            "tail": "Cornell University"
+          }
+        ]
+      }
+    },
+    {
+      "text_index": 6,
+      "text": "Quantum superposition allows particles to exist in multiple states simultaneously until a measurement collapses the wave function.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "wave function",
+              "type": "studied by",
+              "tail": "measurement"
+            }
+          ],
+          "raw_output": "<s><triplet> wave function <subj> measurement <obj> studied by</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "quantum superposition",
+              "type": "results_in",
+              "tail": "multiple states simultaneously"
+            },
+            {
+              "head": "particles",
+              "type": "exhibits",
+              "tail": "quantum superposition"
+            }
+          ],
+          "raw_output": "<s><triplet> quantum superposition <subj> multiple states simultaneously <obj> results_in <triplet> particles <subj> quantum superposition <obj> exhibits</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "wave function",
+            "type": "studied by",
+            "tail": "measurement"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "particles",
+            "type": "exhibits",
+            "tail": "quantum superposition"
+          },
+          {
+            "head": "quantum superposition",
+            "type": "results_in",
+            "tail": "multiple states simultaneously"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 7,
+      "text": "The double-slit experiment demonstrates wave-particle duality, a fundamental concept in quantum physics.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "wave-particle duality",
+              "type": "studied by",
+              "tail": "quantum physics"
+            }
+          ],
+          "raw_output": "<s><triplet> wave-particle duality <subj> quantum physics <obj> studied by</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "double-slit experiment",
+              "type": "exhibits",
+              "tail": "wave-particle duality"
+            },
+            {
+              "head": "wave-particle duality",
+              "type": "fundamental concept",
+              "tail": "quantum physics"
+            }
+          ],
+          "raw_output": "<s><triplet> double-slit experiment <subj> wave-particle duality <obj> exhibits <triplet> wave-particle duality <subj> quantum physics <obj> fundamental concept</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "wave-particle duality",
+            "type": "studied by",
+            "tail": "quantum physics"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "wave-particle duality",
+            "type": "fundamental concept",
+            "tail": "quantum physics"
+          },
+          {
+            "head": "double-slit experiment",
+            "type": "exhibits",
+            "tail": "wave-particle duality"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 8,
+      "text": "Bell's theorem, proposed by John Stewart Bell in 1964, proves that quantum mechanics is incompatible with local hidden variable theories.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "Bell's theorem",
+              "type": "named after",
+              "tail": "John Stewart Bell"
+            }
+          ],
+          "raw_output": "<s><triplet> Bell's theorem <subj> John Stewart Bell <obj> named after</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "Bell's theorem",
+              "type": "discoverer or inventor",
+              "tail": "John Stewart Bell"
+            },
+            {
+              "head": "quantum mechanics",
+              "type": "incompatible_with",
+              "tail": "local hidden variable theories"
+            }
+          ],
+          "raw_output": "<s><triplet> Bell's theorem <subj> John Stewart Bell <obj> discoverer or inventor <triplet> quantum mechanics <subj> local hidden variable theories <obj> incompatible_with</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Bell's theorem",
+            "type": "named after",
+            "tail": "John Stewart Bell"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "Bell's theorem",
+            "type": "discoverer or inventor",
+            "tail": "John Stewart Bell"
+          },
+          {
+            "head": "quantum mechanics",
+            "type": "incompatible_with",
+            "tail": "local hidden variable theories"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 9,
+      "text": "Quantum decoherence explains how quantum systems lose their coherence through interaction with the environment.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "Quantum decoherence",
+              "type": "facet of",
+              "tail": "quantum system"
+            }
+          ],
+          "raw_output": "<s><triplet> Quantum decoherence <subj> quantum system <obj> facet of</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "quantum systems",
+              "type": "has_property",
+              "tail": "loss of coherence"
+            },
+            {
+              "head": "interaction with the environment",
+              "type": "causes",
+              "tail": "loss of coherence"
+            }
+          ],
+          "raw_output": "<s><triplet> quantum systems <subj> loss of coherence <obj> has_property <triplet> interaction with the environment <subj> loss of coherence <obj> causes</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Quantum decoherence",
+            "type": "facet of",
+            "tail": "quantum system"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "quantum systems",
+            "type": "has_property",
+            "tail": "loss of coherence"
+          },
+          {
+            "head": "interaction with the environment",
+            "type": "causes",
+            "tail": "loss of coherence"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 10,
+      "text": "The Copenhagen interpretation, developed by Niels Bohr and Werner Heisenberg, remains the most widely taught interpretation of quantum mechanics.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "Copenhagen interpretation",
+              "type": "creator",
+              "tail": "Niels Bohr"
+            },
+            {
+              "head": "Copenhagen interpretation",
+              "type": "creator",
+              "tail": "Werner Heisenberg"
+            }
+          ],
+          "raw_output": "<s><triplet> Copenhagen interpretation <subj> Niels Bohr <obj> creator <subj> Werner Heisenberg <obj> creator</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "Copenhagen interpretation",
+              "type": "discoverer or inventor",
+              "tail": "Niels Bohr"
+            },
+            {
+              "head": "Copenhagen interpretation",
+              "type": "discoverer or inventor",
+              "tail": "Werner Heisenberg"
+            }
+          ],
+          "raw_output": "<s><triplet> Copenhagen interpretation <subj> Niels Bohr <obj> discoverer or inventor <triplet> Copenhagen interpretation <subj> Werner Heisenberg <obj> discoverer or inventor</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Copenhagen interpretation",
+            "type": "creator",
+            "tail": "Niels Bohr"
+          },
+          {
+            "head": "Copenhagen interpretation",
+            "type": "creator",
+            "tail": "Werner Heisenberg"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "Copenhagen interpretation",
+            "type": "discoverer or inventor",
+            "tail": "Niels Bohr"
+          },
+          {
+            "head": "Copenhagen interpretation",
+            "type": "discoverer or inventor",
+            "tail": "Werner Heisenberg"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 11,
+      "text": "Quantum tunneling enables particles to pass through potential barriers that would be insurmountable in classical physics.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "Quantum tunneling",
+              "type": "facet of",
+              "tail": "classical physics"
+            }
+          ],
+          "raw_output": "<s><triplet> Quantum tunneling <subj> classical physics <obj> facet of</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "Quantum tunneling",
+              "type": "results_in",
+              "tail": "particles to pass through potential barriers"
+            },
+            {
+              "head": "classical physics",
+              "type": "insurmountable",
+              "tail": "barriers"
+            }
+          ],
+          "raw_output": "<s><triplet> Quantum tunneling <subj> particles to pass through potential barriers <obj> results_in <triplet> classical physics <subj> barriers <obj> insurmountable</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "Quantum tunneling",
+            "type": "facet of",
+            "tail": "classical physics"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "Quantum tunneling",
+            "type": "results_in",
+            "tail": "particles to pass through potential barriers"
+          },
+          {
+            "head": "classical physics",
+            "type": "insurmountable",
+            "tail": "barriers"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 12,
+      "text": "Paul Dirac unified quantum mechanics and special relativity to create quantum electrodynamics.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "quantum electrodynamics",
+              "type": "creator",
+              "tail": "Paul Dirac"
+            }
+          ],
+          "raw_output": "<s><triplet> quantum electrodynamics <subj> Paul Dirac <obj> creator</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "quantum electrodynamics",
+              "type": "defined_by",
+              "tail": "Paul Dirac"
+            },
+            {
+              "head": "quantum mechanics",
+              "type": "unified_with",
+              "tail": "special relativity"
+            }
+          ],
+          "raw_output": "<s><triplet> quantum electrodynamics <subj> Paul Dirac <obj> defined_by <triplet> quantum mechanics <subj> special relativity <obj> unified_with</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "quantum electrodynamics",
+            "type": "creator",
+            "tail": "Paul Dirac"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "quantum mechanics",
+            "type": "unified_with",
+            "tail": "special relativity"
+          },
+          {
+            "head": "quantum electrodynamics",
+            "type": "defined_by",
+            "tail": "Paul Dirac"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 13,
+      "text": "The spin of an electron was discovered by George Uhlenbeck and Samuel Goudsmit in 1925.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "George Uhlenbeck",
+              "type": "student",
+              "tail": "Samuel Goudsmit"
+            }
+          ],
+          "raw_output": "<s><triplet> George Uhlenbeck <subj> Samuel Goudsmit <obj> student</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "spin of an electron",
+              "type": "discoverer or inventor",
+              "tail": "George Uhlenbeck"
+            }
+          ],
+          "raw_output": "<s><triplet> spin of an electron <subj> George Uhlenbeck <obj> discoverer or inventor</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "George Uhlenbeck",
+            "type": "student",
+            "tail": "Samuel Goudsmit"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "spin of an electron",
+            "type": "discoverer or inventor",
+            "tail": "George Uhlenbeck"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 14,
+      "text": "Quantum computing uses qubits, which can represent both 0 and 1 simultaneously through superposition.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "qubit",
+              "type": "use",
+              "tail": "Quantum computing"
+            }
+          ],
+          "raw_output": "<s><triplet> qubit <subj> Quantum computing <obj> use</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "qubits",
+              "type": "has_property",
+              "tail": "superposition"
+            },
+            {
+              "head": "quantum computing",
+              "type": "uses",
+              "tail": "qubits"
+            }
+          ],
+          "raw_output": "<s><triplet> qubits <subj> superposition <obj> has_property <triplet> quantum computing <subj> qubits <obj> uses</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "qubit",
+            "type": "use",
+            "tail": "Quantum computing"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "quantum computing",
+            "type": "uses",
+            "tail": "qubits"
+          },
+          {
+            "head": "qubits",
+            "type": "has_property",
+            "tail": "superposition"
+          }
+        ],
+        "common": []
+      }
+    },
+    {
+      "text_index": 15,
+      "text": "Max Planck introduced the concept of energy quanta in 1900, marking the birth of quantum theory.",
+      "model_results": {
+        "Babelscape/rebel-large": {
+          "triplets": [
+            {
+              "head": "quantum theory",
+              "type": "discoverer or inventor",
+              "tail": "Max Planck"
+            }
+          ],
+          "raw_output": "<s><triplet> quantum theory <subj> Max Planck <obj> discoverer or inventor</s>",
+          "error": null
+        },
+        "konsman/rebel-quantum-mixed": {
+          "triplets": [
+            {
+              "head": "energy quanta",
+              "type": "defined_by",
+              "tail": "Max Planck"
+            },
+            {
+              "head": "quantum theory",
+              "type": "inception",
+              "tail": "1900"
+            }
+          ],
+          "raw_output": "<s><triplet> energy quanta <subj> Max Planck <obj> defined_by <triplet> quantum theory <subj> 1900 <obj> inception</s>",
+          "error": null
+        }
+      },
+      "comparison": {
+        "identical": false,
+        "only_in_first": [
+          {
+            "head": "quantum theory",
+            "type": "discoverer or inventor",
+            "tail": "Max Planck"
+          }
+        ],
+        "only_in_second": [
+          {
+            "head": "energy quanta",
+            "type": "defined_by",
+            "tail": "Max Planck"
+          },
+          {
+            "head": "quantum theory",
+            "type": "inception",
+            "tail": "1900"
+          }
+        ],
+        "common": []
+      }
+    }
+  ]
+}
