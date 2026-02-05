@@ -5,6 +5,10 @@ models:
   - "Babelscape/rebel-large"
   - "konsman/rebel-quantum-mixed"
 
+# Device settings
+device:
+  use_gpu: true  # Use GPU if available (CUDA)
+
 # Data settings
 data:
   sample_size: 1000

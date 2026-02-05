@@ -18,6 +18,7 @@ from dotenv import load_dotenv
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from tqdm import tqdm
 import pandas as pd
+import torch
 
 # Load environment variables
 load_dotenv()
@@ -173,14 +174,36 @@ def compare_triplets(triplets1, triplets2):
     }
 
 
-def load_models(model_names):
+def get_device(config):
+    """Determine the device to use based on config and availability."""
+    use_gpu = config.get("device", {}).get("use_gpu", True)
+    
+    if use_gpu and torch.cuda.is_available():
+        device = torch.device("cuda")
+        print(f"Using GPU: {torch.cuda.get_device_name(0)}")
+    elif use_gpu and torch.backends.mps.is_available():
+        device = torch.device("mps")
+        print("Using Apple MPS (Metal Performance Shaders)")
+    else:
+        device = torch.device("cpu")
+        if use_gpu:
+            print("GPU requested but not available, falling back to CPU")
+        else:
+            print("Using CPU")
+    
+    return device
+
+
+def load_models(model_names, device):
     """Load all models and tokenizers upfront."""
     models = {}
     for model_name in model_names:
         print(f"Loading {model_name}...")
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-        models[model_name] = {"tokenizer": tokenizer, "model": model}
+        model = model.to(device)
+        model.eval()  # Set to evaluation mode
+        models[model_name] = {"tokenizer": tokenizer, "model": model, "device": device}
     return models
 
 
@@ -218,6 +241,7 @@ def run_inference_single(model_data, text, max_length=512, gen_kwargs=None):
     """Run inference on a single text chunk with a loaded model."""
     tokenizer = model_data["tokenizer"]
     model = model_data["model"]
+    device = model_data["device"]
     
     inputs = tokenizer(
         text, 
@@ -227,6 +251,9 @@ def run_inference_single(model_data, text, max_length=512, gen_kwargs=None):
         max_length=max_length
     )
     
+    # Move inputs to the same device as the model
+    inputs = {k: v.to(device) for k, v in inputs.items()}
+    
     if gen_kwargs is None:
         gen_kwargs = {
             "max_length": max_length,
@@ -235,11 +262,12 @@ def run_inference_single(model_data, text, max_length=512, gen_kwargs=None):
             "num_return_sequences": 1,
         }
     
-    outputs = model.generate(
-        inputs["input_ids"],
-        attention_mask=inputs["attention_mask"],
-        **gen_kwargs
-    )
+    with torch.no_grad():
+        outputs = model.generate(
+            inputs["input_ids"],
+            attention_mask=inputs["attention_mask"],
+            **gen_kwargs
+        )
     
     raw_output = tokenizer.decode(outputs[0], skip_special_tokens=False)
     triplets = extract_triplets(raw_output)
@@ -500,7 +528,8 @@ def main():
     print("\n" + "=" * 60)
     print("STEP 2: LOADING MODELS")
     print("=" * 60)
-    models = load_models(model_names)
+    device = get_device(config)
+    models = load_models(model_names, device)
     
     # Step 3: Process papers
     print("\n" + "=" * 60)
