@@ -1,0 +1,24 @@
+# REBEL Model Comparison Configuration
+
+# Model settings
+models:
+  - "Babelscape/rebel-large"
+  - "konsman/rebel-quantum-mixed"
+
+# Data settings
+data:
+  sample_size: 1000
+  input_file: "arxiv_input_papers.json"
+  output_json: "arxiv_comparison_results.json"
+  output_xlsx: "arxiv_comparison_results.xlsx"
+
+# Text processing settings
+processing:
+  max_length: 512  # Maximum token length for model input
+  chunk_overlap: 50  # Token overlap between chunks when chunking is needed
+
+# Generation settings
+generation:
+  length_penalty: 0
+  num_beams: 3
+  num_return_sequences: 1
