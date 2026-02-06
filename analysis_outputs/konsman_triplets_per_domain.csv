@@ -1,0 +1,17 @@
+domain,n_papers,total_triplets,avg_triplets,med_triplets,max_triplets
+Computer Science,243,699,2.88,3.0,12
+Mathematics,215,503,2.34,2.0,5
+Astrophysics,114,302,2.65,3.0,7
+Condensed Matter,108,272,2.52,3.0,8
+High Energy Physics,90,254,2.82,3.0,6
+Physics (misc),63,191,3.03,3.0,8
+Quantum Physics,45,135,3.0,3.0,7
+Elec. Eng. & Sys. Sci.,28,97,3.46,3.0,9
+General Relativity,29,92,3.17,3.0,8
+Nuclear Physics,22,57,2.59,3.0,5
+Statistics,20,38,1.9,2.5,5
+Nonlinear Sciences,6,20,3.33,3.0,5
+Economics,5,17,3.4,3.0,4
+Quantitative Biology,6,17,2.83,4.0,5
+Quantitative Finance,3,10,3.33,3.0,4
+Other,3,7,2.33,2.0,3

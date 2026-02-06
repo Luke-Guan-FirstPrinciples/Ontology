@@ -1,0 +1,240 @@
+predicate,count,pct
+is_a,608,22.85
+has_property,585,21.98
+results_in,436,16.38
+part_of,273,10.26
+causes,70,2.63
+uses,58,2.18
+defined_by,49,1.84
+used_by,37,1.39
+exhibits,25,0.94
+measured_by,21,0.79
+describes,21,0.79
+related_to,19,0.71
+described_by,17,0.64
+used_for,15,0.56
+is_defined_by,14,0.53
+interacts_with,13,0.49
+characterized_by,11,0.41
+is_measured_by,10,0.38
+has_evidence,10,0.38
+has_component,9,0.34
+instance_of,9,0.34
+defined_as,8,0.3
+part of,7,0.26
+supports,7,0.26
+applies_to,7,0.26
+predicts,6,0.23
+observed_by,6,0.23
+measures,6,0.23
+based_on,6,0.23
+has property,6,0.23
+country,6,0.23
+influences,5,0.19
+compared_to,5,0.19
+derived_from,5,0.19
+is_part_of,5,0.19
+requires,4,0.15
+has_contribution,4,0.15
+type_of,4,0.15
+enhances,3,0.11
+outperforms,3,0.11
+is_type_of,3,0.11
+instance of,3,0.11
+equivalent_to,3,0.11
+applied_to,3,0.11
+is_evidenced_by,3,0.11
+example_of,3,0.11
+contains administrative territorial entity,3,0.11
+satisfies,3,0.11
+generates,3,0.11
+operator,2,0.08
+violates,2,0.08
+is supported by,2,0.08
+shows,2,0.08
+can_do,2,0.08
+possesses,2,0.08
+has_discovered,2,0.08
+is_related_to,2,0.08
+observed_in,2,0.08
+induces,2,0.08
+is_used_for,2,0.08
+consists_of,2,0.08
+performs,2,0.08
+programming language,2,0.08
+provides_evidence_for,2,0.08
+contains,2,0.08
+proposed_by,2,0.08
+located_at,2,0.08
+is_evidence_for,2,0.08
+affects,2,0.08
+produces,2,0.08
+employs,2,0.08
+predicted_by,2,0.08
+is_described_by,2,0.08
+identified_by,2,0.08
+located_in,2,0.08
+obeys,2,0.08
+observed,2,0.08
+subclass of,2,0.08
+provides,2,0.08
+indicates,2,0.08
+has_subgroup,1,0.04
+quantifies,1,0.04
+introduces,1,0.04
+maximizes,1,0.04
+fixes,1,0.04
+stabilize,1,0.04
+provide,1,0.04
+bent_by,1,0.04
+is_function_of,1,0.04
+can_exist_for,1,0.04
+fails_to_capture,1,0.04
+ubiquitous_in,1,0.04
+used for,1,0.04
+drives,1,0.04
+has_author,1,0.04
+agrees_with,1,0.04
+normalized_by,1,0.04
+has_result,1,0.04
+is_characterized_by,1,0.04
+author,1,0.04
+invested_by,1,0.04
+guarantees,1,0.04
+converges_to,1,0.04
+evaluated_by,1,0.04
+experiences,1,0.04
+developed,1,0.04
+access,1,0.04
+is_formed_by,1,0.04
+is_a <triplet>github,1,0.04
+propagates_through,1,0.04
+distorted_by,1,0.04
+hinders,1,0.04
+studied_by,1,0.04
+injects,1,0.04
+leverages,1,0.04
+compares,1,0.04
+is_coupled_to,1,0.04
+proves,1,0.04
+maintains,1,0.04
+ensures,1,0.04
+hosts,1,0.04
+affected_by,1,0.04
+endowed_with,1,0.04
+resists,1,0.04
+transforms,1,0.04
+location,1,0.04
+governed_by,1,0.04
+acts_on,1,0.04
+is_a <triplet>recommender systems,1,0.04
+uses <triplet>recommender systems,1,0.04
+embeds,1,0.04
+cannot_probe,1,0.04
+proved_by,1,0.04
+is_a <triplet>halpha-emitting regions,1,0.04
+named after,1,0.04
+mechanism,1,0.04
+accumulate,1,0.04
+is_computed_by,1,0.04
+proposes,1,0.04
+enforces,1,0.04
+assigned_to,1,0.04
+extends_to,1,0.04
+decays_after,1,0.04
+expressed_as,1,0.04
+calculated_from,1,0.04
+is_similar_to,1,0.04
+accompanied_by,1,0.04
+developed_by,1,0.04
+calibrates,1,0.04
+introduced,1,0.04
+provided,1,0.04
+bounded_by,1,0.04
+has_problem,1,0.04
+compressed_by,1,0.04
+conducive_to,1,0.04
+is_analogous_to,1,0.04
+matches,1,0.04
+stems_from,1,0.04
+does_not_hold_for,1,0.04
+correlated_with,1,0.04
+solves,1,0.04
+decreases with,1,0.04
+increases_by,1,0.04
+is_isomorphic_to,1,0.04
+transforms_into,1,0.04
+point in time,1,0.04
+endows,1,0.04
+has_limitation,1,0.04
+surpasses,1,0.04
+permuted_by,1,0.04
+classified_by,1,0.04
+plays_role_in,1,0.04
+focus_on,1,0.04
+generate,1,0.04
+powered_by,1,0.04
+provides_robust_tool_for,1,0.04
+is_inapplicable_to,1,0.04
+behaves_as,1,0.04
+proved,1,0.04
+hybridizes,1,0.04
+prevents,1,0.04
+is_stable_for,1,0.04
+proposed,1,0.04
+endemic_to,1,0.04
+exhibit,1,0.04
+exploited_by,1,0.04
+manifests,1,0.04
+has_constraint,1,0.04
+targeted_by,1,0.04
+reports,1,0.04
+chosen_by,1,0.04
+parent organization,1,0.04
+accelerated_by,1,0.04
+reproduces,1,0.04
+changes to,1,0.04
+transported_by,1,0.04
+medical condition treated,1,0.04
+provides evidence for,1,0.04
+used_with,1,0.04
+bound_by,1,0.04
+introduced_by,1,0.04
+emerges_from,1,0.04
+reinterprets,1,0.04
+cannot_be_entangled_by,1,0.04
+mediates,1,0.04
+is_equivalent_to,1,0.04
+results in,1,0.04
+has_effect,1,0.04
+admits,1,0.04
+protects,1,0.04
+based on,1,0.04
+calculated_by,1,0.04
+specified_by,1,0.04
+guaranteed_by,1,0.04
+lacks,1,0.04
+generalized_by,1,0.04
+fails_to,1,0.04
+explained_by,1,0.04
+asserts,1,0.04
+is_composed_of,1,0.04
+is_used_by,1,0.04
+overlooks,1,0.04
+governed by,1,0.04
+involves,1,0.04
+acts_as,1,0.04
+identifies,1,0.04
+addresses,1,0.04
+develops,1,0.04
+serves as,1,0.04
+controlled_by,1,0.04
+is_a <triplet>ographeregression vectors,1,0.04
+is_component_of,1,0.04
+formulated_as,1,0.04
+functions_as,1,0.04
+is_stable_under,1,0.04
+explains,1,0.04
+exposed_to,1,0.04
+cannot_use_for,1,0.04
+coincides_with,1,0.04
