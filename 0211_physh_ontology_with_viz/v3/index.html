@@ -17,11 +17,23 @@
 
 <body>
     <div class="app-container">
+        <!-- ─── Sidebar Toggle (visible when sidebar hidden) ─── -->
+        <button class="sidebar-toggle sidebar-toggle--left hidden" id="showSidebar" onclick="toggleSidebar()" title="Show Filters">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"></polyline></svg>
+        </button>
+
         <!-- ─── Sidebar ─── -->
-        <aside class="sidebar">
+        <aside class="sidebar" id="sidebar">
             <div class="brand">
-                <h1>PhySH <span class="accent">Ontology</span></h1>
-                <p class="subtitle">Concept Relationship Graph</p>
+                <div class="brand-row">
+                    <div>
+                        <h1>PhySH <span class="accent">Ontology</span></h1>
+                        <p class="subtitle">Concept Relationship Graph</p>
+                    </div>
+                    <button class="panel-hide-btn" onclick="toggleSidebar()" title="Hide Filters">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                    </button>
+                </div>
             </div>
 
             <div class="search-container">
@@ -85,25 +97,39 @@
             </div>
         </aside>
 
-        <!-- ─── Main Content: Graph ─── -->
+        <!-- ─── Main Content ─── -->
         <main class="main-content">
-            <div id="loading" class="loading">
-                <div class="spinner"></div>
-                <p style="margin-top: 20px; color: #94a3b8;">Building Ontology Graph...</p>
+            <!-- View Tabs -->
+            <div class="view-tabs">
+                <button class="view-tab active" id="tabGraph" onclick="switchView('graph')">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="6" cy="6" r="3"/><circle cx="18" cy="18" r="3"/><circle cx="18" cy="6" r="3"/><line x1="8.5" y1="7.5" x2="15.5" y2="16.5"/><line x1="15.5" y1="7.5" x2="8.5" y2="16.5"/></svg>
+                    Graph View
+                </button>
+                <button class="view-tab" id="tabTable" onclick="switchView('table')">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="3" y1="15" x2="21" y2="15"/><line x1="9" y1="3" x2="9" y2="21"/></svg>
+                    Table View
+                </button>
             </div>
 
-            <div id="graph"></div>
+            <!-- Graph View -->
+            <div id="graphView">
+                <div id="loading" class="loading">
+                    <div class="spinner"></div>
+                    <p style="margin-top: 20px; color: #94a3b8;">Building Ontology Graph...</p>
+                </div>
 
-            <div class="overlay">
-                <h1>PhySH Ontology</h1>
-                <p>Scroll to zoom, drag to rotate, click nodes for details. Use sidebar filters to explore.</p>
-            </div>
+                <div id="graph"></div>
 
-            <div class="graph-controls">
-                <button class="graph-btn" onclick="resetCamera()">Reset View</button>
-                <button class="graph-btn" onclick="toggleRotation()">Toggle Rotation</button>
-                <button class="graph-btn" onclick="toggleLabels()">Toggle Labels</button>
-            </div>
+                <div class="overlay">
+                    <h1>PhySH Ontology</h1>
+                    <p>Scroll to zoom, drag to rotate, click nodes for details. Use sidebar filters to explore.</p>
+                </div>
+
+                <div class="graph-controls">
+                    <button class="graph-btn" onclick="resetCamera()">Reset View</button>
+                    <button class="graph-btn" onclick="toggleRotation()">Toggle Rotation</button>
+                    <button class="graph-btn" onclick="toggleLabels()">Toggle Labels</button>
+                </div>
 
             <div class="legend">
                 <div class="legend-section">
@@ -115,16 +141,52 @@
                 </div>
                 <div class="legend-section">
                     <h4>Edge Relations</h4>
-                    <div class="legend-item"><span class="line-sample" style="background: #f472b6;"></span> Studies</div>
-                    <div class="legend-item"><span class="line-sample" style="background: #60a5fa;"></span> Exhibits</div>
-                    <div class="legend-item"><span class="line-sample" style="background: #34d399;"></span> Measures</div>
-                    <div class="legend-item"><span class="line-sample" style="background: #fbbf24;"></span> Probes</div>
+                    <div class="legend-item"><span class="line-sample" style="background: #f472b6;"></span> <span class="legend-rel-text"><b>STUDIES</b> <span class="legend-rel-desc">Area &rarr; System</span></span></div>
+                    <div class="legend-item"><span class="line-sample" style="background: #60a5fa;"></span> <span class="legend-rel-text"><b>EXHIBITS</b> <span class="legend-rel-desc">System &rarr; Property</span></span></div>
+                    <div class="legend-item"><span class="line-sample" style="background: #34d399;"></span> <span class="legend-rel-text"><b>MEASURES</b> <span class="legend-rel-desc">Technique &rarr; Property</span></span></div>
+                    <div class="legend-item"><span class="line-sample" style="background: #fbbf24;"></span> <span class="legend-rel-text"><b>PROBES</b> <span class="legend-rel-desc">Technique &rarr; System</span></span></div>
+                </div>
+            </div> <!-- /legend -->
+            </div> <!-- /graphView -->
+
+            <!-- Table View -->
+            <div id="tableView" class="hidden">
+                <div class="table-container">
+                    <div class="table-toolbar">
+                        <div class="table-tabs">
+                            <button class="table-tab active" onclick="switchTableTab('nodes')" id="tableTabNodes">Nodes</button>
+                            <button class="table-tab" onclick="switchTableTab('edges')" id="tableTabEdges">Edges</button>
+                        </div>
+                        <div class="table-search">
+                            <input type="text" id="tableSearchInput" placeholder="Search table..." autocomplete="off">
+                        </div>
+                        <div class="table-info">
+                            <span id="tableCount">0 rows</span>
+                        </div>
+                    </div>
+                    <div class="table-wrapper" id="tableWrapper">
+                        <!-- Table rendered by JS -->
+                    </div>
+                    <div class="table-pagination" id="tablePagination">
+                        <!-- Pagination rendered by JS -->
+                    </div>
                 </div>
             </div>
         </main>
 
+        <!-- ─── Details Panel Toggle (visible when panel hidden) ─── -->
+        <button class="sidebar-toggle sidebar-toggle--right hidden" id="showDetails" onclick="toggleDetails()" title="Show Details">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        </button>
+
         <!-- ─── Details Panel ─── -->
         <aside class="details-panel" id="detailsPanel">
+            <div class="details-panel-header">
+                <span class="details-panel-title">Details</span>
+                <button class="panel-hide-btn" onclick="toggleDetails()" title="Hide Details">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                </button>
+            </div>
             <div class="details-empty-state" id="emptyState">
                 <p>Click a node to view its connections and details</p>
             </div>

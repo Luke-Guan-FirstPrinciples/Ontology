@@ -232,13 +232,29 @@ function updateGraphData() {
 function focusOnNode(node) {
     STATE.selectedId = node.id;
 
-    const dist = 80;
-    const distRatio = 1 + dist / Math.hypot(node.x, node.y, node.z);
+    // Stop auto-rotation while focusing
+    if (Graph.controls()) Graph.controls().autoRotate = false;
+    isRotating = false;
+
+    const dist = 120;
+    // Camera looks at node from a position offset along the camera's current direction
+    const camPos = Graph.cameraPosition();
+    const dx = camPos.x - node.x;
+    const dy = camPos.y - node.y;
+    const dz = camPos.z - node.z;
+    const currentDist = Math.sqrt(dx * dx + dy * dy + dz * dz) || 1;
+
+    // Position camera at fixed distance from node, along the current viewing direction
+    const newPos = {
+        x: node.x + (dx / currentDist) * dist,
+        y: node.y + (dy / currentDist) * dist,
+        z: node.z + (dz / currentDist) * dist,
+    };
 
     Graph.cameraPosition(
-        { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio },
-        node,
-        2000
+        newPos,                         // camera position
+        { x: node.x, y: node.y, z: node.z },  // lookAt: center exactly on the node
+        1500
     );
 
     // Refresh colors to show selection
@@ -516,6 +532,314 @@ window.toggleLabels = () => {
 
 window.navigateToNode = navigateToNode;
 window.showAllConnections = showAllConnections;
+
+/* ─── Sidebar Toggle ─── */
+
+window.toggleSidebar = () => {
+    const sidebar = document.getElementById("sidebar");
+    const showBtn = document.getElementById("showSidebar");
+    if (!sidebar) return;
+    sidebar.classList.toggle("collapsed");
+    showBtn.classList.toggle("hidden", !sidebar.classList.contains("collapsed"));
+    // Resize graph after transition
+    setTimeout(() => { if (Graph) Graph.width(document.getElementById("graph")?.clientWidth); }, 350);
+};
+
+window.toggleDetails = () => {
+    const panel = document.getElementById("detailsPanel");
+    const showBtn = document.getElementById("showDetails");
+    if (!panel) return;
+    panel.classList.toggle("collapsed");
+    showBtn.classList.toggle("hidden", !panel.classList.contains("collapsed"));
+    setTimeout(() => { if (Graph) Graph.width(document.getElementById("graph")?.clientWidth); }, 350);
+};
+
+/* ─── View Switching ─── */
+
+let currentView = "graph";
+
+window.switchView = (view) => {
+    currentView = view;
+    const graphView = document.getElementById("graphView");
+    const tableView = document.getElementById("tableView");
+    const tabGraph = document.getElementById("tabGraph");
+    const tabTable = document.getElementById("tabTable");
+
+    if (view === "graph") {
+        graphView.classList.remove("hidden");
+        tableView.classList.add("hidden");
+        tabGraph.classList.add("active");
+        tabTable.classList.remove("active");
+        // Refresh graph sizing
+        setTimeout(() => { if (Graph) Graph.width(document.getElementById("graph")?.clientWidth); }, 100);
+    } else {
+        graphView.classList.add("hidden");
+        tableView.classList.remove("hidden");
+        tabGraph.classList.remove("active");
+        tabTable.classList.add("active");
+        renderTable();
+    }
+};
+
+/* ─── Table View ─── */
+
+const TABLE_STATE = {
+    tab: "nodes",       // "nodes" | "edges"
+    search: "",
+    sortCol: null,
+    sortDir: "asc",
+    page: 0,
+    pageSize: 100,
+};
+
+window.switchTableTab = (tab) => {
+    TABLE_STATE.tab = tab;
+    TABLE_STATE.page = 0;
+    TABLE_STATE.sortCol = null;
+    TABLE_STATE.sortDir = "asc";
+    document.getElementById("tableTabNodes").classList.toggle("active", tab === "nodes");
+    document.getElementById("tableTabEdges").classList.toggle("active", tab === "edges");
+    renderTable();
+};
+
+function getTableData() {
+    const { facet, discipline, minSupport, search: graphSearch, relations } = STATE.filters;
+    const tableSearch = TABLE_STATE.search.toLowerCase();
+
+    if (TABLE_STATE.tab === "nodes") {
+        // Get filtered nodes (same logic as graph)
+        const filteredEdges = window.EDGES.filter(e => e.sup >= minSupport && relations.has(e.r));
+        const edgeNodeIds = new Set();
+        filteredEdges.forEach(e => { edgeNodeIds.add(e.s); edgeNodeIds.add(e.t); });
+
+        let nodes = window.NODES.filter(n => {
+            if (!edgeNodeIds.has(n.id)) return false;
+            if (facet !== "all" && !n.fl.includes(facet)) return false;
+            if (discipline !== "all" && !(n.dl || []).includes(discipline)) return false;
+            if (graphSearch && !n.l.toLowerCase().includes(graphSearch.toLowerCase())) return false;
+            return true;
+        });
+
+        // Table-specific search
+        if (tableSearch) {
+            nodes = nodes.filter(n =>
+                n.l.toLowerCase().includes(tableSearch) ||
+                (n.fl || []).some(f => f.toLowerCase().includes(tableSearch)) ||
+                (n.dl || []).some(d => d.toLowerCase().includes(tableSearch))
+            );
+        }
+
+        // Sorting
+        if (TABLE_STATE.sortCol !== null) {
+            const col = TABLE_STATE.sortCol;
+            const dir = TABLE_STATE.sortDir === "asc" ? 1 : -1;
+            nodes.sort((a, b) => {
+                let va, vb;
+                switch (col) {
+                    case "label": va = a.l; vb = b.l; return va.localeCompare(vb) * dir;
+                    case "facet": va = (a.fl[0] || ""); vb = (b.fl[0] || ""); return va.localeCompare(vb) * dir;
+                    case "degree": return (a.degree - b.degree) * dir;
+                    case "maxSupport": return (a.maxSupport - b.maxSupport) * dir;
+                    case "disciplines": va = (a.dl || []).length; vb = (b.dl || []).length; return (va - vb) * dir;
+                    default: return 0;
+                }
+            });
+        }
+
+        return nodes;
+    } else {
+        // Edges tab
+        let edges = window.EDGES.filter(e => {
+            if (e.sup < minSupport) return false;
+            if (!relations.has(e.r)) return false;
+            return true;
+        });
+
+        // Facet/discipline filtering on source & target
+        if (facet !== "all" || discipline !== "all" || graphSearch) {
+            const visibleNodeIds = new Set(
+                window.NODES.filter(n => {
+                    if (facet !== "all" && !n.fl.includes(facet)) return false;
+                    if (discipline !== "all" && !(n.dl || []).includes(discipline)) return false;
+                    if (graphSearch && !n.l.toLowerCase().includes(graphSearch.toLowerCase())) return false;
+                    return true;
+                }).map(n => n.id)
+            );
+            edges = edges.filter(e => visibleNodeIds.has(e.s) && visibleNodeIds.has(e.t));
+        }
+
+        // Table-specific search
+        if (tableSearch) {
+            edges = edges.filter(e =>
+                e.sl.toLowerCase().includes(tableSearch) ||
+                e.tl.toLowerCase().includes(tableSearch) ||
+                e.r.toLowerCase().includes(tableSearch)
+            );
+        }
+
+        // Sorting
+        if (TABLE_STATE.sortCol !== null) {
+            const col = TABLE_STATE.sortCol;
+            const dir = TABLE_STATE.sortDir === "asc" ? 1 : -1;
+            edges.sort((a, b) => {
+                switch (col) {
+                    case "source": return a.sl.localeCompare(b.sl) * dir;
+                    case "target": return a.tl.localeCompare(b.tl) * dir;
+                    case "relation": return a.r.localeCompare(b.r) * dir;
+                    case "support": return (a.sup - b.sup) * dir;
+                    case "weight": return (a.w - b.w) * dir;
+                    default: return 0;
+                }
+            });
+        }
+
+        return edges;
+    }
+}
+
+function renderTable() {
+    const data = getTableData();
+    const wrapper = document.getElementById("tableWrapper");
+    const countEl = document.getElementById("tableCount");
+    const pagEl = document.getElementById("tablePagination");
+    if (!wrapper) return;
+
+    const total = data.length;
+    const { page, pageSize } = TABLE_STATE;
+    const totalPages = Math.max(1, Math.ceil(total / pageSize));
+    TABLE_STATE.page = Math.min(page, totalPages - 1);
+    const start = TABLE_STATE.page * pageSize;
+    const pageData = data.slice(start, start + pageSize);
+
+    countEl.textContent = `${total.toLocaleString()} rows`;
+
+    function thClass(col) {
+        if (TABLE_STATE.sortCol === col) return TABLE_STATE.sortDir === "asc" ? "sorted-asc" : "sorted-desc";
+        return "";
+    }
+
+    if (TABLE_STATE.tab === "nodes") {
+        wrapper.innerHTML = `<table>
+            <thead><tr>
+                <th class="${thClass("label")}" onclick="sortTable('label')">Label</th>
+                <th class="${thClass("facet")}" onclick="sortTable('facet')">Facet</th>
+                <th class="${thClass("degree")}" onclick="sortTable('degree')">Degree</th>
+                <th class="${thClass("maxSupport")}" onclick="sortTable('maxSupport')">Max Support</th>
+                <th class="${thClass("disciplines")}" onclick="sortTable('disciplines')">Disciplines</th>
+            </tr></thead>
+            <tbody>${pageData.map(n => {
+                const facetColor = FACET_COLORS[n.fl[0]] || FACET_COLORS["Unknown"];
+                return `<tr>
+                    <td class="clickable-cell" onclick="tableNodeClick('${n.id}')">${escapeHtml(n.l)}</td>
+                    <td><span class="facet-badge" style="background:${facetColor}55;color:${facetColor}">${n.fl[0] || 'Unknown'}</span></td>
+                    <td>${n.degree}</td>
+                    <td>${n.maxSupport}</td>
+                    <td title="${(n.dl || []).join(', ')}">${(n.dl || []).length > 0 ? (n.dl || []).slice(0, 2).join(', ') + (n.dl.length > 2 ? '...' : '') : '—'}</td>
+                </tr>`;
+            }).join("")}</tbody></table>`;
+    } else {
+        wrapper.innerHTML = `<table>
+            <thead><tr>
+                <th class="${thClass("source")}" onclick="sortTable('source')">Source</th>
+                <th class="${thClass("relation")}" onclick="sortTable('relation')">Relation</th>
+                <th class="${thClass("target")}" onclick="sortTable('target')">Target</th>
+                <th class="${thClass("support")}" onclick="sortTable('support')">Support</th>
+                <th class="${thClass("weight")}" onclick="sortTable('weight')">Weight</th>
+            </tr></thead>
+            <tbody>${pageData.map(e => {
+                const relColor = RELATION_COLORS[e.r] || "#94a3b8";
+                return `<tr>
+                    <td class="clickable-cell" onclick="tableNodeClick('${e.s}')">${escapeHtml(e.sl)}</td>
+                    <td><span class="relation-badge" style="background:${relColor}55;color:${relColor}">${RELATION_LABELS[e.r] || e.r}</span></td>
+                    <td class="clickable-cell" onclick="tableNodeClick('${e.t}')">${escapeHtml(e.tl)}</td>
+                    <td>${e.sup}</td>
+                    <td>${e.w.toFixed(3)}</td>
+                </tr>`;
+            }).join("")}</tbody></table>`;
+    }
+
+    // Pagination
+    renderPagination(pagEl, totalPages);
+}
+
+function renderPagination(container, totalPages) {
+    if (totalPages <= 1) { container.innerHTML = ""; return; }
+
+    const cur = TABLE_STATE.page;
+    let html = `<button class="page-btn" onclick="goToPage(0)" ${cur === 0 ? 'disabled' : ''}>&laquo;</button>`;
+    html += `<button class="page-btn" onclick="goToPage(${cur - 1})" ${cur === 0 ? 'disabled' : ''}>&lsaquo;</button>`;
+
+    // Show page window
+    const windowSize = 5;
+    let startPage = Math.max(0, cur - Math.floor(windowSize / 2));
+    let endPage = Math.min(totalPages - 1, startPage + windowSize - 1);
+    if (endPage - startPage < windowSize - 1) startPage = Math.max(0, endPage - windowSize + 1);
+
+    if (startPage > 0) html += `<span style="color:var(--text-muted);padding:0 4px;">...</span>`;
+    for (let i = startPage; i <= endPage; i++) {
+        html += `<button class="page-btn ${i === cur ? 'active' : ''}" onclick="goToPage(${i})">${i + 1}</button>`;
+    }
+    if (endPage < totalPages - 1) html += `<span style="color:var(--text-muted);padding:0 4px;">...</span>`;
+
+    html += `<button class="page-btn" onclick="goToPage(${cur + 1})" ${cur >= totalPages - 1 ? 'disabled' : ''}>&rsaquo;</button>`;
+    html += `<button class="page-btn" onclick="goToPage(${totalPages - 1})" ${cur >= totalPages - 1 ? 'disabled' : ''}>&raquo;</button>`;
+    container.innerHTML = html;
+}
+
+window.sortTable = (col) => {
+    if (TABLE_STATE.sortCol === col) {
+        TABLE_STATE.sortDir = TABLE_STATE.sortDir === "asc" ? "desc" : "asc";
+    } else {
+        TABLE_STATE.sortCol = col;
+        TABLE_STATE.sortDir = "asc";
+    }
+    TABLE_STATE.page = 0;
+    renderTable();
+};
+
+window.goToPage = (p) => {
+    TABLE_STATE.page = Math.max(0, p);
+    renderTable();
+    // Scroll table to top
+    const wrapper = document.getElementById("tableWrapper");
+    if (wrapper) wrapper.scrollTop = 0;
+};
+
+window.tableNodeClick = (nodeId) => {
+    // Switch to graph view, focus on node, and show details
+    const node = STATE.nodeMap.get(nodeId);
+    if (!node) return;
+
+    switchView("graph");
+    // Wait for graph to be visible, then navigate
+    setTimeout(() => {
+        const graphNode = Graph.graphData().nodes.find(n => n.id === nodeId);
+        if (graphNode) {
+            focusOnNode(graphNode);
+            showDetails(graphNode);
+        }
+    }, 200);
+};
+
+function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str;
+    return div.innerHTML;
+}
+
+// Table search input listener
+window.addEventListener("load", () => {
+    const tSearchInput = document.getElementById("tableSearchInput");
+    if (tSearchInput) {
+        let tDebounce;
+        tSearchInput.addEventListener("input", (e) => {
+            TABLE_STATE.search = e.target.value;
+            TABLE_STATE.page = 0;
+            if (tDebounce) clearTimeout(tDebounce);
+            tDebounce = setTimeout(renderTable, 300);
+        });
+    }
+});
 
 /* ─── Helpers ─── */
 
