@@ -1,0 +1,21 @@
+ontology:
+  min_support: 5
+  output_csv_edges: "ontology_edges.csv"
+  output_csv_evidence: "ontology_evidence.csv"
+  
+facet_mapping:
+  "Research Areas": "Area"
+  "Physical Systems": "System"
+  "Properties": "Property"
+  "Techniques": "Technique"
+
+relation_mapping:
+  "Area_System": "STUDIES"      # Area -> System
+  "System_Property": "EXHIBITS" # System -> Property
+  "Technique_Property": "MEASURES" # Technique -> Property
+  "Technique_System": "PROBES"     # Technique -> System
+
+db:
+  schema: "third_party_aps"
+  articles_table: "third_party_data_source.aps_articles"
+  concepts_table: "third_party_aps.physh_concepts"

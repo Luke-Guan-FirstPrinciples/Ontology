@@ -379,28 +379,52 @@ def main():
         fig.savefig(OUTPUT_DIR / "fig3_predicate_domain_heatmap.png", dpi=FIG_DPI, bbox_inches="tight")
         print(f"  Saved fig3_predicate_domain_heatmap.png")
 
-    # ── Fig 4: Konsman triplet count by domain (box plot) ────────────
-    fig, ax = plt.subplots(figsize=(14, 6))
+    # ── Fig 4: Both models — triplet count by domain (separate box plots)
     domain_order = (
         df.groupby("domain")[kons_count_col]
         .median()
         .sort_values(ascending=False)
         .index
     )
+
+    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(16, 12), sharex=True)
+
+    # Top panel: rebel-large
+    sns.boxplot(
+        data=df, x="domain", y=babel_count_col,
+        order=domain_order, color=PALETTE[MODEL_BABEL],
+        ax=ax1, showfliers=True, linewidth=0.8
+    )
+    ax1.set_xlabel("")
+    ax1.set_ylabel("Triplet count per paper")
+    ax1.set_title(
+        f"rebel-large — Triplet Count Distribution by Domain",
+        fontsize=13, fontweight="bold", color=PALETTE[MODEL_BABEL]
+    )
+    ax1.yaxis.set_major_locator(mticker.MaxNLocator(integer=True))
+
+    # Bottom panel: rebel-quantum-mixed
     sns.boxplot(
         data=df, x="domain", y=kons_count_col,
-        order=domain_order, palette="Set2", ax=ax, showfliers=True
+        order=domain_order, color=PALETTE[MODEL_KONS],
+        ax=ax2, showfliers=True, linewidth=0.8
     )
-    ax.set_xlabel("")
-    ax.set_ylabel("Triplet count per paper")
-    ax.set_title(
-        "konsman/rebel-quantum-mixed — Triplet Count Distribution by Domain",
-        fontsize=13, fontweight="bold"
+    ax2.set_xlabel("")
+    ax2.set_ylabel("Triplet count per paper")
+    ax2.set_title(
+        f"rebel-quantum-mixed — Triplet Count Distribution by Domain",
+        fontsize=13, fontweight="bold", color=PALETTE[MODEL_KONS]
     )
-    ax.tick_params(axis="x", rotation=40)
+    ax2.tick_params(axis="x", rotation=40)
+    ax2.yaxis.set_major_locator(mticker.MaxNLocator(integer=True))
+
+    fig.suptitle(
+        "Triplet Count Distribution by Domain — Both Models",
+        fontsize=15, fontweight="bold", y=1.01
+    )
     fig.tight_layout()
-    fig.savefig(OUTPUT_DIR / "fig4_konsman_domain_boxplot.png", dpi=FIG_DPI, bbox_inches="tight")
-    print(f"  Saved fig4_konsman_domain_boxplot.png")
+    fig.savefig(OUTPUT_DIR / "fig4_domain_boxplot_both.png", dpi=FIG_DPI, bbox_inches="tight")
+    print(f"  Saved fig4_domain_boxplot_both.png")
 
     # ── Fig 5: Top categories — Konsman avg triplets bar chart ───────
     top_cats = cat_stats.head(20)
