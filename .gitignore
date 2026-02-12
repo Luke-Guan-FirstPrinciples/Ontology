@@ -1,2 +1,14 @@
 .env
 myenv/
+*.json
+*.jsonl
+*.parquet
+*.csv
+*.xlsx
+*.pdf
+*.txt
+*.html
+*.xml
+*.png
+*.jpg
+*.tsv

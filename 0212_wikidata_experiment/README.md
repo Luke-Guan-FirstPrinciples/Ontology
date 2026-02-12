@@ -3,67 +3,129 @@
 **Date:** 2026-02-12  
 **Question:** Does Wikidata contain meaningful relationships between physics entities, or just hierarchies?
 
-## Key Finding
+## Two Explorations
 
-**92.5% of predicates connecting physics entities are non-hierarchical.** Wikidata encodes rich semantic relationships for physics, not just `instance of` / `subclass of` taxonomies.
+### 1. Seed-Based (58 hand-picked entities) → `output/`
 
-## What's Here
+Quick, targeted exploration starting from 58 curated entities (electron, photon, Standard Model, etc.). Good for understanding the data model.
 
-| File | Purpose |
-|------|---------|
-| `explore_physics_kg.py` | Main exploration script — run this |
-| `seed_entities.py` | 58 curated physics entities with validated Wikidata QIDs |
-| `wikidata_sparql.py` | SPARQL query helpers (5 query types) |
-| `validate_qids.py` | Utility to validate QIDs against Wikidata labels |
+```bash
+python explore_physics_kg.py
+```
 
-## Results Summary (58 seed entities)
+### 2. Broad Exploration (no seed constraint) → `output_broad/`
+
+Crawls 17 Wikidata physics classes to discover ALL physics entities and relationships. No hand-picking.
+
+```bash
+python explore_physics_broad.py
+```
+
+## Broad Exploration Results
 
 | Metric | Count |
 |--------|-------|
-| Distinct predicates found | 294 |
-| Inter-entity links (physics↔physics) | 79 |
-| Sample triples (10 entities) | 807 |
-| Physics neighbors (1-hop) | 27 |
-| Focused predicate triples | 219 |
+| Physics classes crawled | 17 |
+| **Unique physics entities** | **8,964** |
+| **Semantic triples (clean)** | **33,062** |
+| Distinct predicates | 30 |
+| **Inter-entity links** | **9,682** |
+| — Hierarchical (instance of / subclass of) | 3,408 |
+| — **Semantically rich** | **6,274** |
+| Connected entities | 4,607 / 8,964 (51%) |
 
-## Most Interesting Predicates for Physics Ontology
+### Entity breakdown by class
 
-### Semantically Rich (non-hierarchical) predicates found between physics entities:
+| Class | Entities |
+|-------|----------|
+| physical quantity | 5,000 (hit LIMIT) |
+| physical phenomenon | 5,000 (hit LIMIT) |
+| astronomical object type | 438 |
+| physical law | 228 |
+| physical theory | 195 |
+| boson | 120 |
+| fermion | 119 |
+| elementary particle | 113 |
+| hadron | 100 |
+| physical constant | 95 |
+| meson | 42 |
+| baryon | 35 |
+| lepton | 30 |
+| force carrier | 23 |
+| nuclear reaction | 10 |
 
-| Predicate | Example | Count |
-|-----------|---------|-------|
-| **interaction** | electron →[interaction]→ gravity | 32 |
-| **has characteristic** | photon →[has characteristic]→ wave-particle duality | 7 |
-| **studied by** | gravity →[studied by]→ general relativity | 6 |
-| **has part(s)** | proton →[has part(s)]→ up quark | 6 |
-| **is the study of** | thermodynamics →[is the study of]→ entropy | 3 |
-| **facet of** | speed of light →[facet of]→ special relativity | 3 |
-| **different from** | neutrino →[different from]→ neutron | 3 |
-| **measured physical quantity** | Boltzmann constant →[measured physical quantity]→ entropy | 2 |
-| **decays to** | Higgs boson →[decays to]→ photon | 2 |
-| **antiparticle** | electron →[antiparticle]→ positron | 2 |
-| **has effect** | Big Bang →[has effect]→ cosmic microwave background | 1 |
-| **has cause** | Hawking radiation →[has cause]→ black hole | 1 |
+### Top semantic predicates (all 30 are meaningful — noise was filtered)
 
-### Notable focused predicate findings:
+| # | Predicate | Triples |
+|---|-----------|---------|
+| 1 | instance of | 11,234 |
+| 2 | has part(s) | 5,231 |
+| 3 | part of | 4,234 |
+| 4 | followed by | 2,995 |
+| 5 | follows | 2,987 |
+| 6 | subclass of | 1,618 |
+| 7 | different from | 904 |
+| 8 | measured physical quantity | 731 |
+| 9 | named after | 670 |
+| 10 | in defining formula | 490 |
+| 11 | said to be the same as | 335 |
+| 12 | interaction | 272 |
+| 13 | defining formula | 261 |
+| 14 | facet of | 222 |
+| 15 | discoverer or inventor | 134 |
 
-- **`has part(s)`** encodes compositional physics: proton has parts {gluon, up quark, down quark}, Maxwell's equations has parts {Ampere's law, Gauss's law, Faraday's law, Gauss's law for magnetism}
-- **`has characteristic`** connects entities to their physical properties: black hole has {electric charge, mass, angular momentum}, quark has {electric charge, color charge}
-- **`discoverer or inventor`** links entities to scientists: electron → J.J. Thomson, general relativity → Albert Einstein
-- **`facet of`** and **`studied by`** encode disciplinary relationships: quantum entanglement studied by quantum mechanics, Big Bang facet of general relativity
+### Non-hierarchical inter-entity links (6,274 total)
 
-## How to Expand
+| Predicate | Links | Example |
+|-----------|-------|---------|
+| followed by / follows | 5,112 | muon antineutrino → tau antineutrino |
+| measured physical quantity | 407 | Boltzmann constant → entropy |
+| different from | 212 | W boson → ω-meson |
+| has part(s) | 198 | ω-meson → {up quark, down quark} |
+| part of | 182 | quark → hadron |
+| said to be the same as | 64 | speed of light → speed of gravity |
+| opposite of | 42 | boson → fermion; electron → proton |
+| named after | 21 | hexaquark → quark |
+| facet of | 13 | speed of light → special relativity |
+| has characteristic | 11 | photon → wave-particle duality |
 
-1. **More entities:** Add QIDs to `SEED_ENTITIES` in `seed_entities.py`
-2. **More predicates:** Add PIDs to `PHYSICS_PREDICATES_OF_INTEREST`  
-3. **Multi-hop expansion:** Use the neighbor discovery (Step 4) output as new seeds
-4. **Build a graph:** Load the JSON/TSV output into NetworkX, Neo4j, or similar
+## Key Wikidata Data Model Insight
+
+Physics entities use **two different patterns** in Wikidata:
+
+- **Particles** are `P279 (subclass of)` hierarchies. Electron is a *subclass* of elementary particle, not an instance. Because individual electrons aren't Wikidata items — "electron" is the type itself.
+- **Theories, laws, constants, phenomena** are `P31 (instance of)`. General relativity is an *instance* of "physical law".
+
+This matters for querying. The broad script handles both correctly.
+
+## File Structure
+
+| File | Purpose |
+|------|---------|
+| `explore_physics_broad.py` | **Broad exploration** — discovers all physics entities by class |
+| `explore_physics_kg.py` | Seed-based exploration (58 entities) |
+| `seed_entities.py` | 58 curated physics entities with validated QIDs |
+| `wikidata_sparql.py` | SPARQL query helpers |
+| `validate_qids.py` | QID validation utility |
+| `output/` | Seed-based results |
+| `output_broad/` | Broad exploration results |
+
+## Output Files (output_broad/)
+
+| File | Size | Records |
+|------|------|---------|
+| `entity_catalog.json` | 1.4 MB | 8,964 entities |
+| `semantic_triples.json` | 7.2 MB | 33,062 triples |
+| `inter_entity_links.json` | 1.5 MB | 9,682 links |
+| `predicate_frequency.json` | — | 30 predicates |
+| TSV versions of all the above | | |
 
 ## Running
 
 ```bash
 pip install requests
-python explore_physics_kg.py
+python explore_physics_broad.py   # ~11 minutes
+python explore_physics_kg.py      # ~1 minute (seed-based)
 ```
 
-Queries the public Wikidata SPARQL endpoint. No API key needed. Rate-limited to ~1.5s between queries.
+Queries the public Wikidata SPARQL endpoint. No API key needed. Rate-limited to ~2.5s between queries.
