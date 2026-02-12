@@ -1,0 +1,808 @@
+entityLabel	propLabel	valueLabel	entity	prop	value
+Higgs boson	Bibliothèque nationale de France ID	123974191	Q402	P268	123974191
+Higgs boson	subclass of	scalar boson	Q402	P279	http://www.wikidata.org/entity/Q2750336
+Higgs boson	Commons category	Higgs boson	Q402	P373	Higgs boson
+Higgs boson	pronunciation audio	http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Higgs-Boson.wav	Q402	P443	http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Higgs-Boson.wav
+Higgs boson	BNCF Thesaurus ID	55655	Q402	P508	55655
+Higgs boson	interaction	gravity	Q402	P517	http://www.wikidata.org/entity/Q11412
+Higgs boson	interaction	weak interaction	Q402	P517	http://www.wikidata.org/entity/Q11418
+Higgs boson	interaction	electromagnetic interaction	Q402	P517	http://www.wikidata.org/entity/Q849919
+Higgs boson	interaction	Higgs field	Q402	P517	http://www.wikidata.org/entity/Q2094142
+Higgs boson	time of discovery or invention	2012-01-01T00:00:00Z	Q402	P575	2012-01-01T00:00:00Z
+Higgs boson	Freebase ID	/m/01jtzt	Q402	P646	/m/01jtzt
+Higgs boson	NL CR AUT ID	ph705689	Q402	P691	ph705689
+Higgs boson	significant event	Discovery of the Higgs Boson	Q402	P793	http://www.wikidata.org/entity/Q54004690
+Higgs boson	decays to	electron	Q402	P816	http://www.wikidata.org/entity/Q2225
+Higgs boson	decays to	photon	Q402	P816	http://www.wikidata.org/entity/Q3198
+Higgs boson	decays to	W or Z boson	Q402	P816	http://www.wikidata.org/entity/Q211922
+Higgs boson	Dewey Decimal Classification	539.721	Q402	P1036	539.721
+Higgs boson	spin quantum number	0	Q402	P1122	0
+Higgs boson	parity quantum number	1	Q402	P1123	1
+Higgs boson	OmegaWiki Defined Meaning	1395736	Q402	P1245	1395736
+Higgs boson	Gran Enciclopèdia Catalana ID (former scheme)	0262636	Q402	P1296	0262636
+Higgs boson	described by source	Great Russian Encyclopedia	Q402	P1343	http://www.wikidata.org/entity/Q1768199
+Higgs boson	Monte Carlo Particle Number	35	Q402	P1360	35
+Higgs boson	Encyclopædia Britannica Online ID	science/Higgs-boson	Q402	P1417	science/Higgs-boson
+Higgs boson	BBC Things ID	5a62ee3b-ccad-46f8-9d63-69266290407c	Q402	P1617	5a62ee3b-ccad-46f8-9d63-69266290407c
+Higgs boson	mass	124.97	Q402	P2067	124.97
+Higgs boson	mass	125.11	Q402	P2067	125.11
+Higgs boson	mass	125.26	Q402	P2067	125.26
+Higgs boson	antiparticle	Higgs boson	Q402	P2152	http://www.wikidata.org/entity/Q402
+Higgs boson	electric charge	0	Q402	P2200	0
+Higgs boson	decay width	13000000	Q402	P2223	13000000
+Higgs boson	YSO ID	27401	Q402	P2347	27401
+Higgs boson	has superpartner	higgsino	Q402	P2375	http://www.wikidata.org/entity/Q1617700
+Higgs boson	mean lifetime	0.00001	Q402	P2645	0.00001
+Higgs boson	mean lifetime	0.000156	Q402	P2645	0.000156
+Higgs boson	Great Russian Encyclopedia Online ID (2017)	4664997	Q402	P2924	4664997
+Higgs boson	The Guardian topic ID	science/higgs-boson	Q402	P3106	science/higgs-boson
+Higgs boson	Encyclopædia Universalis ID	boson-de-higgs	Q402	P3219	boson-de-higgs
+Higgs boson	New York Times topic ID	subject/higgs-boson	Q402	P3221	subject/higgs-boson
+Higgs boson	Treccani ID	oltre-la-particella-di-dio_(Il-Libro-dell'Anno)	Q402	P3365	oltre-la-particella-di-dio_(Il-Libro-dell'Anno)
+Higgs boson	Quora topic ID	Higgs-Boson	Q402	P3417	Higgs-Boson
+Higgs boson	Zhihu topic ID	19669362	Q402	P3553	19669362
+Higgs boson	Cultureel Woordenboek ID	natuurkunde-scheikunde-en-sterrenkunde/higgsboson	Q402	P3569	natuurkunde-scheikunde-en-sterrenkunde/higgsboson
+Higgs boson	JSTOR topic ID (archived)	higgs-boson	Q402	P3827	higgs-boson
+Higgs boson	nLab ID	Higgs boson	Q402	P4215	Higgs boson
+Higgs boson	Great Norwegian Encyclopedia ID	Higgs-boson	Q402	P4342	Higgs-boson
+Higgs boson	Wolfram Language entity code	Entity["Particle", "HiggsBoson"]	Q402	P4839	Entity["Particle", "HiggsBoson"]
+Higgs boson	on focus list of Wikimedia project	Wikipedia:Vital articles/Level/4	Q402	P5008	http://www.wikidata.org/entity/Q6173448
+Higgs boson	Brockhaus Enzyklopädie online ID	higgs-teilchen	Q402	P5019	higgs-teilchen
+Higgs boson	World of Physics ID	HiggsBoson	Q402	P5064	HiggsBoson
+Higgs boson	Larousse ID	divers/boson_de_Higgs/180136	Q402	P6058	divers/boson_de_Higgs/180136
+Higgs boson	research site	Large Hadron Collider	Q402	P6153	http://www.wikidata.org/entity/Q40605
+Higgs boson	research site	CERN	Q402	P6153	http://www.wikidata.org/entity/Q42944
+Higgs boson	research site	Fermilab	Q402	P6153	http://www.wikidata.org/entity/Q337641
+Higgs boson	YSA ID	Y194939	Q402	P6293	Y194939
+Higgs boson	Microsoft Academic ID (discontinued)	158129726	Q402	P6366	158129726
+Higgs boson	NicoNicoPedia ID	ヒッグス粒子	Q402	P6900	ヒッグス粒子
+Higgs boson	Online PWN Encyclopedia ID	3911635	Q402	P7305	3911635
+Higgs boson	RationalWiki ID	Higgs_boson	Q402	P7775	Higgs_boson
+Higgs boson	National Library of Israel J9U ID	987007532146505171	Q402	P8189	987007532146505171
+Higgs boson	Yle topic ID	18-77515	Q402	P8309	18-77515
+Higgs boson	theorized by	François Englert	Q402	P8403	http://www.wikidata.org/entity/Q151746
+Higgs boson	theorized by	Robert Brout	Q402	P8403	http://www.wikidata.org/entity/Q151833
+Higgs boson	theorized by	Peter Higgs	Q402	P8403	http://www.wikidata.org/entity/Q192112
+Higgs boson	theorized by	Tom Kibble	Q402	P8403	http://www.wikidata.org/entity/Q926167
+Higgs boson	theorized by	C. R. Hagen	Q402	P8403	http://www.wikidata.org/entity/Q1040160
+Higgs boson	theorized by	Gerald Guralnik	Q402	P8403	http://www.wikidata.org/entity/Q1509906
+Higgs boson	KBpedia ID	HiggsBoson	Q402	P8408	HiggsBoson
+Higgs boson	Namuwiki ID	힉스 보손	Q402	P8885	힉스 보손
+Higgs boson	Treccani's Lessico del XXI Secolo ID	bosone-di-higgs	Q402	P9775	bosone-di-higgs
+Higgs boson	OpenAlex ID	C158129726	Q402	P10283	C158129726
+Higgs boson	ScienceDirect topic ID	physics-and-astronomy/higgs-bosons	Q402	P10376	physics-and-astronomy/higgs-bosons
+Higgs boson	Encyclopedia of China (Third Edition) ID	143990	Q402	P10565	143990
+Higgs boson	Gran Enciclopèdia Catalana ID	boso-de-higgs	Q402	P12385	boso-de-higgs
+Higgs boson	Vikidia article ID	fr:Boson_de_Higgs	Q402	P12800	fr:Boson_de_Higgs
+Higgs boson	Yale LUX ID	concept/d01329d0-7641-403a-9aa7-cecf74edf02e	Q402	P13591	concept/d01329d0-7641-403a-9aa7-cecf74edf02e
+black hole	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details-ru.svg	Q589	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details-ru.svg
+black hole	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details.svg	Q589	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details.svg
+black hole	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details%20af.jpg	Q589	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details%20af.jpg
+black hole	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details%20in%20bengali%20version..png	Q589	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details%20in%20bengali%20version..png
+black hole	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20zoom2.tif	Q589	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20zoom2.tif
+black hole	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Cierna%20diera-az.png	Q589	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Cierna%20diera-az.png
+black hole	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Cierna%20diera.png	Q589	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Cierna%20diera.png
+black hole	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Gergin%20ufuk.svg	Q589	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Gergin%20ufuk.svg
+black hole	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Penrose%20Diagrams%20of%20various%20black%20hole%20solutions.svg	Q589	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Penrose%20Diagrams%20of%20various%20black%20hole%20solutions.svg
+black hole	Larousse ID	animations/Trous_noirs/1100498	Q589	P6058	animations/Trous_noirs/1100498
+black hole	Larousse ID	divers/trou_noir/99640	Q589	P6058	divers/trou_noir/99640
+black hole	BBC News topic ID	c6lygzy5lzpt	Q589	P6200	c6lygzy5lzpt
+black hole	Fandom article ID	intensities-universe:Black_hole	Q589	P6262	intensities-universe:Black_hole
+black hole	Fandom article ID	kurzgesagt:Black_hole	Q589	P6262	kurzgesagt:Black_hole
+black hole	Fandom article ID	space:Black_hole	Q589	P6262	space:Black_hole
+black hole	Microsoft Academic ID (discontinued)	98851261	Q589	P6366	98851261
+black hole	Krugosvet article (archived)	nauka_i_tehnika/astronomiya/CHERNAYA_DIRA.html	Q589	P6385	nauka_i_tehnika/astronomiya/CHERNAYA_DIRA.html
+black hole	Brilliant Wiki ID	black-hole	Q589	P6564	black-hole
+black hole	Klexikon article ID	Schwarzes_Loch	Q589	P6573	Schwarzes_Loch
+black hole	TV Tropes ID	UsefulNotes/BlackHoles	Q589	P6839	UsefulNotes/BlackHoles
+black hole	NicoNicoPedia ID	ブラックホール	Q589	P6900	ブラックホール
+black hole	Australian Educational Vocabulary ID	scot/1897	Q589	P7033	scot/1897
+black hole	Online PWN Encyclopedia ID	3889102	Q589	P7305	3889102
+black hole	RationalWiki ID	Black_hole	Q589	P7775	Black_hole
+black hole	RationalWiki ID	ru:Чёрная_дыра	Q589	P7775	ru:Чёрная_дыра
+black hole	National Library of Israel J9U ID	987007283120105171	Q589	P8189	987007283120105171
+black hole	Lex ID	sort_hul	Q589	P8313	sort_hul
+black hole	KBpedia ID	BlackHole	Q589	P8408	BlackHole
+black hole	Namuwiki ID	블랙홀	Q589	P8885	블랙홀
+black hole	ABC News topic ID	blackholes	Q589	P9084	blackholes
+black hole	France 24 topic ID (French)	trou-noir	Q589	P9346	trou-noir
+black hole	Scholarpedia article ID	Black_holes	Q589	P9526	Black_holes
+black hole	Der Spiegel topic ID	schwarze_loecher	Q589	P10234	schwarze_loecher
+black hole	ScienceDirect topic ID	physics-and-astronomy/black-holes	Q589	P10376	physics-and-astronomy/black-holes
+black hole	Encyclopedia of China (Third Edition) ID	226972	Q589	P10565	226972
+black hole	Encyclopedia of China (Third Edition) ID	146897	Q589	P10565	146897
+black hole	Encyclopedia of Ideas ID	blackhole	Q589	P10717	blackhole
+black hole	Pixiv Encyclopedia ID	ブラックホール	Q589	P11408	ブラックホール
+black hole	Great Russian Encyclopedia portal ID	chiornye-dyry-c7f8e1	Q589	P11514	chiornye-dyry-c7f8e1
+black hole	IMDb keyword	black-hole	Q589	P11924	black-hole
+black hole	WikiKids ID	Zwart_gat	Q589	P12086	Zwart_gat
+black hole	Gran Enciclopèdia Catalana ID	forat-negre	Q589	P12385	forat-negre
+black hole	museum-digital tag ID	18309	Q589	P12596	18309
+black hole	Lille norske leksikon ID	svart_hull	Q589	P12721	svart_hull
+black hole	Vikidia article ID	ca:Forat_negre	Q589	P12800	ca:Forat_negre
+black hole	Vikidia article ID	en:Black_hole	Q589	P12800	en:Black_hole
+black hole	Vikidia article ID	es:Agujero_negro	Q589	P12800	es:Agujero_negro
+black hole	Vikidia article ID	eu:Zulo_trou_noir	Q589	P12800	eu:Zulo_trou_noir
+black hole	Vikidia article ID	fr:Trou_noir	Q589	P12800	fr:Trou_noir
+black hole	Vikidia article ID	it:Buco_nero	Q589	P12800	it:Buco_nero
+black hole	Lexikon der Mathematik entry ID	8880	Q589	P12975	8880
+black hole	LEMAC ID	LEMAC201203976	Q589	P13346	LEMAC201203976
+black hole	Yale LUX ID	concept/724d7e24-76b5-45ff-970d-0a884a84db5d	Q589	P13591	concept/724d7e24-76b5-45ff-970d-0a884a84db5d
+black hole	Arab Encyclopedia concept ID	5396	Q589	P13750	5396
+black hole	video	http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Black%20Hole%20Visualization%20Takes%20Viewers%20Beyond%20the%20Brink%20%28SVS14576%20BH%20Plunge%20Mollweide%208192x4096%2060%29.webm	Q589	P10	http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Black%20Hole%20Visualization%20Takes%20Viewers%20Beyond%20the%20Brink%20%28SVS14576%20BH%20Plunge%20Mollweide%208192x4096%2060%29.webm
+black hole	image	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg	Q589	P18	http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg
+black hole	instance of	astronomical object type	Q589	P31	http://www.wikidata.org/entity/Q17444909
+black hole	GND ID	4053793-6	Q589	P227	4053793-6
+black hole	Library of Congress authority ID	sh85014574	Q589	P244	sh85014574
+black hole	Bibliothèque nationale de France ID	11933630s	Q589	P268	11933630s
+black hole	IdRef ID	027253430	Q589	P269	027253430
+black hole	subclass of	compact object	Q589	P279	http://www.wikidata.org/entity/Q368442
+black hole	subclass of	massive compact halo object	Q589	P279	http://www.wikidata.org/entity/Q1457669
+black hole	NDL Authority ID	00561056	Q589	P349	00561056
+black hole	Commons category	Black holes	Q589	P373	Black holes
+black hole	opposite of	white hole	Q589	P461	http://www.wikidata.org/entity/Q131468
+black hole	BNCF Thesaurus ID	17881	Q589	P508	17881
+black hole	has part(s)	event horizon	Q589	P527	http://www.wikidata.org/entity/Q181741
+black hole	has part(s)	gravitational singularity	Q589	P527	http://www.wikidata.org/entity/Q201721
+black hole	has part(s)	ergosphere	Q589	P527	http://www.wikidata.org/entity/Q656650
+black hole	has part(s)	photon sphere	Q589	P527	http://www.wikidata.org/entity/Q2361910
+black hole	has part(s)	Cauchy horizon	Q589	P527	http://www.wikidata.org/entity/Q2470767
+black hole	has part(s)	firewall	Q589	P527	http://www.wikidata.org/entity/Q5452017
+black hole	has part(s)	innermost stable circular orbit	Q589	P527	http://www.wikidata.org/entity/Q25110047
+black hole	has part(s)	Shock singularity	Q589	P527	http://www.wikidata.org/entity/Q134574466
+black hole	has part(s)	Soft hair	Q589	P527	http://www.wikidata.org/entity/Q135299894
+black hole	has part(s)	mass inflation	Q589	P527	http://www.wikidata.org/entity/Q135920232
+black hole	Freebase ID	/m/01h1s	Q589	P646	/m/01h1s
+black hole	NL CR AUT ID	ph128097	Q589	P691	ph128097
+black hole	topic's main category	Category:Black holes	Q589	P910	http://www.wikidata.org/entity/Q7163702
+black hole	Commons gallery	Black hole	Q589	P935	Black hole
+black hole	National Library of Spain SpMaBN ID (BNE v1.0)	XX528239	Q589	P950	XX528239
+black hole	spoken text audio	http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D6%87%20%D5%AD%D5%B8%D5%BC%D5%B8%D5%B9%20%28Black%20hole%29.ogg	Q589	P989	http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D6%87%20%D5%AD%D5%B8%D5%BC%D5%B8%D5%B9%20%28Black%20hole%29.ogg
+black hole	spoken text audio	http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Zwart%20gat-article.ogg	Q589	P989	http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Zwart%20gat-article.ogg
+black hole	Curlie ID	Science/Physics/Relativity/Black_Holes/	Q589	P998	Science/Physics/Relativity/Black_Holes/
+black hole	Dewey Decimal Classification	523.8875	Q589	P1036	523.8875
+black hole	PSH ID	529	Q589	P1051	529
+black hole	Library of Congress Classification	QB843.B55	Q589	P1149	QB843.B55
+black hole	OmegaWiki Defined Meaning	8329	Q589	P1245	8329
+black hole	Gran Enciclopèdia Catalana ID (former scheme)	0184491	Q589	P1296	0184491
+black hole	Encyclopædia Britannica Online ID	topic/black-hole	Q589	P1417	topic/black-hole
+black hole	topic has template	Template:Black holes	Q589	P1424	http://www.wikidata.org/entity/Q6720830
+black hole	Stack Exchange tag	https://physics.stackexchange.com/tags/black-holes	Q589	P1482	https://physics.stackexchange.com/tags/black-holes
+black hole	Stack Exchange tag	https://astronomy.stackexchange.com/tags/black-hole	Q589	P1482	https://astronomy.stackexchange.com/tags/black-hole
+black hole	end cause	Hawking radiation	Q589	P1534	http://www.wikidata.org/entity/Q497396
+black hole	has effect	Hawking radiation	Q589	P1542	http://www.wikidata.org/entity/Q497396
+black hole	has characteristic	electric charge	Q589	P1552	http://www.wikidata.org/entity/Q1111
+black hole	has characteristic	mass	Q589	P1552	http://www.wikidata.org/entity/Q11423
+black hole	has characteristic	angular momentum	Q589	P1552	http://www.wikidata.org/entity/Q161254
+black hole	BBC Things ID	1889ae0b-2030-477b-b953-f2924616d6da	Q589	P1617	1889ae0b-2030-477b-b953-f2924616d6da
+black hole	short name	BN	Q589	P1813	BN
+black hole	short name	BH	Q589	P1813	BH
+black hole	short name	SL	Q589	P1813	SL
+black hole	short name	TN	Q589	P1813	TN
+black hole	short name	ЧД	Q589	P1813	ЧД
+black hole	short name	ČL	Q589	P1813	ČL
+black hole	different from	black dwarf	Q589	P1889	http://www.wikidata.org/entity/Q5976
+black hole	different from	white hole	Q589	P1889	http://www.wikidata.org/entity/Q131468
+black hole	different from	black star	Q589	P1889	http://www.wikidata.org/entity/Q9298968
+black hole	FAST ID	1744720	Q589	P2163	1744720
+black hole	YSO ID	18360	Q589	P2347	18360
+black hole	studied by	theoretical physics	Q589	P2579	http://www.wikidata.org/entity/Q18362
+black hole	studied by	astrophysics	Q589	P2579	http://www.wikidata.org/entity/Q37547
+black hole	Encyclopædia Universalis ID	trous-noirs	Q589	P3219	trous-noirs
+black hole	NE.se ID	svart-hål	Q589	P3222	svart-hål
+black hole	Mathematics Subject Classification ID	83C57	Q589	P3285	83C57
+black hole	Quora topic ID	Black-Holes	Q589	P3417	Black-Holes
+black hole	Zhihu topic ID	19564226	Q589	P3553	19564226
+black hole	Cultureel Woordenboek ID	natuurkunde-scheikunde-en-sterrenkunde/zwart-gat	Q589	P3569	natuurkunde-scheikunde-en-sterrenkunde/zwart-gat
+black hole	UNESCO Thesaurus ID	concept1894	Q589	P3916	concept1894
+black hole	nLab ID	black hole	Q589	P4215	black hole
+black hole	Great Norwegian Encyclopedia ID	svart_hull	Q589	P4342	svart_hull
+black hole	Unified Astronomy Thesaurus ID	162	Q589	P4466	162
+black hole	on focus list of Wikimedia project	Wikipedia:List of articles all languages should have	Q589	P5008	http://www.wikidata.org/entity/Q5460604
+black hole	on focus list of Wikimedia project	Wikipedia:Vital articles/Level/4	Q589	P5008	http://www.wikidata.org/entity/Q6173448
+black hole	Brockhaus Enzyklopädie online ID	schwarzes-loch-astrophysik	Q589	P5019	schwarzes-loch-astrophysik
+black hole	World of Physics ID	BlackHole	Q589	P5064	BlackHole
+black hole	Encyclopedia of Science Fiction ID	black_holes	Q589	P5357	black_holes
+black hole	Canadian Encyclopedia article ID	black-hole	Q589	P5395	black-hole
+photon	video	http://commons.wikimedia.org/wiki/Special:FilePath/Electromagneticwave3D.gif	Q3198	P10	http://commons.wikimedia.org/wiki/Special:FilePath/Electromagneticwave3D.gif
+photon	image	http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.jpg	Q3198	P18	http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.jpg
+photon	instance of	type of quantum particle	Q3198	P31	http://www.wikidata.org/entity/Q22675015
+photon	GND ID	4045922-6	Q3198	P227	4045922-6
+photon	Library of Congress authority ID	sh85101398	Q3198	P244	sh85101398
+photon	Bibliothèque nationale de France ID	11979547h	Q3198	P268	11979547h
+photon	IdRef ID	027840611	Q3198	P269	027840611
+photon	subclass of	force carrier	Q3198	P279	http://www.wikidata.org/entity/Q24364
+photon	subclass of	elementary particle	Q3198	P279	http://www.wikidata.org/entity/Q43116
+photon	subclass of	quantum	Q3198	P279	http://www.wikidata.org/entity/Q46344
+photon	subclass of	gauge boson	Q3198	P279	http://www.wikidata.org/entity/Q105580
+photon	subclass of	massless quantum particle	Q3198	P279	http://www.wikidata.org/entity/Q2024141
+photon	subclass of	real neutral particle	Q3198	P279	http://www.wikidata.org/entity/Q4204340
+photon	subclass of	Q15809444	Q3198	P279	http://www.wikidata.org/entity/Q15809444
+photon	subclass of	stable elementary particle	Q3198	P279	http://www.wikidata.org/entity/Q21660975
+photon	NDL Authority ID	00566716	Q3198	P349	00566716
+photon	part of	Photinus-luciferin 4-monooxygenase (ATP-hydrolyzing) activity	Q3198	P361	http://www.wikidata.org/entity/Q3901694
+photon	part of	response to light stimulus	Q3198	P361	http://www.wikidata.org/entity/Q14859558
+photon	part of	oxygen evolving activity	Q3198	P361	http://www.wikidata.org/entity/Q22316027
+photon	part of	Renilla-luciferin 2-monooxygenase activity	Q3198	P361	http://www.wikidata.org/entity/Q22316927
+photon	part of	Watasenia-luciferin 2-monooxygenase activity	Q3198	P361	http://www.wikidata.org/entity/Q22316934
+photon	part of	Cypridina-luciferin 2-monooxygenase activity	Q3198	P361	http://www.wikidata.org/entity/Q22316949
+photon	part of	Oplophorus-luciferin 2-monooxygenase activity	Q3198	P361	http://www.wikidata.org/entity/Q22316953
+photon	part of	Latia-luciferin monooxygenase (demethylating) activity	Q3198	P361	http://www.wikidata.org/entity/Q22317043
+photon	part of	alkanal monooxygenase (FMN-linked) activity	Q3198	P361	http://www.wikidata.org/entity/Q22317834
+photon	Commons category	Photon	Q3198	P373	Photon
+photon	MeSH descriptor ID	D017785	Q3198	P486	D017785
+photon	BNCF Thesaurus ID	19366	Q3198	P508	19366
+photon	interaction	gravity	Q3198	P517	http://www.wikidata.org/entity/Q11412
+photon	interaction	electromagnetic field	Q3198	P517	http://www.wikidata.org/entity/Q177625
+photon	interaction	electromagnetic interaction	Q3198	P517	http://www.wikidata.org/entity/Q849919
+photon	time of discovery or invention	1923-01-01T00:00:00Z	Q3198	P575	1923-01-01T00:00:00Z
+photon	Freebase ID	/m/05v_l	Q3198	P646	/m/05v_l
+photon	MeSH tree code	G01.249.705	Q3198	P672	G01.249.705
+photon	MeSH tree code	G01.358.500.505.650.782	Q3198	P672	G01.358.500.505.650.782
+photon	MeSH tree code	G01.590.540.782	Q3198	P672	G01.590.540.782
+photon	MeSH tree code	G01.750.250.650.782	Q3198	P672	G01.750.250.650.782
+photon	MeSH tree code	G01.750.770.578.782	Q3198	P672	G01.750.770.578.782
+photon	ChEBI ID	30212	Q3198	P683	30212
+photon	NL CR AUT ID	ph137951	Q3198	P691	ph137951
+photon	topic's main category	Category:Photons	Q3198	P910	http://www.wikidata.org/entity/Q8762041
+photon	notation	Γ	Q3198	P913	http://www.wikidata.org/entity/Q14387
+photon	notation	hν	Q3198	P913	http://www.wikidata.org/entity/Q122443655
+photon	Dewey Decimal Classification	535.12	Q3198	P1036	535.12
+photon	Dewey Decimal Classification	539.7217	Q3198	P1036	539.7217
+photon	PSH ID	3520	Q3198	P1051	3520
+photon	spin quantum number	1	Q3198	P1122	1
+photon	parity quantum number	-1	Q3198	P1123	-1
+photon	OmegaWiki Defined Meaning	8299	Q3198	P1245	8299
+photon	described by source	Great Soviet Encyclopedia (1926–1947)	Q3198	P1343	http://www.wikidata.org/entity/Q20078554
+photon	Monte Carlo Particle Number	22	Q3198	P1360	22
+photon	Encyclopædia Britannica Online ID	science/photon	Q3198	P1417	science/photon
+photon	Stack Exchange tag	https://physics.stackexchange.com/tags/photons	Q3198	P1482	https://physics.stackexchange.com/tags/photons
+photon	has effect	Compton effect	Q3198	P1542	http://www.wikidata.org/entity/Q171516
+photon	has effect	Q56312436	Q3198	P1542	http://www.wikidata.org/entity/Q56312436
+photon	has characteristic	wave–particle duality	Q3198	P1552	http://www.wikidata.org/entity/Q193068
+photon	BBC Things ID	265c8741-78d9-4e31-a846-30434ac11a5c	Q3198	P1617	265c8741-78d9-4e31-a846-30434ac11a5c
+photon	different from	Photon	Q3198	P1889	http://www.wikidata.org/entity/Q440021
+photon	different from	Foton	Q3198	P1889	http://www.wikidata.org/entity/Q3079748
+photon	different from	Fotão	Q3198	P1889	http://www.wikidata.org/entity/Q124032567
+photon	mass	0	Q3198	P2067	0
+photon	mass	0.000000000000000000001	Q3198	P2067	0.000000000000000000001
+photon	half-life	1	Q3198	P2114	1
+photon	antiparticle	photon	Q3198	P2152	http://www.wikidata.org/entity/Q3198
+photon	electric charge	0	Q3198	P2200	0
+photon	YSO ID	2063	Q3198	P2347	2063
+photon	has superpartner	photino	Q3198	P2375	http://www.wikidata.org/entity/Q1031134
+photon	mean lifetime	1	Q3198	P2645	1
+photon	UMLS CUI	C0086805	Q3198	P2892	C0086805
+photon	Treccani ID	fotone	Q3198	P3365	fotone
+photon	WikiSkripta article ID	58681	Q3198	P3471	58681
+photon	Zhihu topic ID	19651797	Q3198	P3553	19651797
+electron	named after	amber	Q2225	P138	http://www.wikidata.org/entity/Q25381
+electron	followed by	muon	Q2225	P156	http://www.wikidata.org/entity/Q3151
+electron	location of discovery	Cavendish Laboratory Of Experimental Physics	Q2225	P189	http://www.wikidata.org/entity/Q26616677
+electron	GND ID	4125978-6	Q2225	P227	4125978-6
+electron	Library of Congress authority ID	sh85042423	Q2225	P244	sh85042423
+electron	Bibliothèque nationale de France ID	13319069f	Q2225	P268	13319069f
+electron	subclass of	elementary particle	Q2225	P279	http://www.wikidata.org/entity/Q43116
+electron	subclass of	charged lepton	Q2225	P279	http://www.wikidata.org/entity/Q94535579
+electron	NDL Authority ID	00561425	Q2225	P349	00561425
+electron	Commons category	Electrons	Q2225	P373	Electrons
+electron	opposite of	proton	Q2225	P461	http://www.wikidata.org/entity/Q2294
+electron	opposite of	electron hole	Q2225	P461	http://www.wikidata.org/entity/Q651050
+electron	MeSH descriptor ID	D004583	Q2225	P486	D004583
+electron	BNCF Thesaurus ID	3791	Q2225	P508	3791
+electron	interaction	gravity	Q2225	P517	http://www.wikidata.org/entity/Q11412
+electron	interaction	weak interaction	Q2225	P517	http://www.wikidata.org/entity/Q11418
+electron	interaction	electromagnetic interaction	Q2225	P517	http://www.wikidata.org/entity/Q849919
+electron	time of discovery or invention	1897-01-01T00:00:00Z	Q2225	P575	1897-01-01T00:00:00Z
+electron	Freebase ID	/m/02l7x	Q2225	P646	/m/02l7x
+electron	KEGG ID	C05359	Q2225	P665	C05359
+electron	MeSH tree code	G01.249.335	Q2225	P672	G01.249.335
+electron	MeSH tree code	G01.358.500.750	Q2225	P672	G01.358.500.750
+electron	ChEBI ID	10545	Q2225	P683	10545
+electron	NL CR AUT ID	ph137952	Q2225	P691	ph137952
+electron	topic's main category	Category:Electron	Q2225	P910	http://www.wikidata.org/entity/Q8411332
+electron	Art & Architecture Thesaurus ID	300264243	Q2225	P1014	300264243
+electron	Dewey Decimal Classification	539.72112	Q2225	P1036	539.72112
+electron	PSH ID	3701	Q2225	P1051	3701
+electron	g-factor	-2.00231930436256	Q2225	P1097	-2.00231930436256
+electron	spin quantum number	0.5	Q2225	P1122	0.5
+electron	parity quantum number	1	Q2225	P1123	1
+electron	OmegaWiki Defined Meaning	567898	Q2225	P1245	567898
+electron	described by source	Encyclopædia Britannica 11th edition	Q2225	P1343	http://www.wikidata.org/entity/Q867541
+electron	described by source	Small Brockhaus and Efron Encyclopedic Dictionary	Q2225	P1343	http://www.wikidata.org/entity/Q19180675
+electron	described by source	Meyers Konversations-Lexikon, 4th edition (1885–1890)	Q2225	P1343	http://www.wikidata.org/entity/Q19219752
+electron	described by source	Small Soviet Encyclopedia	Q2225	P1343	http://www.wikidata.org/entity/Q66386517
+electron	Monte Carlo Particle Number	11	Q2225	P1360	11
+electron	Encyclopædia Britannica Online ID	science/electron	Q2225	P1417	science/electron
+electron	Stack Exchange tag	https://physics.stackexchange.com/tags/electrons	Q2225	P1482	https://physics.stackexchange.com/tags/electrons
+electron	BBC Things ID	9e497e6d-45f1-4c6b-8d2a-e731ac331362	Q2225	P1617	9e497e6d-45f1-4c6b-8d2a-e731ac331362
+electron	different from	Elektron	Q2225	P1889	http://www.wikidata.org/entity/Q129269
+electron	NALT ID	36233	Q2225	P2004	36233
+electron	mass	0.000548579909065	Q2225	P2067	0.000548579909065
+electron	magnetic moment	1.00115965218059	Q2225	P2069	1.00115965218059
+electron	antiparticle	positron	Q2225	P2152	http://www.wikidata.org/entity/Q3229
+electron	electric charge	-1	Q2225	P2200	-1
+electron	YSO ID	4030	Q2225	P2347	4030
+electron	has superpartner	selectron	Q2225	P2375	http://www.wikidata.org/entity/Q1087203
+electron	Treccani ID	elettrone	Q2225	P3365	elettrone
+electron	Quora topic ID	Electrons	Q2225	P3417	Electrons
+electron	Zhihu topic ID	19573169	Q2225	P3553	19573169
+electron	JSTOR topic ID (archived)	electrons	Q2225	P3827	electrons
+electron	UNESCO Thesaurus ID	concept9543	Q2225	P3916	concept9543
+electron	Great Norwegian Encyclopedia ID	elektron	Q2225	P4342	elektron
+electron	Wolfram Language entity code	Entity["Particle", "Electron"]	Q2225	P4839	Entity["Particle", "Electron"]
+electron	on focus list of Wikimedia project	Wikipedia:Vital articles/Level/4	Q2225	P5008	http://www.wikidata.org/entity/Q6173448
+electron	World of Physics ID	Electron	Q2225	P5064	Electron
+electron	Treccani Vocabulary ID	elettrone	Q2225	P5844	elettrone
+electron	Fandom article ID	de.babylon5:Elektron	Q2225	P6262	de.babylon5:Elektron
+electron	Fandom article ID	de.memory-alpha:Elektron	Q2225	P6262	de.memory-alpha:Elektron
+electron	Fandom article ID	ja.memory-alpha:電子	Q2225	P6262	ja.memory-alpha:電子
+electron	Fandom article ID	memory-alpha:Electron	Q2225	P6262	memory-alpha:Electron
+electron	Fandom article ID	nl.memory-alpha:Elektron	Q2225	P6262	nl.memory-alpha:Elektron
+electron	Fandom article ID	sr.memory-alpha:Електрон	Q2225	P6262	sr.memory-alpha:Електрон
+electron	Microsoft Academic ID (discontinued)	147120987	Q2225	P6366	147120987
+electron	Krugosvet article (archived)	nauka_i_tehnika/fizika/ELEKTRON.html	Q2225	P6385	nauka_i_tehnika/fizika/ELEKTRON.html
+electron	ProofWiki ID	Definition:Electron	Q2225	P6781	Definition:Electron
+electron	RationalWiki ID	Electron	Q2225	P7775	Electron
+electron	Hrvatska enciklopedija ID	70086	Q2225	P7982	70086
+electron	National Library of Israel J9U ID	987007540957605171	Q2225	P8189	987007540957605171
+electron	Lex ID	elektron	Q2225	P8313	elektron
+electron	UNBIS Thesaurus ID	1001978	Q2225	P8370	1001978
+electron	KBpedia ID	Electron	Q2225	P8408	Electron
+electron	WordNet 3.1 Synset ID	09294810-n	Q2225	P8814	09294810-n
+electron	IEV number	113-05-18	Q2225	P8855	113-05-18
+electron	IEV number	881-02-57	Q2225	P8855	881-02-57
+electron	Namuwiki ID	전자	Q2225	P8885	전자
+electron	OpenAlex ID	C147120987	Q2225	P10283	C147120987
+electron	ScienceDirect topic ID	immunology-and-microbiology/electron	Q2225	P10376	immunology-and-microbiology/electron
+electron	ScienceDirect topic ID	physics-and-astronomy/electron	Q2225	P10376	physics-and-astronomy/electron
+electron	Encyclopedia of China (Third Edition) ID	138102	Q2225	P10565	138102
+electron	Great Russian Encyclopedia portal ID	elektron-1c39f0	Q2225	P11514	elektron-1c39f0
+electron	WikiKids ID	Elektron	Q2225	P12086	Elektron
+electron	Vikidia article ID	es:Electrón	Q2225	P12800	es:Electrón
+electron	Vikidia article ID	fr:Électron	Q2225	P12800	fr:Électron
+electron	Yale LUX ID	concept/89771fc7-76cc-460d-af1e-435cd04c09cf	Q2225	P13591	concept/89771fc7-76cc-460d-af1e-435cd04c09cf
+electron	Arab Encyclopedia concept ID	165	Q2225	P13750	165
+electromagnetism	Bibliothèque nationale de France ID	133183393	Q11406	P268	133183393
+electromagnetism	IdRef ID	027233030	Q11406	P269	027233030
+electromagnetism	NDL Authority ID	00561481	Q11406	P349	00561481
+electromagnetism	part of	physics	Q11406	P361	http://www.wikidata.org/entity/Q413
+electromagnetism	Commons category	Electromagnetism	Q11406	P373	Electromagnetism
+electromagnetism	Freebase ID	/m/02lpk	Q11406	P646	/m/02lpk
+electromagnetism	NL CR AUT ID	ph119883	Q11406	P691	ph119883
+electromagnetism	topic's main category	Category:Electromagnetism	Q11406	P910	http://www.wikidata.org/entity/Q8411330
+electromagnetism	Art & Architecture Thesaurus ID	300221714	Q11406	P1014	300221714
+electromagnetism	PSH ID	3401	Q11406	P1051	3401
+electromagnetism	OmegaWiki Defined Meaning	340954	Q11406	P1245	340954
+electromagnetism	Gran Enciclopèdia Catalana ID (former scheme)	0100666	Q11406	P1296	0100666
+electromagnetism	Gran Enciclopèdia Catalana ID (former scheme)	0228728	Q11406	P1296	0228728
+electromagnetism	described by source	Encyclopædia Britannica 11th edition	Q11406	P1343	http://www.wikidata.org/entity/Q867541
+electromagnetism	described by source	Meyers Konversations-Lexikon, 4th edition (1885–1890)	Q11406	P1343	http://www.wikidata.org/entity/Q19219752
+electromagnetism	Encyclopædia Britannica Online ID	science/electromagnetism	Q11406	P1417	science/electromagnetism
+electromagnetism	topic has template	Template:Electromagnetism	Q11406	P1424	http://www.wikidata.org/entity/Q6329058
+electromagnetism	Stack Exchange tag	https://physics.stackexchange.com/tags/electromagnetism	Q11406	P1482	https://physics.stackexchange.com/tags/electromagnetism
+electromagnetism	BBC Things ID	a3d82cea-ca55-430b-8434-0e19462dba5f	Q11406	P1617	a3d82cea-ca55-430b-8434-0e19462dba5f
+electromagnetism	different from	electromagnetic interaction	Q11406	P1889	http://www.wikidata.org/entity/Q849919
+electromagnetism	history of topic	timeline of electromagnetism and classical optics	Q11406	P2184	http://www.wikidata.org/entity/Q2913714
+electromagnetism	YSO ID	9447	Q11406	P2347	9447
+electromagnetism	is the study of	electromagnetic interaction	Q11406	P2578	http://www.wikidata.org/entity/Q849919
+electromagnetism	is the study of	electromagnetic phenomenon	Q11406	P2578	http://www.wikidata.org/entity/Q70691163
+electromagnetism	BabelNet ID	15761996n	Q11406	P2581	15761996n
+electromagnetism	Encyclopædia Universalis ID	electromagnetisme	Q11406	P3219	electromagnetisme
+electromagnetism	Encyclopædia Universalis ID	interactions-physique-electromagnetisme	Q11406	P3219	interactions-physique-electromagnetisme
+electromagnetism	NE.se ID	elektromagnetism	Q11406	P3222	elektromagnetism
+electromagnetism	Quora topic ID	Electromagnetism	Q11406	P3417	Electromagnetism
+electromagnetism	Zhihu topic ID	19589402	Q11406	P3553	19589402
+electromagnetism	JSTOR topic ID (archived)	electromagnetism	Q11406	P3827	electromagnetism
+electromagnetism	Open Library subject ID	electromagnetism	Q11406	P3847	electromagnetism
+electromagnetism	UNESCO Thesaurus ID	concept9529	Q11406	P3916	concept9529
+electromagnetism	Great Norwegian Encyclopedia ID	elektromagnetisme	Q11406	P4342	elektromagnetisme
+electromagnetism	ESCO skill ID	3edd4853-a8d2-4791-a5f0-af3a92f18245	Q11406	P4644	3edd4853-a8d2-4791-a5f0-af3a92f18245
+electromagnetism	World of Physics ID	Electromagnetism	Q11406	P5064	Electromagnetism
+electromagnetism	IPTC NewsCode	mediatopic/20000732	Q11406	P5429	mediatopic/20000732
+electromagnetism	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/VFPt%20Solenoid%20correct2.svg	Q11406	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/VFPt%20Solenoid%20correct2.svg
+electromagnetism	Microsoft Academic ID (discontinued)	91748784	Q11406	P6366	91748784
+electromagnetism	ProofWiki ID	Definition:Electromagnetism	Q11406	P6781	Definition:Electromagnetism
+electromagnetism	Latvian National Encyclopedia Online ID	1471	Q11406	P6870	1471
+electromagnetism	Australian Educational Vocabulary ID	scot/9712	Q11406	P7033	scot/9712
+electromagnetism	RationalWiki ID	Electromagnetism	Q11406	P7775	Electromagnetism
+electromagnetism	National Library of Israel J9U ID	987007538464805171	Q11406	P8189	987007538464805171
+electromagnetism	Lex ID	elektromagnetisme	Q11406	P8313	elektromagnetisme
+electromagnetism	KBpedia ID	PhysicalForce-Electromagnetic	Q11406	P8408	PhysicalForce-Electromagnetic
+electromagnetism	WordNet 3.1 Synset ID	06108714-n	Q11406	P8814	06108714-n
+electromagnetism	IEV number	121-11-74	Q11406	P8855	121-11-74
+electromagnetism	GitHub topic	electromagnetism	Q11406	P9100	electromagnetism
+electromagnetism	Cyprus Bibliography ID	13135	Q11406	P9287	13135
+electromagnetism	Treccani's Dizionario delle Scienze Fisiche ID	elettromagnetismo	Q11406	P10017	elettromagnetismo
+electromagnetism	OpenAlex ID	C2909720056	Q11406	P10283	C2909720056
+electromagnetism	OpenAlex ID	C2984039729	Q11406	P10283	C2984039729
+electromagnetism	OpenAlex ID	C91748784	Q11406	P10283	C91748784
+electromagnetism	ScienceDirect topic ID	biochemistry-genetics-and-molecular-biology/electromagnetism	Q11406	P10376	biochemistry-genetics-and-molecular-biology/electromagnetism
+electromagnetism	ScienceDirect topic ID	earth-and-planetary-sciences/electromagnetism	Q11406	P10376	earth-and-planetary-sciences/electromagnetism
+electromagnetism	ScienceDirect topic ID	immunology-and-microbiology/electromagnetism	Q11406	P10376	immunology-and-microbiology/electromagnetism
+electromagnetism	ScienceDirect topic ID	physics-and-astronomy/electromagnetism	Q11406	P10376	physics-and-astronomy/electromagnetism
+electromagnetism	ScienceDirect topic ID	social-sciences/electromagnetism	Q11406	P10376	social-sciences/electromagnetism
+electromagnetism	Encyclopedia of China (Third Edition) ID	31138	Q11406	P10565	31138
+electromagnetism	WikiKids ID	Elektromagnetisme	Q11406	P12086	Elektromagnetisme
+electromagnetism	Gran Enciclopèdia Catalana ID	electromagnetisme-0	Q11406	P12385	electromagnetisme-0
+electromagnetism	Yale LUX ID	concept/b69a9979-766f-4d56-a887-b3fd20535928	Q11406	P13591	concept/b69a9979-766f-4d56-a887-b3fd20535928
+Higgs boson	image	http://commons.wikimedia.org/wiki/Special:FilePath/CMS%20Higgs-event.jpg	Q402	P18	http://commons.wikimedia.org/wiki/Special:FilePath/CMS%20Higgs-event.jpg
+Higgs boson	instance of	type of quantum particle	Q402	P31	http://www.wikidata.org/entity/Q22675015
+Higgs boson	audio	http://commons.wikimedia.org/wiki/Special:FilePath/Higgs.mp3	Q402	P51	http://commons.wikimedia.org/wiki/Special:FilePath/Higgs.mp3
+Higgs boson	discoverer or inventor	CERN	Q402	P61	http://www.wikidata.org/entity/Q42944
+Higgs boson	discoverer or inventor	ATLAS experiment	Q402	P61	http://www.wikidata.org/entity/Q299002
+Higgs boson	discoverer or inventor	CMS experiment	Q402	P61	http://www.wikidata.org/entity/Q659478
+Higgs boson	named after	God	Q402	P138	http://www.wikidata.org/entity/Q190
+Higgs boson	named after	Peter Higgs	Q402	P138	http://www.wikidata.org/entity/Q192112
+Higgs boson	named after	particle	Q402	P138	http://www.wikidata.org/entity/Q1621273
+Higgs boson	location of discovery	Switzerland	Q402	P189	http://www.wikidata.org/entity/Q39
+Higgs boson	GND ID	4209328-4	Q402	P227	4209328-4
+Higgs boson	Library of Congress authority ID	sh89005038	Q402	P244	sh89005038
+electron	image	http://commons.wikimedia.org/wiki/Special:FilePath/Single%20electron%20probability%20pattern.png	Q2225	P18	http://commons.wikimedia.org/wiki/Special:FilePath/Single%20electron%20probability%20pattern.png
+electron	instance of	type of quantum particle	Q2225	P31	http://www.wikidata.org/entity/Q22675015
+electron	discoverer or inventor	J. J. Thomson	Q2225	P61	http://www.wikidata.org/entity/Q47285
+speed of light in vacuum	video	http://commons.wikimedia.org/wiki/Special:FilePath/Fizeau.ogv	Q2111	P10	http://commons.wikimedia.org/wiki/Special:FilePath/Fizeau.ogv
+speed of light in vacuum	instance of	unit of measurement	Q2111	P31	http://www.wikidata.org/entity/Q47574
+speed of light in vacuum	instance of	physical constant	Q2111	P31	http://www.wikidata.org/entity/Q173227
+speed of light in vacuum	instance of	scalar quantity	Q2111	P31	http://www.wikidata.org/entity/Q181175
+speed of light in vacuum	instance of	constant	Q2111	P31	http://www.wikidata.org/entity/Q188248
+speed of light in vacuum	instance of	fundamental limit	Q2111	P31	http://www.wikidata.org/entity/Q4493384
+speed of light in vacuum	instance of	measured quantity value	Q2111	P31	http://www.wikidata.org/entity/Q15088658
+speed of light in vacuum	instance of	unit of speed	Q2111	P31	http://www.wikidata.org/entity/Q15222637
+speed of light in vacuum	instance of	UCUM constant	Q2111	P31	http://www.wikidata.org/entity/Q83155724
+speed of light in vacuum	discoverer or inventor	Ole Rømer	Q2111	P61	http://www.wikidata.org/entity/Q160187
+speed of light in vacuum	measured physical quantity	speed	Q2111	P111	http://www.wikidata.org/entity/Q3711325
+speed of light in vacuum	GND ID	4167583-6	Q2111	P227	4167583-6
+speed of light in vacuum	Library of Congress authority ID	sh85076878	Q2111	P244	sh85076878
+speed of light in vacuum	Commons category	Speed of light	Q2111	P373	Speed of light
+speed of light in vacuum	pronunciation audio	http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%B0%20%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%97.wav	Q2111	P443	http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%B0%20%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%97.wav
+speed of light in vacuum	pronunciation audio	http://commons.wikimedia.org/wiki/Special:FilePath/De-Vakuumlichtgeschwindigkeit.ogg	Q2111	P443	http://commons.wikimedia.org/wiki/Special:FilePath/De-Vakuumlichtgeschwindigkeit.ogg
+speed of light in vacuum	said to be the same as	speed of gravity	Q2111	P460	http://www.wikidata.org/entity/Q319686
+speed of light in vacuum	Freebase ID	/m/073n8	Q2111	P646	/m/073n8
+speed of light in vacuum	topic's main category	Category:Speed of light	Q2111	P910	http://www.wikidata.org/entity/Q125813125
+speed of light in vacuum	spoken text audio	http://commons.wikimedia.org/wiki/Special:FilePath/Es-Velocidad%20de%20la%20luz-article-part1.ogg	Q2111	P989	http://commons.wikimedia.org/wiki/Special:FilePath/Es-Velocidad%20de%20la%20luz-article-part1.ogg
+speed of light in vacuum	Dewey Decimal Classification	535.24	Q2111	P1036	535.24
+speed of light in vacuum	PSH ID	3168	Q2111	P1051	3168
+speed of light in vacuum	numeric value	299792458	Q2111	P1181	299792458
+speed of light in vacuum	OmegaWiki Defined Meaning	688281	Q2111	P1245	688281
+speed of light in vacuum	facet of	electromagnetism	Q2111	P1269	http://www.wikidata.org/entity/Q11406
+speed of light in vacuum	facet of	special relativity	Q2111	P1269	http://www.wikidata.org/entity/Q11455
+speed of light in vacuum	facet of	vacuum	Q2111	P1269	http://www.wikidata.org/entity/Q11475
+speed of light in vacuum	facet of	massless quantum particle	Q2111	P1269	http://www.wikidata.org/entity/Q2024141
+speed of light in vacuum	described by source	IEC 80000-6:2008 Quantities and units—Part 6: Electromagnetism	Q2111	P1343	http://www.wikidata.org/entity/Q26711936
+speed of light in vacuum	described by source	ISO 80000-7:2008 Quantities and units—Part 7: Light	Q2111	P1343	http://www.wikidata.org/entity/Q26711937
+speed of light in vacuum	described by source	IEC 80000-6:2022 Quantities and units — Part 6: Electromagnetism	Q2111	P1343	http://www.wikidata.org/entity/Q117847945
+speed of light in vacuum	Encyclopædia Britannica Online ID	science/speed-of-light	Q2111	P1417	science/speed-of-light
+speed of light in vacuum	BBC Things ID	573a261c-9d77-4ab2-a0d9-fd8e789b7a48	Q2111	P1617	573a261c-9d77-4ab2-a0d9-fd8e789b7a48
+speed of light in vacuum	NIST/CODATA ID	c	Q2111	P1645	c
+speed of light in vacuum	different from	speed of light in a medium	Q2111	P1889	http://www.wikidata.org/entity/Q9092845
+speed of light in vacuum	YSO ID	20763	Q2111	P2347	20763
+speed of light in vacuum	conversion to SI unit	299792458.0147178	Q2111	P2370	299792458.0147178
+speed of light in vacuum	conversion to standard unit	670616629.384	Q2111	P2442	670616629.384
+speed of light in vacuum	conversion to standard unit	1079252848.8	Q2111	P2442	1079252848.8
+speed of light in vacuum	defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub><mo stretchy="false">=</mo><mn>2</mn><mn>9</mn><mn>9</mn><mn>7</mn><mn>9</mn><mn>2</mn><mn>4</mn><mn>5</mn><mn>8</mn><mspace width="0.167em"></mspace><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">m</mi></mrow><mo lspace="0" rspace="0">/</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">s</mi></mrow></mstyle></mrow></math>	Q2111	P2534	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub><mo stretchy="false">=</mo><mn>2</mn><mn>9</mn><mn>9</mn><mn>7</mn><mn>9</mn><mn>2</mn><mn>4</mn><mn>5</mn><mn>8</mn><mspace width="0.167em"></mspace><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">m</mi></mrow><mo lspace="0" rspace="0">/</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">s</mi></mrow></mstyle></mrow></math>
+speed of light in vacuum	BabelNet ID	00014374n	Q2111	P2581	00014374n
+speed of light in vacuum	Encyclopædia Universalis ID	romer-demontre-que-la-vitesse-de-la-lumiere-n-est-pas-infinie	Q2111	P3219	romer-demontre-que-la-vitesse-de-la-lumiere-n-est-pas-infinie
+speed of light in vacuum	Quora topic ID	Speed-of-Light	Q2111	P3417	Speed-of-Light
+speed of light in vacuum	Zhihu topic ID	19569486	Q2111	P3553	19569486
+speed of light in vacuum	Cultureel Woordenboek ID	natuurkunde-scheikunde-en-sterrenkunde/lichtsnelheid	Q2111	P3569	natuurkunde-scheikunde-en-sterrenkunde/lichtsnelheid
+speed of light in vacuum	JSTOR topic ID (archived)	speed-of-light	Q2111	P3827	speed-of-light
+speed of light in vacuum	ISQ dimension	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>	Q2111	P4020	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>
+speed of light in vacuum	nLab ID	speed of light	Q2111	P4215	speed of light
+speed of light in vacuum	IUPAC Gold Book ID	S05854	Q2111	P4732	S05854
+speed of light in vacuum	Wolfram Language entity code	Entity["PhysicalConstant", "SpeedOfLight"]	Q2111	P4839	Entity["PhysicalConstant", "SpeedOfLight"]
+speed of light in vacuum	on focus list of Wikimedia project	Wikipedia:List of articles all languages should have	Q2111	P5008	http://www.wikidata.org/entity/Q5460604
+speed of light in vacuum	on focus list of Wikimedia project	Wikipedia:Vital articles/Level/4	Q2111	P5008	http://www.wikidata.org/entity/Q6173448
+speed of light in vacuum	unit symbol	c	Q2111	P5061	c
+speed of light in vacuum	World of Physics ID	SpeedofLight	Q2111	P5064	SpeedofLight
+speed of light in vacuum	Larousse ID	animations/Vitesse_de_la_lumière/1101355	Q2111	P6058	animations/Vitesse_de_la_lumière/1101355
+speed of light in vacuum	maintained by WikiProject	WikiProject Mathematics	Q2111	P6104	http://www.wikidata.org/entity/Q8487137
+speed of light in vacuum	maintained by WikiProject	WikiProject Physics	Q2111	P6104	http://www.wikidata.org/entity/Q8487193
+speed of light in vacuum	Microsoft Academic ID (discontinued)	48388179	Q2111	P6366	48388179
+speed of light in vacuum	ProofWiki ID	Definition:Speed_of_Light	Q2111	P6781	Definition:Speed_of_Light
+speed of light in vacuum	Wolfram Language unit code	"SpeedOfLight"	Q2111	P7007	"SpeedOfLight"
+speed of light in vacuum	in defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>	Q2111	P7235	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
+speed of light in vacuum	RationalWiki ID	Speed_of_light	Q2111	P7775	Speed_of_light
+speed of light in vacuum	UCUM code	[c]	Q2111	P7825	[c]
+speed of light in vacuum	quantity symbol (LaTeX)	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>	Q2111	P7973	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>
+speed of light in vacuum	quantity symbol (LaTeX)	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>	Q2111	P7973	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub></mstyle></mrow></math>
+speed of light in vacuum	Hrvatska enciklopedija ID	9885	Q2111	P7982	9885
+speed of light in vacuum	recommended unit of measurement	metre per second	Q2111	P8111	http://www.wikidata.org/entity/Q182429
+speed of light in vacuum	National Library of Israel J9U ID	987007529354105171	Q2111	P8189	987007529354105171
+speed of light in vacuum	KBpedia ID	SpeedOfLight	Q2111	P8408	SpeedOfLight
+speed of light in vacuum	MetaSat ID	speedOfLight	Q2111	P8834	speedOfLight
+speed of light in vacuum	IEV number	113-01-34	Q2111	P8855	113-01-34
+speed of light in vacuum	IEV number	881-04-13	Q2111	P8855	881-04-13
+speed of light in vacuum	Encyclopedia of China (Third Edition) ID	156845	Q2111	P10565	156845
+speed of light in vacuum	Pixiv Encyclopedia ID	光速	Q2111	P11408	光速
+speed of light in vacuum	Great Russian Encyclopedia portal ID	skorost-sveta-a676e2	Q2111	P11514	skorost-sveta-a676e2
+speed of light in vacuum	WikiKids ID	Lichtsnelheid	Q2111	P12086	Lichtsnelheid
+speed of light in vacuum	Vikidia article ID	es:Velocidad_de_la_luz	Q2111	P12800	es:Velocidad_de_la_luz
+speed of light in vacuum	Vikidia article ID	fr:Vitesse_de_la_lumière	Q2111	P12800	fr:Vitesse_de_la_lumière
+speed of light in vacuum	Yale LUX ID	concept/e24fb8c9-fd4e-4129-9096-3306db4083c7	Q2111	P13591	concept/e24fb8c9-fd4e-4129-9096-3306db4083c7
+electromagnetism	image	http://commons.wikimedia.org/wiki/Special:FilePath/Ferrofluid%20poles.jpg	Q11406	P18	http://commons.wikimedia.org/wiki/Special:FilePath/Ferrofluid%20poles.jpg
+electromagnetism	instance of	branch of physics	Q11406	P31	http://www.wikidata.org/entity/Q4162444
+electromagnetism	GND ID	4014306-5	Q11406	P227	4014306-5
+electromagnetism	Library of Congress authority ID	sh85042184	Q11406	P244	sh85042184
+photon	JSTOR topic ID (archived)	photons	Q3198	P3827	photons
+photon	named by	Gilbert N. Lewis	Q3198	P3938	http://www.wikidata.org/entity/Q208858
+photon	Great Norwegian Encyclopedia ID	foton	Q3198	P4342	foton
+photon	IUPAC Gold Book ID	P04627	Q3198	P4732	P04627
+photon	Wolfram Language entity code	Entity["Particle", "Photon"]	Q3198	P4839	Entity["Particle", "Photon"]
+photon	on focus list of Wikimedia project	Wikipedia:Vital articles/Level/4	Q3198	P5008	http://www.wikidata.org/entity/Q6173448
+photon	World of Physics ID	Photon	Q3198	P5064	Photon
+photon	Larousse ID	divers/photon/79371	Q3198	P6058	divers/photon/79371
+photon	Fandom article ID	de.memory-alpha:Photon	Q3198	P6262	de.memory-alpha:Photon
+photon	Fandom article ID	es.memory-alpha:Fotón	Q3198	P6262	es.memory-alpha:Fotón
+photon	Fandom article ID	fr.memory-alpha:Photon	Q3198	P6262	fr.memory-alpha:Photon
+photon	Fandom article ID	ja.memory-alpha:光子	Q3198	P6262	ja.memory-alpha:光子
+photon	Fandom article ID	memory-alpha:Photon	Q3198	P6262	memory-alpha:Photon
+photon	Microsoft Academic ID (discontinued)	159317903	Q3198	P6366	159317903
+photon	Brilliant Wiki ID	are-photons-mass-less	Q3198	P6564	are-photons-mass-less
+photon	NicoNicoPedia ID	フォトン	Q3198	P6900	フォトン
+photon	Wolfram Language unit code	"Photons"	Q3198	P7007	"Photons"
+photon	Australian Educational Vocabulary ID	scot/9539	Q3198	P7033	scot/9539
+photon	Online PWN Encyclopedia ID	3902271	Q3198	P7305	3902271
+photon	charge conjugation quantum number	-1	Q3198	P7527	-1
+photon	RationalWiki ID	Photon	Q3198	P7775	Photon
+photon	National Library of Israel J9U ID	987007543630305171	Q3198	P8189	987007543630305171
+photon	Lex ID	foton	Q3198	P8313	foton
+photon	KBpedia ID	Photon	Q3198	P8408	Photon
+photon	WordNet 3.1 Synset ID	09414116-n	Q3198	P8814	09414116-n
+photon	IEV number	113-05-14	Q3198	P8855	113-05-14
+photon	IEV number	845-21-107	Q3198	P8855	845-21-107
+photon	IEV number	881-02-04	Q3198	P8855	881-02-04
+photon	Namuwiki ID	광자	Q3198	P8885	광자
+photon	OpenAlex ID	C159317903	Q3198	P10283	C159317903
+photon	ScienceDirect topic ID	biochemistry-genetics-and-molecular-biology/photon	Q3198	P10376	biochemistry-genetics-and-molecular-biology/photon
+photon	ScienceDirect topic ID	engineering/photons	Q3198	P10376	engineering/photons
+photon	ScienceDirect topic ID	immunology-and-microbiology/photon	Q3198	P10376	immunology-and-microbiology/photon
+photon	ScienceDirect topic ID	physics-and-astronomy/photons	Q3198	P10376	physics-and-astronomy/photons
+photon	Encyclopedia of China (Third Edition) ID	215506	Q3198	P10565	215506
+photon	Pixiv Encyclopedia ID	光子	Q3198	P11408	光子
+photon	Great Russian Encyclopedia portal ID	foton-12c525	Q3198	P11514	foton-12c525
+photon	Vikidia article ID	fr:Photon	Q3198	P12800	fr:Photon
+photon	Vikidia article ID	es:Fotón	Q3198	P12800	es:Fotón
+photon	Yale LUX ID	concept/e1372bba-4d83-4203-a5a9-6cf0fbb04e14	Q3198	P13591	concept/e1372bba-4d83-4203-a5a9-6cf0fbb04e14
+photon	Arab Encyclopedia concept ID	1012	Q3198	P13750	1012
+Schrödinger equation	image	http://commons.wikimedia.org/wiki/Special:FilePath/StationaryStatesAnimation.gif	Q165498	P18	http://commons.wikimedia.org/wiki/Special:FilePath/StationaryStatesAnimation.gif
+Schrödinger equation	image	http://commons.wikimedia.org/wiki/Special:FilePath/Wavepacket-a2k4-en.gif	Q165498	P18	http://commons.wikimedia.org/wiki/Special:FilePath/Wavepacket-a2k4-en.gif
+Schrödinger equation	named after	Erwin Schrödinger	Q165498	P138	http://www.wikidata.org/entity/Q9130
+Schrödinger equation	GND ID	4053332-3	Q165498	P227	4053332-3
+Schrödinger equation	Library of Congress authority ID	sh85118495	Q165498	P244	sh85118495
+Standard Model	image	http://commons.wikimedia.org/wiki/Special:FilePath/Formula%20for%20a%20Lagrangian%20in%20Yang-Mills%20theory.jpg	Q18338	P18	http://commons.wikimedia.org/wiki/Special:FilePath/Formula%20for%20a%20Lagrangian%20in%20Yang-Mills%20theory.jpg
+Standard Model	instance of	theory	Q18338	P31	http://www.wikidata.org/entity/Q17737
+Standard Model	instance of	scientific model	Q18338	P31	http://www.wikidata.org/entity/Q193946
+Standard Model	GND ID	4297710-1	Q18338	P227	4297710-1
+Standard Model	Library of Congress authority ID	sh91002552	Q18338	P244	sh91002552
+Standard Model	Bibliothèque nationale de France ID	123191834	Q18338	P268	123191834
+Standard Model	Commons category	Standard Model (physics)	Q18338	P373	Standard Model (physics)
+Standard Model	BNCF Thesaurus ID	54383	Q18338	P508	54383
+Standard Model	Freebase ID	/m/0ct8_	Q18338	P646	/m/0ct8_
+Standard Model	topic's main category	Category:Standard Model	Q18338	P910	http://www.wikidata.org/entity/Q7483222
+Standard Model	Commons gallery	Standard Model	Q18338	P935	Standard Model
+Standard Model	Dewey Decimal Classification	530.142	Q18338	P1036	530.142
+Standard Model	Encyclopædia Britannica Online ID	science/Standard-Model	Q18338	P1417	science/Standard-Model
+Standard Model	topic has template	Template:Standard model of particle physics	Q18338	P1424	http://www.wikidata.org/entity/Q6509732
+Standard Model	topic has template	Template:Standard model of physics	Q18338	P1424	http://www.wikidata.org/entity/Q22727045
+Standard Model	Stack Exchange tag	https://physics.stackexchange.com/tags/standard-model	Q18338	P1482	https://physics.stackexchange.com/tags/standard-model
+Standard Model	short name	SM	Q18338	P1813	SM
+Standard Model	short name	SM	Q18338	P1813	SM
+Standard Model	short name	СМ	Q18338	P1813	СМ
+Standard Model	YSO ID	27292	Q18338	P2347	27292
+Standard Model	studied by	particle physics	Q18338	P2579	http://www.wikidata.org/entity/Q18334
+Standard Model	Great Russian Encyclopedia Online ID (2017)	4162846	Q18338	P2924	4162846
+Standard Model	JSTOR topic ID (archived)	standard-model-of-particle-physics	Q18338	P3827	standard-model-of-particle-physics
+Standard Model	Great Norwegian Encyclopedia ID	standardmodellen	Q18338	P4342	standardmodellen
+Standard Model	on focus list of Wikimedia project	Wikipedia:Vital articles/Level/4	Q18338	P5008	http://www.wikidata.org/entity/Q6173448
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-nl.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-nl.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%95%E0%A6%A3%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%95%E0%A6%A3%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Czastki%20elementarne%20modelu%20standardowego.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Czastki%20elementarne%20modelu%20standardowego.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Elementary-particle-interactions-is.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Elementary-particle-interactions-is.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Elementary%20particle%20interactions%20gl.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Elementary%20particle%20interactions%20gl.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Elementary%20particle%20interactions%20in%20the%20Standard%20Model%20hy.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Elementary%20particle%20interactions%20in%20the%20Standard%20Model%20hy.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Elementary%20particle%20interactions%20in%20the%20Standard%20Model%20mk.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Elementary%20particle%20interactions%20in%20the%20Standard%20Model%20mk.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Lepton.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Lepton.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Mod%C3%A8le%20standard%20des%20particules%20%C3%A9l%C3%A9mentaires.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Mod%C3%A8le%20standard%20des%20particules%20%C3%A9l%C3%A9mentaires.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Modello%20Standard%20delle%20Particelle%20Elementari.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Modello%20Standard%20delle%20Particelle%20Elementari.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Modelo%20standard%20particulas%20subat%C3%B3micas.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Modelo%20standard%20particulas%20subat%C3%B3micas.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Modelul%20standard%20al%20particulelor%20fundamentale.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Modelul%20standard%20al%20particulelor%20fundamentale.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Oinarrizko%20partikulen%20eredu%20estandarra%20%28ZTH%29.jpg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Oinarrizko%20partikulen%20eredu%20estandarra%20%28ZTH%29.jpg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Partikler%20i%20standardmodellen.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Partikler%20i%20standardmodellen.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Partikloj%20la%C5%AD%20Standarda%20Modelo.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Partikloj%20la%C5%AD%20Standarda%20Modelo.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ar.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ar.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ca.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ca.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-de.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-de.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-et.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-et.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ga.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ga.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-he.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-he.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-id.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-id.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ja.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ja.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-lt.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-lt.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-lu.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-lu.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ml.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-ml.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-pt-br.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-pt-br.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-vi.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles-vi.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20-%20sk.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20-%20sk.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20%28fi%29.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20%28fi%29.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20afr.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20afr.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20hr.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20hr.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20hu.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20hu.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20ru.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20ru.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20tr.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20tr.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20uk.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20uk.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20zh-hans.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20zh-hans.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20zh-hant.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%20Elementary%20Particles%20zh-hant.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20Particles%20%28And%20Beyond%29.jpg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20Particles%20%28And%20Beyond%29.jpg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Modellen.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Modellen.png
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Standardmodellens-elementarpartiklar.svg	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Standardmodellens-elementarpartiklar.svg
+Standard Model	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AF%D9%84%20%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF%20%D8%B0%D8%B1%D8%A7%D8%AA%20%D8%A8%D9%86%DB%8C%D8%A7%D8%AF%DB%8C%20%D9%86%D8%B3%D8%AE%D9%87%20%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%D9%87.png	Q18338	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AF%D9%84%20%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF%20%D8%B0%D8%B1%D8%A7%D8%AA%20%D8%A8%D9%86%DB%8C%D8%A7%D8%AF%DB%8C%20%D9%86%D8%B3%D8%AE%D9%87%20%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%D9%87.png
+Standard Model	Larousse ID	divers/modèle_standard/187733	Q18338	P6058	divers/modèle_standard/187733
+Standard Model	Microsoft Academic ID (discontinued)	506670242	Q18338	P6366	506670242
+Standard Model	Brilliant Wiki ID	standard-model	Q18338	P6564	standard-model
+Standard Model	De Agostini ID	modello+standard	Q18338	P6706	modello+standard
+Standard Model	NicoNicoPedia ID	標準模型	Q18338	P6900	標準模型
+Standard Model	Online PWN Encyclopedia ID	3978924	Q18338	P7305	3978924
+Standard Model	RationalWiki ID	Standard_Model	Q18338	P7775	Standard_Model
+Standard Model	National Library of Israel J9U ID	987007556113005171	Q18338	P8189	987007556113005171
+Standard Model	Lex ID	standardmodellen	Q18338	P8313	standardmodellen
+Standard Model	KBpedia ID	StandardModel	Q18338	P8408	StandardModel
+Standard Model	Namuwiki ID	표준 모형	Q18338	P8885	표준 모형
+Standard Model	Enciclopedia della Scienza e della Tecnica ID	modello-standard	Q18338	P10037	modello-standard
+Standard Model	ScienceDirect topic ID	physics-and-astronomy/standard-model-particle-physics	Q18338	P10376	physics-and-astronomy/standard-model-particle-physics
+Standard Model	Encyclopedia of China (Third Edition) ID	144922	Q18338	P10565	144922
+Standard Model	Yale LUX ID	concept/4d2f97f6-6f3a-4ed3-ac65-9efbae7e5f83	Q18338	P13591	concept/4d2f97f6-6f3a-4ed3-ac65-9efbae7e5f83
+quantum entanglement	instance of	physical phenomenon	Q215675	P31	http://www.wikidata.org/entity/Q1293220
+quantum entanglement	GND ID	4409616-1	Q215675	P227	4409616-1
+quantum entanglement	Library of Congress authority ID	sh2011004527	Q215675	P244	sh2011004527
+quantum entanglement	Bibliothèque nationale de France ID	166658073	Q215675	P268	166658073
+quantum entanglement	IdRef ID	166990337	Q215675	P269	166990337
+quantum entanglement	subclass of	quantum information	Q215675	P279	http://www.wikidata.org/entity/Q2122243
+quantum entanglement	Commons category	Quantum entanglement	Q215675	P373	Quantum entanglement
+quantum entanglement	pronunciation audio	http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Beno%C3%AEt%20Prieur-Intrication%20quantique.wav	Q215675	P443	http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Beno%C3%AEt%20Prieur-Intrication%20quantique.wav
+quantum entanglement	BNCF Thesaurus ID	49461	Q215675	P508	49461
+quantum entanglement	Freebase ID	/m/06bh9	Q215675	P646	/m/06bh9
+quantum entanglement	Dewey Decimal Classification	530.12	Q215675	P1036	530.12
+quantum entanglement	Gran Enciclopèdia Catalana ID (former scheme)	0517581	Q215675	P1296	0517581
+quantum entanglement	Encyclopædia Britannica Online ID	topic/quantum-entanglement	Q215675	P1417	topic/quantum-entanglement
+quantum entanglement	Stack Exchange tag	https://physics.stackexchange.com/tags/quantum-entanglement	Q215675	P1482	https://physics.stackexchange.com/tags/quantum-entanglement
+quantum entanglement	Stack Exchange tag	https://quantumcomputing.stackexchange.com/tags/entanglement	Q215675	P1482	https://quantumcomputing.stackexchange.com/tags/entanglement
+quantum entanglement	FAST ID	1895138	Q215675	P2163	1895138
+quantum entanglement	YSO ID	38828	Q215675	P2347	38828
+quantum entanglement	defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2203;</mi><mo stretchy="false">|</mo><mi>&#x03C8;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">&#x2208;</mo><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℋ</mi></mrow><mo>,</mo><mo stretchy="false">|</mo><mi>&#x03C7;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">&#x2208;</mo><msup><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℋ</mi></mrow><mo>&#x2032;</mo></msup><mo stretchy="false">&#x003A;</mo><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">=</mo><mo stretchy="false">|</mo><mi>&#x03C8;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">&#x2297;</mo><mo stretchy="false">|</mo><mi>&#x03C7;</mi><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>	Q215675	P2534	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2203;</mi><mo stretchy="false">|</mo><mi>&#x03C8;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">&#x2208;</mo><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℋ</mi></mrow><mo>,</mo><mo stretchy="false">|</mo><mi>&#x03C7;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">&#x2208;</mo><msup><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℋ</mi></mrow><mo>&#x2032;</mo></msup><mo stretchy="false">&#x003A;</mo><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">=</mo><mo stretchy="false">|</mo><mi>&#x03C8;</mi><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">&#x2297;</mo><mo stretchy="false">|</mo><mi>&#x03C7;</mi><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>
+quantum entanglement	studied by	quantum mechanics	Q215675	P2579	http://www.wikidata.org/entity/Q944
+quantum entanglement	Google Knowledge Graph ID	/g/125n1wy9d	Q215675	P2671	/g/125n1wy9d
+quantum entanglement	Stanford Encyclopedia of Philosophy ID	qt-entangle	Q215675	P3123	qt-entangle
+quantum entanglement	Treccani ID	entanglement	Q215675	P3365	entanglement
+quantum entanglement	Quora topic ID	Quantum-Entanglement	Q215675	P3417	Quantum-Entanglement
+quantum entanglement	JSTOR topic ID (archived)	quantum-entanglement	Q215675	P3827	quantum-entanglement
+quantum entanglement	nLab ID	entanglement	Q215675	P4215	entanglement
+quantum entanglement	Great Norwegian Encyclopedia ID	sammenfiltring	Q215675	P4342	sammenfiltring
+quantum entanglement	on focus list of Wikimedia project	Wikipedia:Vital articles/Level/4	Q215675	P5008	http://www.wikidata.org/entity/Q6173448
+quantum entanglement	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20test%20for%20entangled%20qubits.svg	Q215675	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20test%20for%20entangled%20qubits.svg
+quantum entanglement	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Entangled%20spins.svg	Q215675	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Entangled%20spins.svg
+quantum entanglement	maintained by WikiProject	WikiProject Mathematics	Q215675	P6104	http://www.wikidata.org/entity/Q8487137
+quantum entanglement	maintained by WikiProject	WikiProject Physics	Q215675	P6104	http://www.wikidata.org/entity/Q8487193
+quantum entanglement	Microsoft Academic ID (discontinued)	104434177	Q215675	P6366	104434177
+quantum entanglement	Microsoft Academic ID (discontinued)	121040770	Q215675	P6366	121040770
+quantum entanglement	Brilliant Wiki ID	quantum-entanglement	Q215675	P6564	quantum-entanglement
+quantum entanglement	RationalWiki ID	Quantum_entanglement	Q215675	P7775	Quantum_entanglement
+quantum entanglement	National Library of Israel J9U ID	987007570576305171	Q215675	P8189	987007570576305171
+quantum entanglement	Lex ID	Entanglement	Q215675	P8313	Entanglement
+quantum entanglement	Namuwiki ID	양자 얽힘	Q215675	P8885	양자 얽힘
+quantum entanglement	OpenAlex ID	C104434177	Q215675	P10283	C104434177
+quantum entanglement	OpenAlex ID	C121040770	Q215675	P10283	C121040770
+quantum entanglement	ScienceDirect topic ID	chemistry/quantum-entanglement	Q215675	P10376	chemistry/quantum-entanglement
+quantum entanglement	ScienceDirect topic ID	physics-and-astronomy/quantum-entanglement	Q215675	P10376	physics-and-astronomy/quantum-entanglement
+quantum entanglement	Encyclopedia of China (Third Edition) ID	215693	Q215675	P10565	215693
+quantum entanglement	Gran Enciclopèdia Catalana ID	entrellacament-quantic	Q215675	P12385	entrellacament-quantic
+quantum entanglement	characteristic of	quantum mechanics	Q215675	P13044	http://www.wikidata.org/entity/Q944
+quantum entanglement	Yale LUX ID	concept/931a300a-41f6-4641-8870-671e774727e5	Q215675	P13591	concept/931a300a-41f6-4641-8870-671e774727e5
+Planck constant	image	http://commons.wikimedia.org/wiki/Special:FilePath/U%2B210E.svg	Q122894	P18	http://commons.wikimedia.org/wiki/Special:FilePath/U%2B210E.svg
+Planck constant	instance of	physical constant	Q122894	P31	http://www.wikidata.org/entity/Q173227
+Planck constant	instance of	action	Q122894	P31	http://www.wikidata.org/entity/Q846785
+Planck constant	instance of	UCUM constant	Q122894	P31	http://www.wikidata.org/entity/Q83155724
+Planck constant	discoverer or inventor	Max Planck	Q122894	P61	http://www.wikidata.org/entity/Q9021
+Planck constant	measured physical quantity	action	Q122894	P111	http://www.wikidata.org/entity/Q846785
+Planck constant	named after	Max Planck	Q122894	P138	http://www.wikidata.org/entity/Q9021
+Planck constant	GND ID	4174790-2	Q122894	P227	4174790-2
+Planck constant	Commons category	Planck constant	Q122894	P373	Planck constant
+Planck constant	pronunciation audio	http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B0%20%E0%A6%A7%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%95.wav	Q122894	P443	http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B0%20%E0%A6%A7%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%95.wav
+Planck constant	time of discovery or invention	1901-01-01T00:00:00Z	Q122894	P575	1901-01-01T00:00:00Z
+Planck constant	Freebase ID	/m/09lbb	Q122894	P646	/m/09lbb
+Planck constant	Dewey Decimal Classification	530.81	Q122894	P1036	530.81
+Planck constant	numeric value	0.000000000000000000000000000000000662607015	Q122894	P1181	0.000000000000000000000000000000000662607015
+Planck constant	Gran Enciclopèdia Catalana ID (former scheme)	0051399	Q122894	P1296	0051399
+Planck constant	Encyclopædia Britannica Online ID	science/Plancks-constant	Q122894	P1417	science/Plancks-constant
+Planck constant	NIST/CODATA ID	h	Q122894	P1645	h
+Planck constant	different from	reduced Planck constant	Q122894	P1889	http://www.wikidata.org/entity/Q2115969
+Planck constant	different from	molar Planck constant	Q122894	P1889	http://www.wikidata.org/entity/Q109366037
+Planck constant	defining formula	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>E</mi><mo stretchy="false">=</mo><mi>h</mi><mo stretchy="false">⋅</mo><mi>ν</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>h</mi><mo stretchy="false">⋅</mo><mi>c</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>λ</mi></mrow></mfrac></mrow></mstyle></mrow></math>	Q122894	P2534	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>E</mi><mo stretchy="false">=</mo><mi>h</mi><mo stretchy="false">⋅</mo><mi>ν</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>h</mi><mo stretchy="false">⋅</mo><mi>c</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>λ</mi></mrow></mfrac></mrow></mstyle></mrow></math>
+Planck constant	defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>h</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>3</mn><mo stretchy="false">&#x00D7;</mo><mn>7</mn><mo stretchy="false">&#x00D7;</mo><mn>6</mn><mspace width="0.167em"></mspace><mn>3</mn><mn>1</mn><mn>0</mn><mspace width="0.167em"></mspace><mn>5</mn><mn>4</mn><mn>3</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><msup><mn>2</mn><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>4</mn><mn>2</mn></mrow></mrow></msup><mo stretchy="false">&#x00D7;</mo><msup><mn>5</mn><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>4</mn><mn>1</mn></mrow></mrow></msup></mrow></mrow></mfrac></mrow><mspace width="0.167em"></mspace><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">J</mi></mrow><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">s</mi></mrow></mstyle></mrow></math>	Q122894	P2534	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>h</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>3</mn><mo stretchy="false">&#x00D7;</mo><mn>7</mn><mo stretchy="false">&#x00D7;</mo><mn>6</mn><mspace width="0.167em"></mspace><mn>3</mn><mn>1</mn><mn>0</mn><mspace width="0.167em"></mspace><mn>5</mn><mn>4</mn><mn>3</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><msup><mn>2</mn><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>4</mn><mn>2</mn></mrow></mrow></msup><mo stretchy="false">&#x00D7;</mo><msup><mn>5</mn><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>4</mn><mn>1</mn></mrow></mrow></msup></mrow></mrow></mfrac></mrow><mspace width="0.167em"></mspace><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">J</mi></mrow><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">s</mi></mrow></mstyle></mrow></math>
+Planck constant	Great Russian Encyclopedia Online ID (2017)	3143496	Q122894	P2924	3143496
+Planck constant	Encyclopædia Universalis ID	planck-quantum-d-action	Q122894	P3219	planck-quantum-d-action
+Planck constant	Quora topic ID	Planck-Constant	Q122894	P3417	Planck-Constant
+quantum entanglement	video	http://commons.wikimedia.org/wiki/Special:FilePath/Entanglement%20vs%20classical%20correlation%20abstract%20picture.gif	Q215675	P10	http://commons.wikimedia.org/wiki/Special:FilePath/Entanglement%20vs%20classical%20correlation%20abstract%20picture.gif
+quantum entanglement	video	http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20entanglement%20vs%20classical%20correlation%20video%20short.gif	Q215675	P10	http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20entanglement%20vs%20classical%20correlation%20video%20short.gif
+quantum entanglement	image	http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20Entangled%20Photon%20Generator%20-%20DEF%20CON%2017%20-%20Aug.%202009.jpg	Q215675	P18	http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20Entangled%20Photon%20Generator%20-%20DEF%20CON%2017%20-%20Aug.%202009.jpg
+Planck constant	JSTOR topic ID (archived)	planck-constant	Q122894	P3827	planck-constant
+Planck constant	ISQ dimension	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>	Q122894	P4020	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>
+Planck constant	nLab ID	Planck's constant	Q122894	P4215	Planck's constant
+Planck constant	Great Norwegian Encyclopedia ID	Plancks_konstant	Q122894	P4342	Plancks_konstant
+Planck constant	IUPAC Gold Book ID	P04685	Q122894	P4732	P04685
+Planck constant	Elhuyar ZTH ID	057548	Q122894	P4746	057548
+Planck constant	Wolfram Language entity code	Entity["PhysicalConstant", "PlanckConstant"]	Q122894	P4839	Entity["PhysicalConstant", "PlanckConstant"]
+Planck constant	World of Physics ID	PlancksConstant	Q122894	P5064	PlancksConstant
+Planck constant	schematic	http://commons.wikimedia.org/wiki/Special:FilePath/Photo-electric%20effect%20electron%20liberization.svg	Q122894	P5555	http://commons.wikimedia.org/wiki/Special:FilePath/Photo-electric%20effect%20electron%20liberization.svg
+Planck constant	maintained by WikiProject	WikiProject Mathematics	Q122894	P6104	http://www.wikidata.org/entity/Q8487137
+Planck constant	Microsoft Academic ID (discontinued)	197111296	Q122894	P6366	197111296
+Planck constant	Krugosvet article (archived)	nauka_i_tehnika/fizika/PLANKA_POSTOYANNAYA.html	Q122894	P6385	nauka_i_tehnika/fizika/PLANKA_POSTOYANNAYA.html
+Planck constant	ProofWiki ID	Definition:Planck's_Constant	Q122894	P6781	Definition:Planck's_Constant
+Planck constant	NicoNicoPedia ID	プランク定数	Q122894	P6900	プランク定数
+Planck constant	Wolfram Language unit code	"PlanckConstant"	Q122894	P7007	"PlanckConstant"
+Planck constant	in defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>h</mi></mstyle></mrow></math>	Q122894	P7235	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>h</mi></mstyle></mrow></math>
+Planck constant	in defining formula	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>	Q122894	P7235	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>
+Planck constant	in defining formula	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>E</mi></mstyle></mrow></math>	Q122894	P7235	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>E</mi></mstyle></mrow></math>
+Planck constant	in defining formula	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ν</mi></mstyle></mrow></math>	Q122894	P7235	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ν</mi></mstyle></mrow></math>
+Planck constant	in defining formula	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>λ</mi></mstyle></mrow></math>	Q122894	P7235	<math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>λ</mi></mstyle></mrow></math>
+Planck constant	in defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">J</mi></mrow><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">s</mi></mrow></mstyle></mrow></math>	Q122894	P7235	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">J</mi></mrow><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">s</mi></mrow></mstyle></mrow></math>
+Planck constant	RationalWiki ID	Planck's_constant	Q122894	P7775	Planck's_constant
+Planck constant	UCUM code	[h]	Q122894	P7825	[h]
+Planck constant	quantity symbol (LaTeX)	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>h</mi></mstyle></mrow></math>	Q122894	P7973	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>h</mi></mstyle></mrow></math>
+Planck constant	Lex ID	Plancks_konstant	Q122894	P8313	Plancks_konstant
+Planck constant	IEV number	113-05-07	Q122894	P8855	113-05-07
+Planck constant	IEV number	845-21-108	Q122894	P8855	845-21-108
+Planck constant	IEV number	881-04-14	Q122894	P8855	881-04-14
+Planck constant	Namuwiki ID	플랑크 상수	Q122894	P8885	플랑크 상수
+Planck constant	OpenAlex ID	C197111296	Q122894	P10283	C197111296
+Planck constant	ScienceDirect topic ID	earth-and-planetary-sciences/planck-constant	Q122894	P10376	earth-and-planetary-sciences/planck-constant
+Planck constant	ScienceDirect topic ID	engineering/plancks-constant	Q122894	P10376	engineering/plancks-constant
+Planck constant	ScienceDirect topic ID	mathematics/planck-constant	Q122894	P10376	mathematics/planck-constant
+Planck constant	Encyclopedia of China (Third Edition) ID	215487	Q122894	P10565	215487
+Planck constant	Great Russian Encyclopedia portal ID	postoiannaia-planka-6680d7	Q122894	P11514	postoiannaia-planka-6680d7
+Planck constant	Gran Enciclopèdia Catalana ID	constant-de-planck	Q122894	P12385	constant-de-planck
+Planck constant	Vikidia article ID	fr:Constante_de_Planck	Q122894	P12800	fr:Constante_de_Planck
+Planck constant	Arab Encyclopedia concept ID	5389	Q122894	P13750	5389
+Schrödinger equation	Bibliothèque nationale de France ID	119702345	Q165498	P268	119702345
+Schrödinger equation	subclass of	partial differential equation	Q165498	P279	http://www.wikidata.org/entity/Q271977
+Schrödinger equation	Commons category	Schrödinger equation	Q165498	P373	Schrödinger equation
+Schrödinger equation	BNCF Thesaurus ID	32491	Q165498	P508	32491
+Schrödinger equation	Freebase ID	/m/0g97h	Q165498	P646	/m/0g97h
+Schrödinger equation	NL CR AUT ID	ph195849	Q165498	P691	ph195849
+Schrödinger equation	topic's main category	Category:Schrödinger equation	Q165498	P910	http://www.wikidata.org/entity/Q7481091
+Schrödinger equation	Dewey Decimal Classification	530.124	Q165498	P1036	530.124
+Schrödinger equation	Dewey Decimal Classification	515.353	Q165498	P1036	515.353
+Schrödinger equation	PSH ID	7609	Q165498	P1051	7609
+Schrödinger equation	described by source	Armenian Soviet Encyclopedia, vol. 8	Q165498	P1343	http://www.wikidata.org/entity/Q124737635
+Schrödinger equation	Encyclopædia Britannica Online ID	science/Schrodinger-equation	Q165498	P1417	science/Schrodinger-equation
+Schrödinger equation	Stack Exchange tag	https://physics.stackexchange.com/tags/schroedinger-equation	Q165498	P1482	https://physics.stackexchange.com/tags/schroedinger-equation
+Schrödinger equation	defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi alternate="1">&#x210F;</mi><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>d</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>d</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>H</mi><mo>^</mo></mover></mrow></mrow><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>	Q165498	P2534	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi alternate="1">&#x210F;</mi><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>d</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>d</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>H</mi><mo>^</mo></mover></mrow></mrow><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>
+Schrödinger equation	MathWorld ID	SchroedingerEquation	Q165498	P2812	SchroedingerEquation
+Schrödinger equation	Great Russian Encyclopedia Online ID (2017)	4921452	Q165498	P2924	4921452
+Schrödinger equation	Quora topic ID	Schrödinger-Equation	Q165498	P3417	Schrödinger-Equation
+Schrödinger equation	Zhihu topic ID	20014387	Q165498	P3553	20014387
+Schrödinger equation	nLab ID	Schrödinger equation	Q165498	P4215	Schrödinger equation
+Schrödinger equation	Great Norwegian Encyclopedia ID	schrödingerligningen	Q165498	P4342	schrödingerligningen
+Schrödinger equation	Elhuyar ZTH ID	030510	Q165498	P4746	030510
+Schrödinger equation	Wolfram Language entity code	Entity["Concept", "SchrodingerEquation::6hq22"]	Q165498	P4839	Entity["Concept", "SchrodingerEquation::6hq22"]
+Schrödinger equation	on focus list of Wikimedia project	Wikipedia:Vital articles/Level/4	Q165498	P5008	http://www.wikidata.org/entity/Q6173448
+Schrödinger equation	World of Physics ID	SchroedingerEquation	Q165498	P5064	SchroedingerEquation
+Schrödinger equation	Larousse ID	divers/équation_de_Schrödinger/90566	Q165498	P6058	divers/équation_de_Schrödinger/90566
+Schrödinger equation	maintained by WikiProject	WikiProject Mathematics	Q165498	P6104	http://www.wikidata.org/entity/Q8487137
+Schrödinger equation	Microsoft Academic ID (discontinued)	63036615	Q165498	P6366	63036615
+Schrödinger equation	Brilliant Wiki ID	schrodinger-equation	Q165498	P6564	schrodinger-equation
+Schrödinger equation	ProofWiki ID	Definition:Schrödinger's_Equation	Q165498	P6781	Definition:Schrödinger's_Equation
+Schrödinger equation	in defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>	Q165498	P7235	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>
+Schrödinger equation	in defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>H</mi><mo>^</mo></mover></mrow></mrow></mstyle></mrow></math>	Q165498	P7235	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>H</mi><mo>^</mo></mover></mrow></mrow></mstyle></mrow></math>
+Schrödinger equation	in defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi alternate="1">&#x210F;</mi></mstyle></mrow></math>	Q165498	P7235	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi alternate="1">&#x210F;</mi></mstyle></mrow></math>
+Schrödinger equation	in defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>	Q165498	P7235	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>
+Schrödinger equation	in defining formula	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">|</mo><mspace width="0.167em"></mspace><mi>&#x03C8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>	Q165498	P7235	<math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">|</mo><mspace width="0.167em"></mspace><mi>&#x03C8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>
+Schrödinger equation	Online PWN Encyclopedia ID	3973208	Q165498	P7305	3973208
+Schrödinger equation	PlanetMath ID	SchrodingersWaveEquation	Q165498	P7726	SchrodingersWaveEquation
+Schrödinger equation	National Library of Israel J9U ID	987007560881205171	Q165498	P8189	987007560881205171
+Schrödinger equation	KBpedia ID	SchroedingerEquation	Q165498	P8408	SchroedingerEquation
+Schrödinger equation	Treccani's Enciclopedia della Matematica ID	equazione-di-schrodinger	Q165498	P9621	equazione-di-schrodinger
+Schrödinger equation	OpenAlex ID	C63036615	Q165498	P10283	C63036615
+Schrödinger equation	Yale LUX ID	concept/6573c9bd-cacb-4045-9a4f-c8f390d0535e	Q165498	P13591	concept/6573c9bd-cacb-4045-9a4f-c8f390d0535e

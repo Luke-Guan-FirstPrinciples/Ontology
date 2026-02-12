@@ -1,0 +1,634 @@
+[
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "target": "Q193068",
+    "targetLabel": "wave–particle duality"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P1534",
+    "propLabel": "end cause",
+    "target": "Q497396",
+    "targetLabel": "Hawking radiation"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "target": "Q497396",
+    "targetLabel": "Hawking radiation"
+  },
+  {
+    "entity": "Q5962",
+    "entityLabel": "Boltzmann constant",
+    "prop": "P31",
+    "propLabel": "instance of",
+    "target": "Q45003",
+    "targetLabel": "entropy"
+  },
+  {
+    "entity": "Q5962",
+    "entityLabel": "Boltzmann constant",
+    "prop": "P111",
+    "propLabel": "measured physical quantity",
+    "target": "Q45003",
+    "targetLabel": "entropy"
+  },
+  {
+    "entity": "Q11473",
+    "entityLabel": "thermodynamics",
+    "prop": "P2578",
+    "propLabel": "is the study of",
+    "target": "Q11466",
+    "targetLabel": "temperature"
+  },
+  {
+    "entity": "Q11473",
+    "entityLabel": "thermodynamics",
+    "prop": "P2578",
+    "propLabel": "is the study of",
+    "target": "Q45003",
+    "targetLabel": "entropy"
+  },
+  {
+    "entity": "Q497396",
+    "entityLabel": "Hawking radiation",
+    "prop": "P828",
+    "propLabel": "has cause",
+    "target": "Q589",
+    "targetLabel": "black hole"
+  },
+  {
+    "entity": "Q402",
+    "entityLabel": "Higgs boson",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q2126",
+    "entityLabel": "neutrino",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q2225",
+    "entityLabel": "electron",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q3151",
+    "entityLabel": "muon",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q3229",
+    "entityLabel": "positron",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q3299",
+    "entityLabel": "gluon",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q6718",
+    "entityLabel": "quark",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q6732",
+    "entityLabel": "up quark",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q6745",
+    "entityLabel": "down quark",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q488719",
+    "entityLabel": "Z boson",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q1029485",
+    "entityLabel": "W boson",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q2111",
+    "entityLabel": "speed of light in vacuum",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "target": "Q11406",
+    "targetLabel": "electromagnetism"
+  },
+  {
+    "entity": "Q30006",
+    "entityLabel": "gravitational acceleration",
+    "prop": "P1889",
+    "propLabel": "different from",
+    "target": "Q11412",
+    "targetLabel": "gravity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11415",
+    "targetLabel": "strong interaction"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11415",
+    "targetLabel": "strong interaction"
+  },
+  {
+    "entity": "Q3299",
+    "entityLabel": "gluon",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11415",
+    "targetLabel": "strong interaction"
+  },
+  {
+    "entity": "Q6718",
+    "entityLabel": "quark",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11415",
+    "targetLabel": "strong interaction"
+  },
+  {
+    "entity": "Q6732",
+    "entityLabel": "up quark",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11415",
+    "targetLabel": "strong interaction"
+  },
+  {
+    "entity": "Q6745",
+    "entityLabel": "down quark",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11415",
+    "targetLabel": "strong interaction"
+  },
+  {
+    "entity": "Q402",
+    "entityLabel": "Higgs boson",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q2126",
+    "entityLabel": "neutrino",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q2225",
+    "entityLabel": "electron",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q3151",
+    "entityLabel": "muon",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q3229",
+    "entityLabel": "positron",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q6718",
+    "entityLabel": "quark",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q6732",
+    "entityLabel": "up quark",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q6745",
+    "entityLabel": "down quark",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q488719",
+    "entityLabel": "Z boson",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q1029485",
+    "entityLabel": "W boson",
+    "prop": "P517",
+    "propLabel": "interaction",
+    "target": "Q11418",
+    "targetLabel": "weak interaction"
+  },
+  {
+    "entity": "Q273711",
+    "entityLabel": "Einstein field equations",
+    "prop": "P361",
+    "propLabel": "part of",
+    "target": "Q11452",
+    "targetLabel": "general relativity"
+  },
+  {
+    "entity": "Q2225",
+    "entityLabel": "electron",
+    "prop": "P461",
+    "propLabel": "opposite of",
+    "target": "Q2294",
+    "targetLabel": "proton"
+  },
+  {
+    "entity": "Q2111",
+    "entityLabel": "speed of light in vacuum",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "target": "Q11455",
+    "targetLabel": "special relativity"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "target": "Q11452",
+    "targetLabel": "general relativity"
+  },
+  {
+    "entity": "Q2126",
+    "entityLabel": "neutrino",
+    "prop": "P1889",
+    "propLabel": "different from",
+    "target": "Q2348",
+    "targetLabel": "neutron"
+  },
+  {
+    "entity": "Q193068",
+    "entityLabel": "wave–particle duality",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "target": "Q944",
+    "targetLabel": "quantum mechanics"
+  },
+  {
+    "entity": "Q215675",
+    "entityLabel": "quantum entanglement",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "target": "Q944",
+    "targetLabel": "quantum mechanics"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "target": "Q11452",
+    "targetLabel": "general relativity"
+  },
+  {
+    "entity": "Q215675",
+    "entityLabel": "quantum entanglement",
+    "prop": "P13044",
+    "propLabel": "characteristic of",
+    "target": "Q944",
+    "targetLabel": "quantum mechanics"
+  },
+  {
+    "entity": "Q6732",
+    "entityLabel": "up quark",
+    "prop": "P279",
+    "propLabel": "subclass of",
+    "target": "Q6718",
+    "targetLabel": "quark"
+  },
+  {
+    "entity": "Q6745",
+    "entityLabel": "down quark",
+    "prop": "P279",
+    "propLabel": "subclass of",
+    "target": "Q6718",
+    "targetLabel": "quark"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "target": "Q6732",
+    "targetLabel": "up quark"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "target": "Q6732",
+    "targetLabel": "up quark"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "target": "Q6745",
+    "targetLabel": "down quark"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "target": "Q6745",
+    "targetLabel": "down quark"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "target": "Q3299",
+    "targetLabel": "gluon"
+  },
+  {
+    "entity": "Q2225",
+    "entityLabel": "electron",
+    "prop": "P2152",
+    "propLabel": "antiparticle",
+    "target": "Q3229",
+    "targetLabel": "positron"
+  },
+  {
+    "entity": "Q3151",
+    "entityLabel": "muon",
+    "prop": "P155",
+    "propLabel": "follows",
+    "target": "Q2225",
+    "targetLabel": "electron"
+  },
+  {
+    "entity": "Q2225",
+    "entityLabel": "electron",
+    "prop": "P156",
+    "propLabel": "followed by",
+    "target": "Q3151",
+    "targetLabel": "muon"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P461",
+    "propLabel": "opposite of",
+    "target": "Q2225",
+    "targetLabel": "electron"
+  },
+  {
+    "entity": "Q402",
+    "entityLabel": "Higgs boson",
+    "prop": "P816",
+    "propLabel": "decays to",
+    "target": "Q2225",
+    "targetLabel": "electron"
+  },
+  {
+    "entity": "Q402",
+    "entityLabel": "Higgs boson",
+    "prop": "P816",
+    "propLabel": "decays to",
+    "target": "Q3198",
+    "targetLabel": "photon"
+  },
+  {
+    "entity": "Q3229",
+    "entityLabel": "positron",
+    "prop": "P2152",
+    "propLabel": "antiparticle",
+    "target": "Q2225",
+    "targetLabel": "electron"
+  },
+  {
+    "entity": "Q38433",
+    "entityLabel": "Newton's laws of motion",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "target": "Q11397",
+    "targetLabel": "classical mechanics"
+  },
+  {
+    "entity": "Q11466",
+    "entityLabel": "temperature",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "target": "Q11473",
+    "targetLabel": "thermodynamics"
+  },
+  {
+    "entity": "Q45003",
+    "entityLabel": "entropy",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "target": "Q11473",
+    "targetLabel": "thermodynamics"
+  },
+  {
+    "entity": "Q2101",
+    "entityLabel": "elementary charge",
+    "prop": "P111",
+    "propLabel": "measured physical quantity",
+    "target": "Q1111",
+    "targetLabel": "electric charge"
+  },
+  {
+    "entity": "Q11452",
+    "entityLabel": "general relativity",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "target": "Q273711",
+    "targetLabel": "Einstein field equations"
+  },
+  {
+    "entity": "Q11423",
+    "entityLabel": "mass",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "target": "Q11379",
+    "targetLabel": "energy"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "target": "Q1111",
+    "targetLabel": "electric charge"
+  },
+  {
+    "entity": "Q6718",
+    "entityLabel": "quark",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "target": "Q1111",
+    "targetLabel": "electric charge"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "target": "Q11423",
+    "targetLabel": "mass"
+  },
+  {
+    "entity": "Q11379",
+    "entityLabel": "energy",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "target": "Q11423",
+    "targetLabel": "mass"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "target": "Q161254",
+    "targetLabel": "angular momentum"
+  },
+  {
+    "entity": "Q193068",
+    "entityLabel": "wave–particle duality",
+    "prop": "P1557",
+    "propLabel": "manifestation of",
+    "target": "Q44746",
+    "targetLabel": "uncertainty principle"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P1889",
+    "propLabel": "different from",
+    "target": "Q30006",
+    "targetLabel": "gravitational acceleration"
+  },
+  {
+    "entity": "Q11473",
+    "entityLabel": "thermodynamics",
+    "prop": "P2578",
+    "propLabel": "is the study of",
+    "target": "Q11379",
+    "targetLabel": "energy"
+  }
+]

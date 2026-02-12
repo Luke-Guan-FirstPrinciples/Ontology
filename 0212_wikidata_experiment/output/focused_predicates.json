@@ -1,0 +1,1754 @@
+[
+  {
+    "entity": "Q3151",
+    "entityLabel": "muon",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q169366",
+    "valueLabel": "Carl David Anderson"
+  },
+  {
+    "entity": "Q3229",
+    "entityLabel": "positron",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q169366",
+    "valueLabel": "Carl David Anderson"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q3901694",
+    "valueLabel": "Photinus-luciferin 4-monooxygenase (ATP-hydrolyzing) activity"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q14859558",
+    "valueLabel": "response to light stimulus"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22316027",
+    "valueLabel": "oxygen evolving activity"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22316927",
+    "valueLabel": "Renilla-luciferin 2-monooxygenase activity"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22316934",
+    "valueLabel": "Watasenia-luciferin 2-monooxygenase activity"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22316949",
+    "valueLabel": "Cypridina-luciferin 2-monooxygenase activity"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22316953",
+    "valueLabel": "Oplophorus-luciferin 2-monooxygenase activity"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22317043",
+    "valueLabel": "Latia-luciferin monooxygenase (demethylating) activity"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22317834",
+    "valueLabel": "alkanal monooxygenase (FMN-linked) activity"
+  },
+  {
+    "entity": "Q3229",
+    "entityLabel": "positron",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q18334",
+    "valueLabel": "particle physics"
+  },
+  {
+    "entity": "Q6718",
+    "entityLabel": "quark",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q101667",
+    "valueLabel": "hadron"
+  },
+  {
+    "entity": "Q11406",
+    "entityLabel": "electromagnetism",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q413",
+    "valueLabel": "physics"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q6745",
+    "valueLabel": "down quark"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q171516",
+    "valueLabel": "Compton effect"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q56312436",
+    "valueLabel": "Q56312436"
+  },
+  {
+    "entity": "Q3198",
+    "entityLabel": "photon",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q193068",
+    "valueLabel": "wave–particle duality"
+  },
+  {
+    "entity": "Q3299",
+    "entityLabel": "gluon",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q380528",
+    "valueLabel": "color charge"
+  },
+  {
+    "entity": "Q6718",
+    "entityLabel": "quark",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q1111",
+    "valueLabel": "electric charge"
+  },
+  {
+    "entity": "Q6718",
+    "entityLabel": "quark",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q174012",
+    "valueLabel": "lepton number"
+  },
+  {
+    "entity": "Q6718",
+    "entityLabel": "quark",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q380528",
+    "valueLabel": "color charge"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q3338735",
+    "valueLabel": "neutron transport"
+  },
+  {
+    "entity": "Q402",
+    "entityLabel": "Higgs boson",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q42944",
+    "valueLabel": "CERN"
+  },
+  {
+    "entity": "Q402",
+    "entityLabel": "Higgs boson",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q299002",
+    "valueLabel": "ATLAS experiment"
+  },
+  {
+    "entity": "Q402",
+    "entityLabel": "Higgs boson",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q659478",
+    "valueLabel": "CMS experiment"
+  },
+  {
+    "entity": "Q2225",
+    "entityLabel": "electron",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q47285",
+    "valueLabel": "J. J. Thomson"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q9123",
+    "valueLabel": "Ernest Rutherford"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q80884",
+    "valueLabel": "James Chadwick"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q37147",
+    "valueLabel": "atomic nucleus"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q14914114",
+    "valueLabel": "proton transmembrane transporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q14914122",
+    "valueLabel": "solute:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21102109",
+    "valueLabel": "proton channel activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21102393",
+    "valueLabel": "P-type proton-exporting transporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21106264",
+    "valueLabel": "carbohydrate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21107660",
+    "valueLabel": "voltage-gated proton channel activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21107997",
+    "valueLabel": "sodium:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21108405",
+    "valueLabel": "synaptic vesicle lumen acidification"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21121262",
+    "valueLabel": "amino acid:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21123410",
+    "valueLabel": "solute:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21123423",
+    "valueLabel": "potassium:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21124078",
+    "valueLabel": "metal ion:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21124400",
+    "valueLabel": "peptide:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21135974",
+    "valueLabel": "monovalent cation:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21136485",
+    "valueLabel": "gamma-aminobutyric acid:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q21761006",
+    "valueLabel": "proton transmembrane transport"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22275790",
+    "valueLabel": "energy coupled proton transport, down electrochemical gradient"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22292747",
+    "valueLabel": "energy coupled proton transmembrane transport, against electrochemical gradient"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22314466",
+    "valueLabel": "proton binding"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22320767",
+    "valueLabel": "pyrophosphate hydrolysis-driven proton transmembrane transporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324593",
+    "valueLabel": "acetylcholine:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324599",
+    "valueLabel": "ferric enterobactin:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324609",
+    "valueLabel": "benomyl:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324613",
+    "valueLabel": "acridine:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324620",
+    "valueLabel": "amiloride:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324622",
+    "valueLabel": "cycloheximide:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324624",
+    "valueLabel": "tetracycline:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324627",
+    "valueLabel": "azole:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324629",
+    "valueLabel": "aminotriazole:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324631",
+    "valueLabel": "fluconazole:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324636",
+    "valueLabel": "thiamine:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324682",
+    "valueLabel": "nucleoside:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324683",
+    "valueLabel": "xanthosine:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324687",
+    "valueLabel": "uridine:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324694",
+    "valueLabel": "sialic acid:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324707",
+    "valueLabel": "alpha-glucoside:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324709",
+    "valueLabel": "trehalose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324718",
+    "valueLabel": "glucosinolate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324726",
+    "valueLabel": "maltose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324731",
+    "valueLabel": "lactose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324732",
+    "valueLabel": "sucrose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324735",
+    "valueLabel": "raffinose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324743",
+    "valueLabel": "2-keto-3-deoxygluconate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324751",
+    "valueLabel": "arabinose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324752",
+    "valueLabel": "D-xylose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324753",
+    "valueLabel": "hexose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324754",
+    "valueLabel": "glucose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324758",
+    "valueLabel": "D-glucose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324759",
+    "valueLabel": "rhamnose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324761",
+    "valueLabel": "fucose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324762",
+    "valueLabel": "galactose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324763",
+    "valueLabel": "fructose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324764",
+    "valueLabel": "mannose:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324833",
+    "valueLabel": "alpha-ketoglutarate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324844",
+    "valueLabel": "succinate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324846",
+    "valueLabel": "malate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324855",
+    "valueLabel": "citrate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324858",
+    "valueLabel": "lysine:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324859",
+    "valueLabel": "aromatic amino acid:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324860",
+    "valueLabel": "phenylalanine:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324861",
+    "valueLabel": "proline:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324887",
+    "valueLabel": "acetate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324889",
+    "valueLabel": "lactate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324896",
+    "valueLabel": "shikimate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324908",
+    "valueLabel": "quaternary ammonium group:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324909",
+    "valueLabel": "glycine betaine:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324911",
+    "valueLabel": "myo-inositol:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324912",
+    "valueLabel": "potassium:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324914",
+    "valueLabel": "phosphate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324916",
+    "valueLabel": "cytosine:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324917",
+    "valueLabel": "sulfate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324920",
+    "valueLabel": "selenite:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324923",
+    "valueLabel": "nitrate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324927",
+    "valueLabel": "allantoin:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324929",
+    "valueLabel": "auxin:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324935",
+    "valueLabel": "lithium:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324936",
+    "valueLabel": "polyamine:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324937",
+    "valueLabel": "monoamine:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324939",
+    "valueLabel": "calcium:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22324940",
+    "valueLabel": "manganese:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q22325024",
+    "valueLabel": "3-hydroxyphenyl propionate:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q29573177",
+    "valueLabel": "proton export across plasma membrane"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q54810634",
+    "valueLabel": "folic acid:proton symporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q70535594",
+    "valueLabel": "chloride:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q112998327",
+    "valueLabel": "zinc:proton antiporter activity"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q112999185",
+    "valueLabel": "gamma-aminobutyric acid:proton antiporter activity"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q37147",
+    "valueLabel": "atomic nucleus"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q3299",
+    "valueLabel": "gluon"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q6732",
+    "valueLabel": "up quark"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q6745",
+    "valueLabel": "down quark"
+  },
+  {
+    "entity": "Q2294",
+    "entityLabel": "proton",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q2265489",
+    "valueLabel": "sea quark"
+  },
+  {
+    "entity": "Q2348",
+    "entityLabel": "neutron",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q6732",
+    "valueLabel": "up quark"
+  },
+  {
+    "entity": "Q2126",
+    "entityLabel": "neutrino",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q509021",
+    "valueLabel": "neutrino oscillation"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q935",
+    "valueLabel": "Isaac Newton"
+  },
+  {
+    "entity": "Q11452",
+    "entityLabel": "general relativity",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q937",
+    "valueLabel": "Albert Einstein"
+  },
+  {
+    "entity": "Q11455",
+    "entityLabel": "special relativity",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q937",
+    "valueLabel": "Albert Einstein"
+  },
+  {
+    "entity": "Q234881",
+    "entityLabel": "quantum electrodynamics",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q47480",
+    "valueLabel": "Paul Dirac"
+  },
+  {
+    "entity": "Q944",
+    "entityLabel": "quantum mechanics",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q658544",
+    "valueLabel": "modern physics"
+  },
+  {
+    "entity": "Q944",
+    "entityLabel": "quantum mechanics",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q1144457",
+    "valueLabel": "quantum physics"
+  },
+  {
+    "entity": "Q11452",
+    "entityLabel": "general relativity",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q43514",
+    "valueLabel": "theory of relativity"
+  },
+  {
+    "entity": "Q11455",
+    "entityLabel": "special relativity",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q43514",
+    "valueLabel": "theory of relativity"
+  },
+  {
+    "entity": "Q11473",
+    "entityLabel": "thermodynamics",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q413",
+    "valueLabel": "physics"
+  },
+  {
+    "entity": "Q54505",
+    "entityLabel": "quantum field theory",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q1144457",
+    "valueLabel": "quantum physics"
+  },
+  {
+    "entity": "Q11452",
+    "entityLabel": "general relativity",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q273711",
+    "valueLabel": "Einstein field equations"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P828",
+    "propLabel": "has cause",
+    "value": "http://www.wikidata.org/entity/Q35758",
+    "valueLabel": "matter"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P828",
+    "propLabel": "has cause",
+    "value": "http://www.wikidata.org/entity/Q4240689",
+    "valueLabel": "spacetime curvature"
+  },
+  {
+    "entity": "Q188715",
+    "entityLabel": "statistical mechanics",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q41217",
+    "valueLabel": "mechanics"
+  },
+  {
+    "entity": "Q188715",
+    "entityLabel": "statistical mechanics",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q677916",
+    "valueLabel": "statistical physics"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q11620540",
+    "valueLabel": "fall"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q29652844",
+    "valueLabel": "gravitational motion"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q4240689",
+    "valueLabel": "spacetime curvature"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q119510698",
+    "valueLabel": "gravitational force"
+  },
+  {
+    "entity": "Q11452",
+    "entityLabel": "general relativity",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q6784057",
+    "valueLabel": "mass in general relativity"
+  },
+  {
+    "entity": "Q11455",
+    "entityLabel": "special relativity",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q719048",
+    "valueLabel": "mass in special relativity"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q11452",
+    "valueLabel": "general relativity"
+  },
+  {
+    "entity": "Q11412",
+    "entityLabel": "gravity",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q134465",
+    "valueLabel": "Newton's law of universal gravitation"
+  },
+  {
+    "entity": "Q18338",
+    "entityLabel": "Standard Model",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q18334",
+    "valueLabel": "particle physics"
+  },
+  {
+    "entity": "Q33198",
+    "entityLabel": "string theory",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q18362",
+    "valueLabel": "theoretical physics"
+  },
+  {
+    "entity": "Q2111",
+    "entityLabel": "speed of light in vacuum",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q160187",
+    "valueLabel": "Ole Rømer"
+  },
+  {
+    "entity": "Q5997",
+    "entityLabel": "fine-structure constant",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q77078",
+    "valueLabel": "Arnold Sommerfeld"
+  },
+  {
+    "entity": "Q38433",
+    "entityLabel": "Newton's laws of motion",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q935",
+    "valueLabel": "Isaac Newton"
+  },
+  {
+    "entity": "Q44746",
+    "entityLabel": "uncertainty principle",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q40904",
+    "valueLabel": "Werner Heisenberg"
+  },
+  {
+    "entity": "Q122894",
+    "entityLabel": "Planck constant",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q9021",
+    "valueLabel": "Max Planck"
+  },
+  {
+    "entity": "Q272621",
+    "entityLabel": "Dirac equation",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q47480",
+    "valueLabel": "Paul Dirac"
+  },
+  {
+    "entity": "Q273711",
+    "entityLabel": "Einstein field equations",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q11452",
+    "valueLabel": "general relativity"
+  },
+  {
+    "entity": "Q38433",
+    "entityLabel": "Newton's laws of motion",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q2397319",
+    "valueLabel": "Newton's second law of motion for constant mass"
+  },
+  {
+    "entity": "Q38433",
+    "entityLabel": "Newton's laws of motion",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q3235565",
+    "valueLabel": "Newton's third law of motion"
+  },
+  {
+    "entity": "Q38433",
+    "entityLabel": "Newton's laws of motion",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q3235671",
+    "valueLabel": "Newton's first law"
+  },
+  {
+    "entity": "Q51501",
+    "entityLabel": "Maxwell's equations",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q51500",
+    "valueLabel": "Ampère's circuital law"
+  },
+  {
+    "entity": "Q51501",
+    "entityLabel": "Maxwell's equations",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q173356",
+    "valueLabel": "Gauss's law"
+  },
+  {
+    "entity": "Q51501",
+    "entityLabel": "Maxwell's equations",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q181465",
+    "valueLabel": "Faraday's law of induction"
+  },
+  {
+    "entity": "Q51501",
+    "entityLabel": "Maxwell's equations",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q1195250",
+    "valueLabel": "Gauss's law for magnetism"
+  },
+  {
+    "entity": "Q2111",
+    "entityLabel": "speed of light in vacuum",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q11406",
+    "valueLabel": "electromagnetism"
+  },
+  {
+    "entity": "Q2111",
+    "entityLabel": "speed of light in vacuum",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q11455",
+    "valueLabel": "special relativity"
+  },
+  {
+    "entity": "Q2111",
+    "entityLabel": "speed of light in vacuum",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q11475",
+    "valueLabel": "vacuum"
+  },
+  {
+    "entity": "Q2111",
+    "entityLabel": "speed of light in vacuum",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q2024141",
+    "valueLabel": "massless quantum particle"
+  },
+  {
+    "entity": "Q5997",
+    "entityLabel": "fine-structure constant",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q849919",
+    "valueLabel": "electromagnetic interaction"
+  },
+  {
+    "entity": "Q5997",
+    "entityLabel": "fine-structure constant",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q1402041",
+    "valueLabel": "fine structure"
+  },
+  {
+    "entity": "Q44746",
+    "entityLabel": "uncertainty principle",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q1144457",
+    "valueLabel": "quantum physics"
+  },
+  {
+    "entity": "Q51501",
+    "entityLabel": "Maxwell's equations",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q377930",
+    "valueLabel": "classical electromagnetism"
+  },
+  {
+    "entity": "Q201321",
+    "entityLabel": "Navier–Stokes equations",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q1098081",
+    "valueLabel": "Navier–Stokes existence and smoothness"
+  },
+  {
+    "entity": "Q11423",
+    "entityLabel": "mass",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q11402",
+    "valueLabel": "force"
+  },
+  {
+    "entity": "Q11423",
+    "entityLabel": "mass",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q11379",
+    "valueLabel": "energy"
+  },
+  {
+    "entity": "Q11423",
+    "entityLabel": "mass",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q122508",
+    "valueLabel": "inertia"
+  },
+  {
+    "entity": "Q38433",
+    "entityLabel": "Newton's laws of motion",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q11397",
+    "valueLabel": "classical mechanics"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P61",
+    "propLabel": "discoverer or inventor",
+    "value": "http://www.wikidata.org/entity/Q12998",
+    "valueLabel": "Q12998"
+  },
+  {
+    "entity": "Q11379",
+    "entityLabel": "energy",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q1",
+    "valueLabel": "universe"
+  },
+  {
+    "entity": "Q11379",
+    "entityLabel": "energy",
+    "prop": "P361",
+    "propLabel": "part of",
+    "value": "http://www.wikidata.org/entity/Q35875",
+    "valueLabel": "mass–energy equivalence"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q181741",
+    "valueLabel": "event horizon"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q201721",
+    "valueLabel": "gravitational singularity"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q656650",
+    "valueLabel": "ergosphere"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q2361910",
+    "valueLabel": "photon sphere"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q2470767",
+    "valueLabel": "Cauchy horizon"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q5452017",
+    "valueLabel": "firewall"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q25110047",
+    "valueLabel": "innermost stable circular orbit"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q134574466",
+    "valueLabel": "Shock singularity"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q135299894",
+    "valueLabel": "Soft hair"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q135920232",
+    "valueLabel": "mass inflation"
+  },
+  {
+    "entity": "Q41273",
+    "entityLabel": "momentum",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q837940",
+    "valueLabel": "impulse"
+  },
+  {
+    "entity": "Q41273",
+    "entityLabel": "momentum",
+    "prop": "P527",
+    "propLabel": "has part(s)",
+    "value": "http://www.wikidata.org/entity/Q17115742",
+    "valueLabel": "Q17115742"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P828",
+    "propLabel": "has cause",
+    "value": "http://www.wikidata.org/.well-known/genid/76699701b6acf1494c9a24e7fc8f87a6",
+    "valueLabel": "http://www.wikidata.org/.well-known/genid/76699701b6acf1494c9a24e7fc8f87a6"
+  },
+  {
+    "entity": "Q11379",
+    "entityLabel": "energy",
+    "prop": "P828",
+    "propLabel": "has cause",
+    "value": "http://www.wikidata.org/entity/Q1522115",
+    "valueLabel": "energy source"
+  },
+  {
+    "entity": "Q497396",
+    "entityLabel": "Hawking radiation",
+    "prop": "P828",
+    "propLabel": "has cause",
+    "value": "http://www.wikidata.org/entity/Q589",
+    "valueLabel": "black hole"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q11452",
+    "valueLabel": "general relativity"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P1269",
+    "propLabel": "facet of",
+    "value": "http://www.wikidata.org/entity/Q201721",
+    "valueLabel": "gravitational singularity"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q1",
+    "valueLabel": "universe"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q15605",
+    "valueLabel": "cosmic microwave background"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q837317",
+    "valueLabel": "Big Bang nucleosynthesis"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q1129469",
+    "valueLabel": "expansion of the universe"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P1542",
+    "propLabel": "has effect",
+    "value": "http://www.wikidata.org/entity/Q497396",
+    "valueLabel": "Hawking radiation"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q1111",
+    "valueLabel": "electric charge"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q11423",
+    "valueLabel": "mass"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q161254",
+    "valueLabel": "angular momentum"
+  },
+  {
+    "entity": "Q11379",
+    "entityLabel": "energy",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q11382",
+    "valueLabel": "conservation of energy"
+  },
+  {
+    "entity": "Q11379",
+    "entityLabel": "energy",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q11423",
+    "valueLabel": "mass"
+  },
+  {
+    "entity": "Q11379",
+    "entityLabel": "energy",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q3935690",
+    "valueLabel": "form of energy"
+  },
+  {
+    "entity": "Q193068",
+    "entityLabel": "wave–particle duality",
+    "prop": "P1552",
+    "propLabel": "has characteristic",
+    "value": "http://www.wikidata.org/entity/Q167312",
+    "valueLabel": "dualism"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q338",
+    "valueLabel": "cosmology"
+  },
+  {
+    "entity": "Q323",
+    "entityLabel": "Big Bang",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q43514",
+    "valueLabel": "theory of relativity"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q18362",
+    "valueLabel": "theoretical physics"
+  },
+  {
+    "entity": "Q589",
+    "entityLabel": "black hole",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q37547",
+    "valueLabel": "astrophysics"
+  },
+  {
+    "entity": "Q11379",
+    "entityLabel": "energy",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q719597",
+    "valueLabel": "energetics"
+  },
+  {
+    "entity": "Q11466",
+    "entityLabel": "temperature",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q11473",
+    "valueLabel": "thermodynamics"
+  },
+  {
+    "entity": "Q45003",
+    "entityLabel": "entropy",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q11473",
+    "valueLabel": "thermodynamics"
+  },
+  {
+    "entity": "Q124131",
+    "entityLabel": "superconductivity",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q228736",
+    "valueLabel": "materials science"
+  },
+  {
+    "entity": "Q124131",
+    "entityLabel": "superconductivity",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q722131",
+    "valueLabel": "BCS theory"
+  },
+  {
+    "entity": "Q124131",
+    "entityLabel": "superconductivity",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q908692",
+    "valueLabel": "cryophysics"
+  },
+  {
+    "entity": "Q193068",
+    "entityLabel": "wave–particle duality",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q944",
+    "valueLabel": "quantum mechanics"
+  },
+  {
+    "entity": "Q215675",
+    "entityLabel": "quantum entanglement",
+    "prop": "P2579",
+    "propLabel": "studied by",
+    "value": "http://www.wikidata.org/entity/Q944",
+    "valueLabel": "quantum mechanics"
+  }
+]

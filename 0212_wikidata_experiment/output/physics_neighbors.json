@@ -1,0 +1,176 @@
+[
+  {
+    "neighbor": "Q131468",
+    "neighborLabel": "white hole",
+    "connectingProp": "P138",
+    "connectingPropLabel": "named after"
+  },
+  {
+    "neighbor": "Q40392",
+    "neighborLabel": "supermassive black hole",
+    "connectingProp": "P279",
+    "connectingPropLabel": "subclass of"
+  },
+  {
+    "neighbor": "Q1050633",
+    "neighborLabel": "intermediate-mass black hole",
+    "connectingProp": "P279",
+    "connectingPropLabel": "subclass of"
+  },
+  {
+    "neighbor": "Q131468",
+    "neighborLabel": "white hole",
+    "connectingProp": "P461",
+    "connectingPropLabel": "opposite of"
+  },
+  {
+    "neighbor": "Q131468",
+    "neighborLabel": "white hole",
+    "connectingProp": "P1889",
+    "connectingPropLabel": "different from"
+  },
+  {
+    "neighbor": "Q107988399",
+    "neighborLabel": "avian quantum compass",
+    "connectingProp": "P31",
+    "connectingPropLabel": "instance of"
+  },
+  {
+    "neighbor": "Q177831",
+    "neighborLabel": "magnetic flux",
+    "connectingProp": "P361",
+    "connectingPropLabel": "part of"
+  },
+  {
+    "neighbor": "Q354040",
+    "neighborLabel": "ponderomotive force",
+    "connectingProp": "P361",
+    "connectingPropLabel": "part of"
+  },
+  {
+    "neighbor": "Q319686",
+    "neighborLabel": "speed of gravity",
+    "connectingProp": "P460",
+    "connectingPropLabel": "said to be the same as"
+  },
+  {
+    "neighbor": "Q109366037",
+    "neighborLabel": "molar Planck constant",
+    "connectingProp": "P1889",
+    "connectingPropLabel": "different from"
+  },
+  {
+    "neighbor": "Q123984677",
+    "neighborLabel": "outsize black hole galaxy",
+    "connectingProp": "P279",
+    "connectingPropLabel": "subclass of"
+  },
+  {
+    "neighbor": "Q125501085",
+    "neighborLabel": "blackhole candidate",
+    "connectingProp": "P460",
+    "connectingPropLabel": "said to be the same as"
+  },
+  {
+    "neighbor": "Q83327",
+    "neighborLabel": "electronvolt",
+    "connectingProp": "P138",
+    "connectingPropLabel": "named after"
+  },
+  {
+    "neighbor": "Q104853025",
+    "neighborLabel": "direct collapse black hole",
+    "connectingProp": "P279",
+    "connectingPropLabel": "subclass of"
+  },
+  {
+    "neighbor": "Q111181539",
+    "neighborLabel": "Rogue black hole",
+    "connectingProp": "P279",
+    "connectingPropLabel": "subclass of"
+  },
+  {
+    "neighbor": "Q2115969",
+    "neighborLabel": "reduced Planck constant",
+    "connectingProp": "P1889",
+    "connectingPropLabel": "different from"
+  },
+  {
+    "neighbor": "Q10458671",
+    "neighborLabel": "population III star",
+    "connectingProp": "P1542",
+    "connectingPropLabel": "has effect"
+  },
+  {
+    "neighbor": "Q1457669",
+    "neighborLabel": "massive compact halo object",
+    "connectingProp": "P279",
+    "connectingPropLabel": "subclass of"
+  },
+  {
+    "neighbor": "Q181741",
+    "neighborLabel": "event horizon",
+    "connectingProp": "P527",
+    "connectingPropLabel": "has part(s)"
+  },
+  {
+    "neighbor": "Q11423",
+    "neighborLabel": "mass",
+    "connectingProp": "P1552",
+    "connectingPropLabel": "has characteristic"
+  },
+  {
+    "neighbor": "Q1047034",
+    "neighborLabel": "stellar black hole",
+    "connectingProp": "P279",
+    "connectingPropLabel": "subclass of"
+  },
+  {
+    "neighbor": "Q3229",
+    "neighborLabel": "positron",
+    "connectingProp": "P2152",
+    "connectingPropLabel": "antiparticle"
+  },
+  {
+    "neighbor": "Q2111",
+    "neighborLabel": "speed of light in vacuum",
+    "connectingProp": "P1269",
+    "connectingPropLabel": "facet of"
+  },
+  {
+    "neighbor": "Q256124",
+    "neighborLabel": "equivalent number",
+    "connectingProp": "P11279",
+    "connectingPropLabel": "counts number of"
+  },
+  {
+    "neighbor": "Q182429",
+    "neighborLabel": "metre per second",
+    "connectingProp": "P8111",
+    "connectingPropLabel": "recommended unit of measurement"
+  },
+  {
+    "neighbor": "Q368442",
+    "neighborLabel": "compact object",
+    "connectingProp": "P279",
+    "connectingPropLabel": "subclass of"
+  },
+  {
+    "neighbor": "Q523",
+    "neighborLabel": "star",
+    "connectingProp": "P3730",
+    "connectingPropLabel": "next higher rank"
+  },
+  {
+    "neighbor": "Q66821593",
+    "neighborLabel": "At",
+    "connectingProp": "P31",
+    "connectingPropLabel": "instance of"
+  },
+  {
+    "neighbor": "Q11573",
+    "neighborLabel": "metre",
+    "connectingProp": "P4934",
+    "connectingPropLabel": "calculated from"
+  }
+]

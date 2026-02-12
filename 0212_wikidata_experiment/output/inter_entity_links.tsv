@@ -1,0 +1,80 @@
+entityLabel	propLabel	targetLabel	entity	prop	target
+photon	has characteristic	wave–particle duality	Q3198	P1552	Q193068
+black hole	end cause	Hawking radiation	Q589	P1534	Q497396
+black hole	has effect	Hawking radiation	Q589	P1542	Q497396
+Boltzmann constant	instance of	entropy	Q5962	P31	Q45003
+Boltzmann constant	measured physical quantity	entropy	Q5962	P111	Q45003
+thermodynamics	is the study of	temperature	Q11473	P2578	Q11466
+thermodynamics	is the study of	entropy	Q11473	P2578	Q45003
+Hawking radiation	has cause	black hole	Q497396	P828	Q589
+Higgs boson	interaction	gravity	Q402	P517	Q11412
+neutrino	interaction	gravity	Q2126	P517	Q11412
+electron	interaction	gravity	Q2225	P517	Q11412
+proton	interaction	gravity	Q2294	P517	Q11412
+neutron	interaction	gravity	Q2348	P517	Q11412
+muon	interaction	gravity	Q3151	P517	Q11412
+photon	interaction	gravity	Q3198	P517	Q11412
+positron	interaction	gravity	Q3229	P517	Q11412
+gluon	interaction	gravity	Q3299	P517	Q11412
+quark	interaction	gravity	Q6718	P517	Q11412
+up quark	interaction	gravity	Q6732	P517	Q11412
+down quark	interaction	gravity	Q6745	P517	Q11412
+Z boson	interaction	gravity	Q488719	P517	Q11412
+W boson	interaction	gravity	Q1029485	P517	Q11412
+speed of light in vacuum	facet of	electromagnetism	Q2111	P1269	Q11406
+gravitational acceleration	different from	gravity	Q30006	P1889	Q11412
+proton	interaction	strong interaction	Q2294	P517	Q11415
+neutron	interaction	strong interaction	Q2348	P517	Q11415
+gluon	interaction	strong interaction	Q3299	P517	Q11415
+quark	interaction	strong interaction	Q6718	P517	Q11415
+up quark	interaction	strong interaction	Q6732	P517	Q11415
+down quark	interaction	strong interaction	Q6745	P517	Q11415
+Higgs boson	interaction	weak interaction	Q402	P517	Q11418
+neutrino	interaction	weak interaction	Q2126	P517	Q11418
+electron	interaction	weak interaction	Q2225	P517	Q11418
+proton	interaction	weak interaction	Q2294	P517	Q11418
+neutron	interaction	weak interaction	Q2348	P517	Q11418
+muon	interaction	weak interaction	Q3151	P517	Q11418
+positron	interaction	weak interaction	Q3229	P517	Q11418
+quark	interaction	weak interaction	Q6718	P517	Q11418
+up quark	interaction	weak interaction	Q6732	P517	Q11418
+down quark	interaction	weak interaction	Q6745	P517	Q11418
+Z boson	interaction	weak interaction	Q488719	P517	Q11418
+W boson	interaction	weak interaction	Q1029485	P517	Q11418
+Einstein field equations	part of	general relativity	Q273711	P361	Q11452
+electron	opposite of	proton	Q2225	P461	Q2294
+speed of light in vacuum	facet of	special relativity	Q2111	P1269	Q11455
+Big Bang	facet of	general relativity	Q323	P1269	Q11452
+neutrino	different from	neutron	Q2126	P1889	Q2348
+wave–particle duality	studied by	quantum mechanics	Q193068	P2579	Q944
+quantum entanglement	studied by	quantum mechanics	Q215675	P2579	Q944
+gravity	studied by	general relativity	Q11412	P2579	Q11452
+quantum entanglement	characteristic of	quantum mechanics	Q215675	P13044	Q944
+up quark	subclass of	quark	Q6732	P279	Q6718
+down quark	subclass of	quark	Q6745	P279	Q6718
+proton	has part(s)	up quark	Q2294	P527	Q6732
+neutron	has part(s)	up quark	Q2348	P527	Q6732
+proton	has part(s)	down quark	Q2294	P527	Q6745
+neutron	has part(s)	down quark	Q2348	P527	Q6745
+proton	has part(s)	gluon	Q2294	P527	Q3299
+electron	antiparticle	positron	Q2225	P2152	Q3229
+muon	follows	electron	Q3151	P155	Q2225
+electron	followed by	muon	Q2225	P156	Q3151
+proton	opposite of	electron	Q2294	P461	Q2225
+Higgs boson	decays to	electron	Q402	P816	Q2225
+Higgs boson	decays to	photon	Q402	P816	Q3198
+positron	antiparticle	electron	Q3229	P2152	Q2225
+Newton's laws of motion	studied by	classical mechanics	Q38433	P2579	Q11397
+temperature	studied by	thermodynamics	Q11466	P2579	Q11473
+entropy	studied by	thermodynamics	Q45003	P2579	Q11473
+elementary charge	measured physical quantity	electric charge	Q2101	P111	Q1111
+general relativity	has part(s)	Einstein field equations	Q11452	P527	Q273711
+mass	has characteristic	energy	Q11423	P1552	Q11379
+black hole	has characteristic	electric charge	Q589	P1552	Q1111
+quark	has characteristic	electric charge	Q6718	P1552	Q1111
+black hole	has characteristic	mass	Q589	P1552	Q11423
+energy	has characteristic	mass	Q11379	P1552	Q11423
+black hole	has characteristic	angular momentum	Q589	P1552	Q161254
+wave–particle duality	manifestation of	uncertainty principle	Q193068	P1557	Q44746
+gravity	different from	gravitational acceleration	Q11412	P1889	Q30006
+thermodynamics	is the study of	energy	Q11473	P2578	Q11379

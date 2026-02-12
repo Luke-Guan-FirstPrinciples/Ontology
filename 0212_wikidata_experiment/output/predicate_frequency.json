@@ -1,0 +1,352 @@
+[
+  {
+    "rank": 1,
+    "pid": "P10376",
+    "label": "ScienceDirect topic ID",
+    "count": 130,
+    "type": "other"
+  },
+  {
+    "rank": 2,
+    "pid": "P361",
+    "label": "part of",
+    "count": 109,
+    "type": "KNOWN"
+  },
+  {
+    "rank": 3,
+    "pid": "P279",
+    "label": "subclass of",
+    "count": 98,
+    "type": "HIERARCHY"
+  },
+  {
+    "rank": 4,
+    "pid": "P31",
+    "label": "instance of",
+    "count": 94,
+    "type": "HIERARCHY"
+  },
+  {
+    "rank": 5,
+    "pid": "P5555",
+    "label": "schematic",
+    "count": 88,
+    "type": "other"
+  },
+  {
+    "rank": 6,
+    "pid": "P1343",
+    "label": "described by source",
+    "count": 87,
+    "type": "other"
+  },
+  {
+    "rank": 7,
+    "pid": "P1813",
+    "label": "short name",
+    "count": 83,
+    "type": "other"
+  },
+  {
+    "rank": 8,
+    "pid": "P7235",
+    "label": "in defining formula",
+    "count": 77,
+    "type": "other"
+  },
+  {
+    "rank": 9,
+    "pid": "P10565",
+    "label": "Encyclopedia of China (Third Edition) ID",
+    "count": 70,
+    "type": "other"
+  },
+  {
+    "rank": 10,
+    "pid": "P10283",
+    "label": "OpenAlex ID",
+    "count": 64,
+    "type": "other"
+  },
+  {
+    "rank": 11,
+    "pid": "P1482",
+    "label": "Stack Exchange tag",
+    "count": 63,
+    "type": "other"
+  },
+  {
+    "rank": 12,
+    "pid": "P5008",
+    "label": "on focus list of Wikimedia project",
+    "count": 61,
+    "type": "other"
+  },
+  {
+    "rank": 13,
+    "pid": "P1889",
+    "label": "different from",
+    "count": 61,
+    "type": "KNOWN"
+  },
+  {
+    "rank": 14,
+    "pid": "P1417",
+    "label": "Encyclopædia Britannica Online ID",
+    "count": 60,
+    "type": "other"
+  },
+  {
+    "rank": 15,
+    "pid": "P6262",
+    "label": "Fandom article ID",
+    "count": 59,
+    "type": "other"
+  },
+  {
+    "rank": 16,
+    "pid": "P18",
+    "label": "image",
+    "count": 57,
+    "type": "other"
+  },
+  {
+    "rank": 17,
+    "pid": "P6366",
+    "label": "Microsoft Academic ID (discontinued)",
+    "count": 56,
+    "type": "other"
+  },
+  {
+    "rank": 18,
+    "pid": "P646",
+    "label": "Freebase ID",
+    "count": 55,
+    "type": "other"
+  },
+  {
+    "rank": 19,
+    "pid": "P227",
+    "label": "GND ID",
+    "count": 53,
+    "type": "other"
+  },
+  {
+    "rank": 20,
+    "pid": "P12800",
+    "label": "Vikidia article ID",
+    "count": 52,
+    "type": "other"
+  },
+  {
+    "rank": 21,
+    "pid": "P3417",
+    "label": "Quora topic ID",
+    "count": 51,
+    "type": "other"
+  },
+  {
+    "rank": 22,
+    "pid": "P1036",
+    "label": "Dewey Decimal Classification",
+    "count": 48,
+    "type": "other"
+  },
+  {
+    "rank": 23,
+    "pid": "P373",
+    "label": "Commons category",
+    "count": 46,
+    "type": "other"
+  },
+  {
+    "rank": 24,
+    "pid": "P517",
+    "label": "interaction",
+    "count": 45,
+    "type": "other"
+  },
+  {
+    "rank": 25,
+    "pid": "P4342",
+    "label": "Great Norwegian Encyclopedia ID",
+    "count": 45,
+    "type": "other"
+  },
+  {
+    "rank": 26,
+    "pid": "P13591",
+    "label": "Yale LUX ID",
+    "count": 44,
+    "type": "other"
+  },
+  {
+    "rank": 27,
+    "pid": "P5064",
+    "label": "World of Physics ID",
+    "count": 43,
+    "type": "other"
+  },
+  {
+    "rank": 28,
+    "pid": "P910",
+    "label": "topic's main category",
+    "count": 42,
+    "type": "KNOWN"
+  },
+  {
+    "rank": 29,
+    "pid": "P8189",
+    "label": "National Library of Israel J9U ID",
+    "count": 41,
+    "type": "other"
+  },
+  {
+    "rank": 30,
+    "pid": "P244",
+    "label": "Library of Congress authority ID",
+    "count": 41,
+    "type": "other"
+  },
+  {
+    "rank": 31,
+    "pid": "P508",
+    "label": "BNCF Thesaurus ID",
+    "count": 41,
+    "type": "other"
+  },
+  {
+    "rank": 32,
+    "pid": "P3827",
+    "label": "JSTOR topic ID (archived)",
+    "count": 39,
+    "type": "other"
+  },
+  {
+    "rank": 33,
+    "pid": "P268",
+    "label": "Bibliothèque nationale de France ID",
+    "count": 38,
+    "type": "other"
+  },
+  {
+    "rank": 34,
+    "pid": "P4215",
+    "label": "nLab ID",
+    "count": 37,
+    "type": "other"
+  },
+  {
+    "rank": 35,
+    "pid": "P8408",
+    "label": "KBpedia ID",
+    "count": 36,
+    "type": "other"
+  },
+  {
+    "rank": 36,
+    "pid": "P8855",
+    "label": "IEV number",
+    "count": 34,
+    "type": "other"
+  },
+  {
+    "rank": 37,
+    "pid": "P2347",
+    "label": "YSO ID",
+    "count": 34,
+    "type": "other"
+  },
+  {
+    "rank": 38,
+    "pid": "P1051",
+    "label": "PSH ID",
+    "count": 34,
+    "type": "other"
+  },
+  {
+    "rank": 39,
+    "pid": "P8313",
+    "label": "Lex ID",
+    "count": 34,
+    "type": "other"
+  },
+  {
+    "rank": 40,
+    "pid": "P11514",
+    "label": "Great Russian Encyclopedia portal ID",
+    "count": 33,
+    "type": "other"
+  },
+  {
+    "rank": 41,
+    "pid": "P8885",
+    "label": "Namuwiki ID",
+    "count": 32,
+    "type": "other"
+  },
+  {
+    "rank": 42,
+    "pid": "P3219",
+    "label": "Encyclopædia Universalis ID",
+    "count": 30,
+    "type": "other"
+  },
+  {
+    "rank": 43,
+    "pid": "P691",
+    "label": "NL CR AUT ID",
+    "count": 29,
+    "type": "other"
+  },
+  {
+    "rank": 44,
+    "pid": "P7305",
+    "label": "Online PWN Encyclopedia ID",
+    "count": 29,
+    "type": "other"
+  },
+  {
+    "rank": 45,
+    "pid": "P443",
+    "label": "pronunciation audio",
+    "count": 27,
+    "type": "other"
+  },
+  {
+    "rank": 46,
+    "pid": "P1245",
+    "label": "OmegaWiki Defined Meaning",
+    "count": 26,
+    "type": "other"
+  },
+  {
+    "rank": 47,
+    "pid": "P6781",
+    "label": "ProofWiki ID",
+    "count": 26,
+    "type": "other"
+  },
+  {
+    "rank": 48,
+    "pid": "P527",
+    "label": "has part(s)",
+    "count": 26,
+    "type": "KNOWN"
+  },
+  {
+    "rank": 49,
+    "pid": "P10",
+    "label": "video",
+    "count": 26,
+    "type": "other"
+  },
+  {
+    "rank": 50,
+    "pid": "P1296",
+    "label": "Gran Enciclopèdia Catalana ID (former scheme)",
+    "count": 25,
+    "type": "other"
+  }
+]

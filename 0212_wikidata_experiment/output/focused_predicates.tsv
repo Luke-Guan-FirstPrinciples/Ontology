@@ -1,0 +1,220 @@
+entityLabel	propLabel	valueLabel	entity	prop	value
+muon	discoverer or inventor	Carl David Anderson	Q3151	P61	http://www.wikidata.org/entity/Q169366
+positron	discoverer or inventor	Carl David Anderson	Q3229	P61	http://www.wikidata.org/entity/Q169366
+photon	part of	Photinus-luciferin 4-monooxygenase (ATP-hydrolyzing) activity	Q3198	P361	http://www.wikidata.org/entity/Q3901694
+photon	part of	response to light stimulus	Q3198	P361	http://www.wikidata.org/entity/Q14859558
+photon	part of	oxygen evolving activity	Q3198	P361	http://www.wikidata.org/entity/Q22316027
+photon	part of	Renilla-luciferin 2-monooxygenase activity	Q3198	P361	http://www.wikidata.org/entity/Q22316927
+photon	part of	Watasenia-luciferin 2-monooxygenase activity	Q3198	P361	http://www.wikidata.org/entity/Q22316934
+photon	part of	Cypridina-luciferin 2-monooxygenase activity	Q3198	P361	http://www.wikidata.org/entity/Q22316949
+photon	part of	Oplophorus-luciferin 2-monooxygenase activity	Q3198	P361	http://www.wikidata.org/entity/Q22316953
+photon	part of	Latia-luciferin monooxygenase (demethylating) activity	Q3198	P361	http://www.wikidata.org/entity/Q22317043
+photon	part of	alkanal monooxygenase (FMN-linked) activity	Q3198	P361	http://www.wikidata.org/entity/Q22317834
+positron	part of	particle physics	Q3229	P361	http://www.wikidata.org/entity/Q18334
+quark	part of	hadron	Q6718	P361	http://www.wikidata.org/entity/Q101667
+electromagnetism	part of	physics	Q11406	P361	http://www.wikidata.org/entity/Q413
+neutron	has part(s)	down quark	Q2348	P527	http://www.wikidata.org/entity/Q6745
+photon	has effect	Compton effect	Q3198	P1542	http://www.wikidata.org/entity/Q171516
+photon	has effect	Q56312436	Q3198	P1542	http://www.wikidata.org/entity/Q56312436
+photon	has characteristic	wave–particle duality	Q3198	P1552	http://www.wikidata.org/entity/Q193068
+gluon	has characteristic	color charge	Q3299	P1552	http://www.wikidata.org/entity/Q380528
+quark	has characteristic	electric charge	Q6718	P1552	http://www.wikidata.org/entity/Q1111
+quark	has characteristic	lepton number	Q6718	P1552	http://www.wikidata.org/entity/Q174012
+quark	has characteristic	color charge	Q6718	P1552	http://www.wikidata.org/entity/Q380528
+neutron	studied by	neutron transport	Q2348	P2579	http://www.wikidata.org/entity/Q3338735
+Higgs boson	discoverer or inventor	CERN	Q402	P61	http://www.wikidata.org/entity/Q42944
+Higgs boson	discoverer or inventor	ATLAS experiment	Q402	P61	http://www.wikidata.org/entity/Q299002
+Higgs boson	discoverer or inventor	CMS experiment	Q402	P61	http://www.wikidata.org/entity/Q659478
+electron	discoverer or inventor	J. J. Thomson	Q2225	P61	http://www.wikidata.org/entity/Q47285
+proton	discoverer or inventor	Ernest Rutherford	Q2294	P61	http://www.wikidata.org/entity/Q9123
+neutron	discoverer or inventor	James Chadwick	Q2348	P61	http://www.wikidata.org/entity/Q80884
+proton	part of	atomic nucleus	Q2294	P361	http://www.wikidata.org/entity/Q37147
+proton	part of	proton transmembrane transporter activity	Q2294	P361	http://www.wikidata.org/entity/Q14914114
+proton	part of	solute:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q14914122
+proton	part of	proton channel activity	Q2294	P361	http://www.wikidata.org/entity/Q21102109
+proton	part of	P-type proton-exporting transporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21102393
+proton	part of	carbohydrate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21106264
+proton	part of	voltage-gated proton channel activity	Q2294	P361	http://www.wikidata.org/entity/Q21107660
+proton	part of	sodium:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21107997
+proton	part of	synaptic vesicle lumen acidification	Q2294	P361	http://www.wikidata.org/entity/Q21108405
+proton	part of	amino acid:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21121262
+proton	part of	solute:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21123410
+proton	part of	potassium:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21123423
+proton	part of	metal ion:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21124078
+proton	part of	peptide:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21124400
+proton	part of	monovalent cation:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21135974
+proton	part of	gamma-aminobutyric acid:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q21136485
+proton	part of	proton transmembrane transport	Q2294	P361	http://www.wikidata.org/entity/Q21761006
+proton	part of	energy coupled proton transport, down electrochemical gradient	Q2294	P361	http://www.wikidata.org/entity/Q22275790
+proton	part of	energy coupled proton transmembrane transport, against electrochemical gradient	Q2294	P361	http://www.wikidata.org/entity/Q22292747
+proton	part of	proton binding	Q2294	P361	http://www.wikidata.org/entity/Q22314466
+proton	part of	pyrophosphate hydrolysis-driven proton transmembrane transporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22320767
+proton	part of	acetylcholine:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324593
+proton	part of	ferric enterobactin:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324599
+proton	part of	benomyl:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324609
+proton	part of	acridine:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324613
+proton	part of	amiloride:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324620
+proton	part of	cycloheximide:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324622
+proton	part of	tetracycline:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324624
+proton	part of	azole:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324627
+proton	part of	aminotriazole:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324629
+proton	part of	fluconazole:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324631
+proton	part of	thiamine:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324636
+proton	part of	nucleoside:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324682
+proton	part of	xanthosine:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324683
+proton	part of	uridine:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324687
+proton	part of	sialic acid:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324694
+proton	part of	alpha-glucoside:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324707
+proton	part of	trehalose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324709
+proton	part of	glucosinolate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324718
+proton	part of	maltose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324726
+proton	part of	lactose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324731
+proton	part of	sucrose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324732
+proton	part of	raffinose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324735
+proton	part of	2-keto-3-deoxygluconate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324743
+proton	part of	arabinose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324751
+proton	part of	D-xylose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324752
+proton	part of	hexose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324753
+proton	part of	glucose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324754
+proton	part of	D-glucose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324758
+proton	part of	rhamnose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324759
+proton	part of	fucose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324761
+proton	part of	galactose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324762
+proton	part of	fructose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324763
+proton	part of	mannose:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324764
+proton	part of	alpha-ketoglutarate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324833
+proton	part of	succinate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324844
+proton	part of	malate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324846
+proton	part of	citrate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324855
+proton	part of	lysine:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324858
+proton	part of	aromatic amino acid:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324859
+proton	part of	phenylalanine:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324860
+proton	part of	proline:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324861
+proton	part of	acetate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324887
+proton	part of	lactate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324889
+proton	part of	shikimate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324896
+proton	part of	quaternary ammonium group:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324908
+proton	part of	glycine betaine:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324909
+proton	part of	myo-inositol:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324911
+proton	part of	potassium:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324912
+proton	part of	phosphate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324914
+proton	part of	cytosine:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324916
+proton	part of	sulfate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324917
+proton	part of	selenite:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324920
+proton	part of	nitrate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324923
+proton	part of	allantoin:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324927
+proton	part of	auxin:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324929
+proton	part of	lithium:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324935
+proton	part of	polyamine:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324936
+proton	part of	monoamine:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324937
+proton	part of	calcium:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324939
+proton	part of	manganese:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22324940
+proton	part of	3-hydroxyphenyl propionate:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q22325024
+proton	part of	proton export across plasma membrane	Q2294	P361	http://www.wikidata.org/entity/Q29573177
+proton	part of	folic acid:proton symporter activity	Q2294	P361	http://www.wikidata.org/entity/Q54810634
+proton	part of	chloride:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q70535594
+proton	part of	zinc:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q112998327
+proton	part of	gamma-aminobutyric acid:proton antiporter activity	Q2294	P361	http://www.wikidata.org/entity/Q112999185
+neutron	part of	atomic nucleus	Q2348	P361	http://www.wikidata.org/entity/Q37147
+proton	has part(s)	gluon	Q2294	P527	http://www.wikidata.org/entity/Q3299
+proton	has part(s)	up quark	Q2294	P527	http://www.wikidata.org/entity/Q6732
+proton	has part(s)	down quark	Q2294	P527	http://www.wikidata.org/entity/Q6745
+proton	has part(s)	sea quark	Q2294	P527	http://www.wikidata.org/entity/Q2265489
+neutron	has part(s)	up quark	Q2348	P527	http://www.wikidata.org/entity/Q6732
+neutrino	has characteristic	neutrino oscillation	Q2126	P1552	http://www.wikidata.org/entity/Q509021
+gravity	discoverer or inventor	Isaac Newton	Q11412	P61	http://www.wikidata.org/entity/Q935
+general relativity	discoverer or inventor	Albert Einstein	Q11452	P61	http://www.wikidata.org/entity/Q937
+special relativity	discoverer or inventor	Albert Einstein	Q11455	P61	http://www.wikidata.org/entity/Q937
+quantum electrodynamics	discoverer or inventor	Paul Dirac	Q234881	P61	http://www.wikidata.org/entity/Q47480
+quantum mechanics	part of	modern physics	Q944	P361	http://www.wikidata.org/entity/Q658544
+quantum mechanics	part of	quantum physics	Q944	P361	http://www.wikidata.org/entity/Q1144457
+general relativity	part of	theory of relativity	Q11452	P361	http://www.wikidata.org/entity/Q43514
+special relativity	part of	theory of relativity	Q11455	P361	http://www.wikidata.org/entity/Q43514
+thermodynamics	part of	physics	Q11473	P361	http://www.wikidata.org/entity/Q413
+quantum field theory	part of	quantum physics	Q54505	P361	http://www.wikidata.org/entity/Q1144457
+general relativity	has part(s)	Einstein field equations	Q11452	P527	http://www.wikidata.org/entity/Q273711
+gravity	has cause	matter	Q11412	P828	http://www.wikidata.org/entity/Q35758
+gravity	has cause	spacetime curvature	Q11412	P828	http://www.wikidata.org/entity/Q4240689
+statistical mechanics	facet of	mechanics	Q188715	P1269	http://www.wikidata.org/entity/Q41217
+statistical mechanics	facet of	statistical physics	Q188715	P1269	http://www.wikidata.org/entity/Q677916
+gravity	has effect	fall	Q11412	P1542	http://www.wikidata.org/entity/Q11620540
+gravity	has effect	gravitational motion	Q11412	P1542	http://www.wikidata.org/entity/Q29652844
+gravity	has characteristic	spacetime curvature	Q11412	P1552	http://www.wikidata.org/entity/Q4240689
+gravity	has characteristic	gravitational force	Q11412	P1552	http://www.wikidata.org/entity/Q119510698
+general relativity	has characteristic	mass in general relativity	Q11452	P1552	http://www.wikidata.org/entity/Q6784057
+special relativity	has characteristic	mass in special relativity	Q11455	P1552	http://www.wikidata.org/entity/Q719048
+gravity	studied by	general relativity	Q11412	P2579	http://www.wikidata.org/entity/Q11452
+gravity	studied by	Newton's law of universal gravitation	Q11412	P2579	http://www.wikidata.org/entity/Q134465
+Standard Model	studied by	particle physics	Q18338	P2579	http://www.wikidata.org/entity/Q18334
+string theory	studied by	theoretical physics	Q33198	P2579	http://www.wikidata.org/entity/Q18362
+speed of light in vacuum	discoverer or inventor	Ole Rømer	Q2111	P61	http://www.wikidata.org/entity/Q160187
+fine-structure constant	discoverer or inventor	Arnold Sommerfeld	Q5997	P61	http://www.wikidata.org/entity/Q77078
+Newton's laws of motion	discoverer or inventor	Isaac Newton	Q38433	P61	http://www.wikidata.org/entity/Q935
+uncertainty principle	discoverer or inventor	Werner Heisenberg	Q44746	P61	http://www.wikidata.org/entity/Q40904
+Planck constant	discoverer or inventor	Max Planck	Q122894	P61	http://www.wikidata.org/entity/Q9021
+Dirac equation	discoverer or inventor	Paul Dirac	Q272621	P61	http://www.wikidata.org/entity/Q47480
+Einstein field equations	part of	general relativity	Q273711	P361	http://www.wikidata.org/entity/Q11452
+Newton's laws of motion	has part(s)	Newton's second law of motion for constant mass	Q38433	P527	http://www.wikidata.org/entity/Q2397319
+Newton's laws of motion	has part(s)	Newton's third law of motion	Q38433	P527	http://www.wikidata.org/entity/Q3235565
+Newton's laws of motion	has part(s)	Newton's first law	Q38433	P527	http://www.wikidata.org/entity/Q3235671
+Maxwell's equations	has part(s)	Ampère's circuital law	Q51501	P527	http://www.wikidata.org/entity/Q51500
+Maxwell's equations	has part(s)	Gauss's law	Q51501	P527	http://www.wikidata.org/entity/Q173356
+Maxwell's equations	has part(s)	Faraday's law of induction	Q51501	P527	http://www.wikidata.org/entity/Q181465
+Maxwell's equations	has part(s)	Gauss's law for magnetism	Q51501	P527	http://www.wikidata.org/entity/Q1195250
+speed of light in vacuum	facet of	electromagnetism	Q2111	P1269	http://www.wikidata.org/entity/Q11406
+speed of light in vacuum	facet of	special relativity	Q2111	P1269	http://www.wikidata.org/entity/Q11455
+speed of light in vacuum	facet of	vacuum	Q2111	P1269	http://www.wikidata.org/entity/Q11475
+speed of light in vacuum	facet of	massless quantum particle	Q2111	P1269	http://www.wikidata.org/entity/Q2024141
+fine-structure constant	facet of	electromagnetic interaction	Q5997	P1269	http://www.wikidata.org/entity/Q849919
+fine-structure constant	facet of	fine structure	Q5997	P1269	http://www.wikidata.org/entity/Q1402041
+uncertainty principle	facet of	quantum physics	Q44746	P1269	http://www.wikidata.org/entity/Q1144457
+Maxwell's equations	facet of	classical electromagnetism	Q51501	P1269	http://www.wikidata.org/entity/Q377930
+Navier–Stokes equations	facet of	Navier–Stokes existence and smoothness	Q201321	P1269	http://www.wikidata.org/entity/Q1098081
+mass	has effect	force	Q11423	P1542	http://www.wikidata.org/entity/Q11402
+mass	has characteristic	energy	Q11423	P1552	http://www.wikidata.org/entity/Q11379
+mass	has characteristic	inertia	Q11423	P1552	http://www.wikidata.org/entity/Q122508
+Newton's laws of motion	studied by	classical mechanics	Q38433	P2579	http://www.wikidata.org/entity/Q11397
+Big Bang	discoverer or inventor	Q12998	Q323	P61	http://www.wikidata.org/entity/Q12998
+energy	part of	universe	Q11379	P361	http://www.wikidata.org/entity/Q1
+energy	part of	mass–energy equivalence	Q11379	P361	http://www.wikidata.org/entity/Q35875
+black hole	has part(s)	event horizon	Q589	P527	http://www.wikidata.org/entity/Q181741
+black hole	has part(s)	gravitational singularity	Q589	P527	http://www.wikidata.org/entity/Q201721
+black hole	has part(s)	ergosphere	Q589	P527	http://www.wikidata.org/entity/Q656650
+black hole	has part(s)	photon sphere	Q589	P527	http://www.wikidata.org/entity/Q2361910
+black hole	has part(s)	Cauchy horizon	Q589	P527	http://www.wikidata.org/entity/Q2470767
+black hole	has part(s)	firewall	Q589	P527	http://www.wikidata.org/entity/Q5452017
+black hole	has part(s)	innermost stable circular orbit	Q589	P527	http://www.wikidata.org/entity/Q25110047
+black hole	has part(s)	Shock singularity	Q589	P527	http://www.wikidata.org/entity/Q134574466
+black hole	has part(s)	Soft hair	Q589	P527	http://www.wikidata.org/entity/Q135299894
+black hole	has part(s)	mass inflation	Q589	P527	http://www.wikidata.org/entity/Q135920232
+momentum	has part(s)	impulse	Q41273	P527	http://www.wikidata.org/entity/Q837940
+momentum	has part(s)	Q17115742	Q41273	P527	http://www.wikidata.org/entity/Q17115742
+Big Bang	has cause	http://www.wikidata.org/.well-known/genid/76699701b6acf1494c9a24e7fc8f87a6	Q323	P828	http://www.wikidata.org/.well-known/genid/76699701b6acf1494c9a24e7fc8f87a6
+energy	has cause	energy source	Q11379	P828	http://www.wikidata.org/entity/Q1522115
+Hawking radiation	has cause	black hole	Q497396	P828	http://www.wikidata.org/entity/Q589
+Big Bang	facet of	general relativity	Q323	P1269	http://www.wikidata.org/entity/Q11452
+Big Bang	facet of	gravitational singularity	Q323	P1269	http://www.wikidata.org/entity/Q201721
+Big Bang	has effect	universe	Q323	P1542	http://www.wikidata.org/entity/Q1
+Big Bang	has effect	cosmic microwave background	Q323	P1542	http://www.wikidata.org/entity/Q15605
+Big Bang	has effect	Big Bang nucleosynthesis	Q323	P1542	http://www.wikidata.org/entity/Q837317
+Big Bang	has effect	expansion of the universe	Q323	P1542	http://www.wikidata.org/entity/Q1129469
+black hole	has effect	Hawking radiation	Q589	P1542	http://www.wikidata.org/entity/Q497396
+black hole	has characteristic	electric charge	Q589	P1552	http://www.wikidata.org/entity/Q1111
+black hole	has characteristic	mass	Q589	P1552	http://www.wikidata.org/entity/Q11423
+black hole	has characteristic	angular momentum	Q589	P1552	http://www.wikidata.org/entity/Q161254
+energy	has characteristic	conservation of energy	Q11379	P1552	http://www.wikidata.org/entity/Q11382
+energy	has characteristic	mass	Q11379	P1552	http://www.wikidata.org/entity/Q11423
+energy	has characteristic	form of energy	Q11379	P1552	http://www.wikidata.org/entity/Q3935690
+wave–particle duality	has characteristic	dualism	Q193068	P1552	http://www.wikidata.org/entity/Q167312
+Big Bang	studied by	cosmology	Q323	P2579	http://www.wikidata.org/entity/Q338
+Big Bang	studied by	theory of relativity	Q323	P2579	http://www.wikidata.org/entity/Q43514
+black hole	studied by	theoretical physics	Q589	P2579	http://www.wikidata.org/entity/Q18362
+black hole	studied by	astrophysics	Q589	P2579	http://www.wikidata.org/entity/Q37547
+energy	studied by	energetics	Q11379	P2579	http://www.wikidata.org/entity/Q719597
+temperature	studied by	thermodynamics	Q11466	P2579	http://www.wikidata.org/entity/Q11473
+entropy	studied by	thermodynamics	Q45003	P2579	http://www.wikidata.org/entity/Q11473
+superconductivity	studied by	materials science	Q124131	P2579	http://www.wikidata.org/entity/Q228736
+superconductivity	studied by	BCS theory	Q124131	P2579	http://www.wikidata.org/entity/Q722131
+superconductivity	studied by	cryophysics	Q124131	P2579	http://www.wikidata.org/entity/Q908692
+wave–particle duality	studied by	quantum mechanics	Q193068	P2579	http://www.wikidata.org/entity/Q944
+quantum entanglement	studied by	quantum mechanics	Q215675	P2579	http://www.wikidata.org/entity/Q944
