@@ -1,0 +1,43 @@
+# ─────────────────────────────────────────────────────────────────────────
+# Triplet Evaluation Configuration
+# ─────────────────────────────────────────────────────────────────────────
+
+# ── Sampling ──────────────────────────────────────────────────────────────
+sample:
+  # Number of random rows to pull from the database
+  n_rows: 100
+  # Output CSV file for the sampled triplets (input to the evaluator)
+  output_file: "data/sampled_triplets.csv"
+  # Database table to sample from
+  table: "graph_rag.graph_triplets_2025_09_09"
+
+# ── Input columns ─────────────────────────────────────────────────────────
+# These are the column names from the CSV that the evaluator reads.
+# Change these if your CSV has different column names.
+columns:
+  subject: "subject"
+  predicate: "predicate"
+  object: "object"
+  # Optional: extra context columns passed to the LLM for better evaluation
+  confidence: "confidence"
+  paper_id: "paper_id"
+  section: "section"
+
+# ── OpenAI Evaluation ────────────────────────────────────────────────────
+evaluation:
+  # Model to use (e.g. gpt-5.2, gpt-4.1, o3, gpt-4o)
+  model: "gpt-5.2"
+  # Input CSV (should match sample.output_file, or provide your own)
+  input_file: "data/sampled_triplets_andrey.csv"
+  # Output CSV with evaluation scores appended
+  output_file: "data/evaluated_triplets.csv"
+  # Reasoning effort for reasoning-capable models (low / medium / high)
+  reasoning_effort: "medium"
+  # Temperature (0 = deterministic). Ignored for o-series models.
+  temperature: 0.0
+  # Max concurrent requests (to avoid rate limits)
+  max_concurrent: 5
+  # Retry attempts on failure
+  max_retries: 3
+  # Whether to store the response on OpenAI servers
+  store: false

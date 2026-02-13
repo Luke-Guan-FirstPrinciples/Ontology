@@ -1,0 +1,257 @@
+(venv) firstprinciplesextralaptop2@FirstPrincipless-MacBook-Pro 0213_andrey_triplet_analysis % python3 evaluate_triplets.py --limit 20
+Loading triplets from /Users/firstprinciplesextralaptop2/code/2026/Ontology/0213_andrey_triplet_analysis/data/sampled_triplets_andrey.csv ...
+  Loaded 100 triplets
+  Limited to first 20 rows
+
+  Model: gpt-5.2
+  Reasoning effort: medium
+  Temperature: 0.0
+  Store: False
+
+Evaluating 20 triplets ...
+
+  [1/20] (octahedral rotations -> influences -> electronic properties)
+         Scores: sem=4 sci=4 spec=2 overall=3
+  [2/20] (event classification effort -> described_as -> current status)
+         Scores: sem=2 sci=3 spec=1 overall=2
+  [3/20] (cutoff -> required_by -> statistics)
+         Scores: sem=2 sci=2 spec=1 overall=2
+  [4/20] (surface Lebesgue measure -> is -> measure)
+         Scores: sem=4 sci=5 spec=2 overall=3
+  [5/20] (new pseudodistance -> derived_from -> averaging)
+         Scores: sem=3 sci=3 spec=2 overall=2
+  [6/20] (VLA observations -> provide -> average proper motion of region)
+         Scores: sem=4 sci=3 spec=2 overall=3
+  [7/20] (upper bound -> provided_on -> temperature)
+         Scores: sem=2 sci=3 spec=2 overall=2
+  [8/20] (melting temperature -> depends_on -> liquid droplet contact angle)
+         Scores: sem=4 sci=3 spec=3 overall=3
+  [9/20] (SLE -> related_to -> geometric exponents and conformal dimensions of CFTs)
+         Scores: sem=4 sci=4 spec=3 overall=3
+  [10/20] (phase separation -> occurs -> carbon atoms segregate to form graphite or metastable phases of carbon)
+         Scores: sem=3 sci=4 spec=3 overall=3
+  [11/20] (incidence angle -> opposite_to -> laser direction)
+         Scores: sem=2 sci=1 spec=2 overall=2
+  [12/20] (simulations -> performed_with -> values of normalized Planck constant)
+         Scores: sem=3 sci=3 spec=2 overall=3
+  [13/20] (observations -> compatible_with -> dynamics)
+         Scores: sem=3 sci=3 spec=1 overall=2
+  [14/20] (study -> generate -> seven numbers)
+         Scores: sem=2 sci=3 spec=1 overall=2
+  [15/20] (antiphase dynamics -> characterizes -> time traces)
+         Scores: sem=3 sci=3 spec=2 overall=3
+  [16/20] (SFR estimated from infrared data -> ranges consistent with -> results from optical studies)
+         Scores: sem=3 sci=4 spec=3 overall=3
+  [17/20] (LP-DMT signal -> composed_of -> 1024 subcarriers)
+         Scores: sem=5 sci=4 spec=4 overall=4
+  [18/20] (stars in the ring -> likely_originated_from -> tidally expelled material)
+         Scores: sem=4 sci=3 spec=3 overall=3
+  [19/20] (interpretation -> in terms of -> selection rules)
+         Scores: sem=3 sci=3 spec=2 overall=2
+  [20/20] (A-type antiferromagnetic -> corresponds_to -> spin arrangements)
+         Scores: sem=3 sci=4 spec=2 overall=3
+
+Saved evaluated triplets to /Users/firstprinciplesextralaptop2/code/2026/Ontology/0213_andrey_triplet_analysis/data/evaluated_triplets.csv
+
+════════════════════════════════════════════════════════════
+  EVALUATION SUMMARY
+════════════════════════════════════════════════════════════
+  Model:             gpt-5.2
+  Triplets evaluated: 20
+  Successful:        20
+  Errors:            0
+  Total input tokens:  12,638
+  Total output tokens: 3,742
+
+  Score                    Mean  Median    Std  Min  Max
+  ────────────────────── ────── ─────── ────── ──── ────
+  Semantic                 3.15     3.0   0.88    2    5
+  Scientific               3.25     3.0   0.85    1    5
+  Specificity              2.15     2.0   0.81    1    4
+  Overall                  2.65     3.0   0.59    2    4
+
+  Overall Score Distribution:
+    1:    0 (  0.0%) 
+    2:    8 ( 40.0%) ████████████████████
+    3:   11 ( 55.0%) ███████████████████████████
+    4:    1 (  5.0%) ██
+    5:    0 (  0.0%) 
+
+════════════════════════════════════════════════════════════
+(venv) firstprinciplesextralaptop2@FirstPrincipless-MacBook-Pro 0213_andrey_triplet_analysis % python3 evaluate_triplets.py --input data/sampled_triplets_rebel_quantph.csv --output data/evaluated_rebel_quantph.csv
+Loading triplets from /Users/firstprinciplesextralaptop2/code/2026/Ontology/0213_andrey_triplet_analysis/data/sampled_triplets_rebel_quantph.csv ...
+  Loaded 174 triplets
+
+  Model: gpt-5.2
+  Reasoning effort: medium
+  Temperature: 0.0
+  Store: False
+
+Evaluating 174 triplets ...
+
+  [1/174] (nonlinear effects -> results_in -> scalable Bell measurement scheme)
+         Scores: sem=3 sci=3 spec=3 overall=3
+  [2/174] (quantum information and communication -> part_of -> Bell measurements)
+^Z
+zsh: suspended  python3 evaluate_triplets.py --input data/sampled_triplets_rebel_quantph.csv 
+(venv) firstprinciplesextralaptop2@FirstPrincipless-MacBook-Pro 0213_andrey_triplet_analysis % python3 evaluate_triplets.py --input data/sampled_triplets_rebel_quantph.csv --output data/evaluated_rebel_quantph.csv --limit 20
+Loading triplets from /Users/firstprinciplesextralaptop2/code/2026/Ontology/0213_andrey_triplet_analysis/data/sampled_triplets_rebel_quantph.csv ...
+  Loaded 174 triplets
+  Limited to first 20 rows
+
+  Model: gpt-5.2
+  Reasoning effort: medium
+  Temperature: 0.0
+  Store: False
+
+Evaluating 20 triplets ...
+
+  [1/20] (nonlinear effects -> results_in -> scalable Bell measurement scheme)
+         Scores: sem=3 sci=3 spec=3 overall=3
+  [2/20] (quantum information and communication -> part_of -> Bell measurements)
+         Scores: sem=2 sci=1 spec=2 overall=1
+  [3/20] (qubit systems -> has_property -> linear optical components)
+         Scores: sem=2 sci=3 spec=2 overall=2
+  [4/20] (ancillary photons -> is_a -> quantum information and communication)
+         Scores: sem=2 sci=1 spec=1 overall=1
+  [5/20] (von Neumann entropy -> defined_by -> quantum information theory)
+         Scores: sem=3 sci=2 spec=2 overall=2
+  [6/20] (entropy -> measured_by -> analytically)
+         Scores: sem=1 sci=1 spec=1 overall=1
+  [7/20] (perturbation theory -> used_for -> calculating von Neumann entropy)
+         Scores: sem=4 sci=3 spec=3 overall=3
+  [8/20] (homological product -> is_a -> recipe)
+         Scores: sem=2 sci=2 spec=2 overall=2
+  [9/20] (quantum codes -> has_property -> arbitrary classical or quantum input codes)
+         Scores: sem=2 sci=2 spec=1 overall=2
+  [10/20] (classical linear codes -> part_of -> homological product codes)
+         Scores: sem=4 sci=2 spec=2 overall=2
+  [11/20] (structured homological product codes -> results_in -> logical operations)
+         Scores: sem=2 sci=2 spec=1 overall=2
+  [12/20] (automorphisms -> causes -> logical operations)
+         Scores: sem=2 sci=1 spec=2 overall=1
+  [13/20] (physical qubit permutations -> results_in -> logical operations)
+         Scores: sem=3 sci=3 spec=2 overall=3
+  [14/20] (subsystem circuit -> results_in -> logical operations)
+         Scores: sem=3 sci=3 spec=2 overall=3
+  [15/20] (quantum strategy -> is_a -> card game)
+         Scores: sem=4 sci=1 spec=2 overall=2
+  [16/20] (Du et al. -> has_author -> paper)
+         Scores: sem=2 sci=2 spec=1 overall=1
+  [17/20] (symmetry-breaking phase -> is_a -> phase)
+         Scores: sem=5 sci=4 spec=2 overall=3
+  [18/20] (thermalization hypothesis -> results_in -> emergence of symmetry-breaking phases)
+         Scores: sem=4 sci=2 spec=2 overall=2
+  [19/20] (initial conditions -> part_of -> symmetry-breaking equilibrium states)
+         Scores: sem=2 sci=2 spec=2 overall=2
+  [20/20] (Coulomb shift -> has_property -> negligible)
+         Scores: sem=3 sci=2 spec=2 overall=2
+
+Saved evaluated triplets to /Users/firstprinciplesextralaptop2/code/2026/Ontology/0213_andrey_triplet_analysis/data/evaluated_rebel_quantph.csv
+
+════════════════════════════════════════════════════════════
+  EVALUATION SUMMARY
+════════════════════════════════════════════════════════════
+  Model:             gpt-5.2
+  Triplets evaluated: 20
+  Successful:        20
+  Errors:            0
+  Total input tokens:  12,252
+  Total output tokens: 3,428
+
+  Score                    Mean  Median    Std  Min  Max
+  ────────────────────── ────── ─────── ────── ──── ────
+  Semantic                 2.75     2.5   1.02    1    5
+  Scientific               2.10     2.0   0.85    1    4
+  Specificity              1.85     2.0   0.59    1    3
+  Overall                  2.00     2.0   0.73    1    3
+
+  Overall Score Distribution:
+    1:    5 ( 25.0%) ████████████
+    2:   10 ( 50.0%) █████████████████████████
+    3:    5 ( 25.0%) ████████████
+    4:    0 (  0.0%) 
+    5:    0 (  0.0%) 
+
+════════════════════════════════════════════════════════════
+(venv) firstprinciplesextralaptop2@FirstPrincipless-MacBook-Pro 0213_andrey_triplet_analysis % python3 evaluate_triplets.py --input data/sampled_triplets_rebel_babel_quantph.csv --output data/evaluated_rebel_babel_quantph.csv --limit 20
+Loading triplets from /Users/firstprinciplesextralaptop2/code/2026/Ontology/0213_andrey_triplet_analysis/data/sampled_triplets_rebel_babel_quantph.csv ...
+  Loaded 60 triplets
+  Limited to first 20 rows
+
+  Model: gpt-5.2
+  Reasoning effort: medium
+  Temperature: 0.0
+  Store: False
+
+Evaluating 20 triplets ...
+
+  [1/20] (qubit -> use -> quantum information)
+         Scores: sem=3 sci=4 spec=2 overall=3
+  [2/20] (perturbation theory -> part of -> quantum information theory)
+         Scores: sem=4 sci=2 spec=2 overall=2
+  [3/20] (hypergraph product -> subclass of -> homological product code)
+         Scores: sem=3 sci=4 spec=3 overall=3
+  [4/20] (fairtoo -> instance of -> card game)
+         Scores: sem=4 sci=2 spec=3 overall=2
+  [5/20] (non-commuting -> instance of -> formalism)
+         Scores: sem=2 sci=2 spec=1 overall=2
+  [6/20] ($KK$ -> subclass of -> meson)
+         Scores: sem=2 sci=1 spec=2 overall=1
+  [7/20] (discord -> subclass of -> entanglement)
+         Scores: sem=4 sci=1 spec=3 overall=2
+  [8/20] (qubit -> part of -> classical circuit)
+         Scores: sem=4 sci=2 spec=2 overall=2
+  [9/20] (classical circuit -> has part -> qubit)
+         Scores: sem=4 sci=1 spec=3 overall=2
+  [10/20] (2BGA -> subclass of -> Abelian Two-Block Group Algebra)
+         Scores: sem=3 sci=2 spec=2 overall=2
+  [11/20] (two-state-two-mode -> subclass of -> steady state)
+         Scores: sem=2 sci=1 spec=2 overall=1
+  [12/20] (waveguide -> use -> quantum information science)
+         Scores: sem=2 sci=4 spec=2 overall=2
+  [13/20] (quantum experiment -> studies -> entangled)
+         Scores: sem=2 sci=2 spec=1 overall=2
+  [14/20] (entangled -> studied by -> quantum experiment)
+         Scores: sem=2 sci=3 spec=2 overall=2
+  [15/20] (maximally entangled state -> subclass of -> quantum state)
+         Scores: sem=5 sci=5 spec=4 overall=5
+  [16/20] (Toffoli gate -> use -> quantum circuit simulation)
+         Scores: sem=3 sci=4 spec=2 overall=3
+  [17/20] (congruent tori -> part of -> phase space)
+         Scores: sem=3 sci=3 spec=2 overall=3
+  [18/20] (qubit -> use -> quantum computer)
+         Scores: sem=2 sci=1 spec=2 overall=1
+  [19/20] (Pusey's noncontextuality inequality -> instance of -> PRA)
+         Scores: sem=2 sci=1 spec=2 overall=1
+  [20/20] (correlated environment -> subclass of -> quantum system)
+         Scores: sem=3 sci=2 spec=2 overall=2
+
+Saved evaluated triplets to /Users/firstprinciplesextralaptop2/code/2026/Ontology/0213_andrey_triplet_analysis/data/evaluated_rebel_babel_quantph.csv
+
+════════════════════════════════════════════════════════════
+  EVALUATION SUMMARY
+════════════════════════════════════════════════════════════
+  Model:             gpt-5.2
+  Triplets evaluated: 20
+  Successful:        20
+  Errors:            0
+  Total input tokens:  12,245
+  Total output tokens: 3,716
+
+  Score                    Mean  Median    Std  Min  Max
+  ────────────────────── ────── ─────── ────── ──── ────
+  Semantic                 2.95     3.0   0.94    2    5
+  Scientific               2.35     2.0   1.27    1    5
+  Specificity              2.20     2.0   0.70    1    4
+  Overall                  2.15     2.0   0.93    1    5
+
+  Overall Score Distribution:
+    1:    4 ( 20.0%) ██████████
+    2:   11 ( 55.0%) ███████████████████████████
+    3:    4 ( 20.0%) ██████████
+    4:    0 (  0.0%) 
+    5:    1 (  5.0%) ██
+
+════════════════════════════════════════════════════════════
+(venv) firstprinciplesextralaptop2@FirstPrincipless-MacBook-Pro 0213_andrey_triplet_analysis % 
